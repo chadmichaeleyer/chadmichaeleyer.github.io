@@ -11,13 +11,13 @@ tags :
 
 ## Biographical Sketch
 
-Chad Michael Eyer is a senior information technology major at the [University of West Florida](http://www.uwf.edu) in Pensacola, Florida. In addition to his major requirements, Chad has completed elective coursework in education, mathematics, sciences, social sciences, and music theory and performance. He is an alumnus of [Seminole State College of Florida](http://www.seminolestate.edu).
+Chad Michael Eyer is a senior engineering technology and information technology major at the [University of West Florida](http://www.uwf.edu) in Pensacola, Florida. In addition to his major requirements, Chad has completed elective coursework in education, mathematics, sciences, social sciences, and music theory and performance. He is an alumnus of [Seminole State College of Florida](http://www.seminolestate.edu).
 
 Chad has held various career positions in the education, hospitality, and technology industries. His areas of focus include sales strategy, operations and process analysis, data management, print and online communication, and customer service. He has designed and delivered on-the-job and facilitator-led training. Chad is an [Apple Certified Macintosh Technician](http://training.apple.com/certification/acmt).
 
-A past member of the [University of Central Florida Marching Knights](http://ucfbands.com/marching-knights/) and the [Walt Disney World Cast Choir](https://disneyworld.disney.go.com/events-tours/epcot/candlelight-processional/), Chad continues to make music part of his life. He is currently a performing member and executive officer of [Impact of Orlando Drum & Bugle Corps](http://www.impactoforlando.org), a non-profit corporation dedicated to community music education. Chad is also life member of [Kappa Kappa Psi](http://www.kkpsi.org), the national honorary band fraternity. Chad is also an avid runner and has completed five marathons, including Goofy’s Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
+A past member of the [University of Central Florida Marching Knights](http://ucfbands.com/marching-knights/) and the [Walt Disney World Cast Choir](https://disneyworld.disney.go.com/events-tours/epcot/candlelight-processional/), Chad continues to make music part of his life. He currently serves the music ministries of Oakland Presbyterian Church as a musician and music librarian. Chad is also life member of [Kappa Kappa Psi](http://www.kkpsi.org), the national honorary band fraternity. Chad is also an avid runner and has completed five marathons, including Goofy’s Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
 
-A Florida native, Chad lives and works on a small farm and citrus grove in Clermont, where he tends a menagerie of cats, chickens, and goats.
+A Florida native, Chad lives and works on a small farm and citrus grove in Minneola, where he tends a menagerie of cats, chickens, goats, and pigs.
 
 ## Contact Information
 
