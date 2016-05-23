@@ -15,13 +15,13 @@ Chad Michael Eyer is a senior engineering technology and information technology 
 
 Chad has held various career positions in the education, hospitality, and technology industries. His areas of focus include sales strategy, operations and process analysis, data management, print and online communication, and customer service. He has designed and delivered on-the-job and facilitator-led training. Chad is an [Apple Certified Macintosh Technician](http://training.apple.com/certification/acmt).
 
-A past member of the [University of Central Florida Marching Knights](http://ucfbands.com/marching-knights/) and the [Walt Disney World Cast Choir](https://disneyworld.disney.go.com/events-tours/epcot/candlelight-processional/), Chad continues to make music part of his life. He currently serves the music ministries of Oakland Presbyterian Church as a musician and music librarian. Chad is also life member of [Kappa Kappa Psi](http://www.kkpsi.org), the national honorary band fraternity. Chad is also an avid runner and has completed five marathons, including Goofy’s Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
+A past member of the [University of Central Florida Marching Knights](http://ucfbands.com/marching-knights/) and the [Walt Disney World Cast Choir](https://disneyworld.disney.go.com/events-tours/epcot/candlelight-processional/), Chad continues to make music part of his life. He currently serves the music ministries of [Oakland Presbyterian Church](http://www.oaklandpres,org) as a musician and music librarian. Chad is also life member of [Kappa Kappa Psi](http://www.kkpsi.org), the national honorary band fraternity. Chad is also an avid runner and has completed five marathons, including Goofy’s Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
 
 A Florida native, Chad lives and works on a small farm and citrus grove in Minneola, where he tends a menagerie of cats, chickens, goats, and pigs.
 
 ## Contact Information
 
-* [Download][vcf] contact information to your address book (vCard)
+<!-- >* [Download][vcf] contact information to your address book (vCard) -->
 
 | Name                          | Chad Michael Eyer                                    |
 | ----                          | -----------------                                    |
@@ -37,9 +37,13 @@ A Florida native, Chad lives and works on a small farm and citrus grove in Minne
 |                               | [Twitter][]                                          |
 
 
+<!--
+
 ## Calendar
 
 * [Subscribe][ics] to Chad's calendar (updated frequently)
+
+-->
 
 [vcf]:			http://athena.eyer.us/eyer.vcf			"vCard"
 [tel]:			tel:+13214223428						"telephone"
