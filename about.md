@@ -39,7 +39,7 @@ Calendar
 
 {% include_relative calendar.markdown %}
 
-#### more calendar options
+### more calendar options
 
 -   [Propose a meeting time]
 -   [View future calendar items]
