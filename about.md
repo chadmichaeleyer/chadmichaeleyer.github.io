@@ -64,5 +64,5 @@ Calendar
   [Skype]: skype://chadmichaeleyer "Skype"
   [Twitter]: https://twitter.com/eyer "Twitter"
   [Propose a meeting time]: http://freebusy.io/eyer@eyer.us
-  [View future calendar items]: calendar-year
+  [View future calendar items]: /calendar-year
   [vcf]: /eyer.vcf
