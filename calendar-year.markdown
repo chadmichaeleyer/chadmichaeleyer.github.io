@@ -1023,6 +1023,7 @@
 
 2017-06-12:
 
+* Tentative – Brahms Requiem at FUMCO
 * 07:00 - 08:30: Enterprise Support (AppleCare)
 * 08:45 - 11:00: Enterprise Support (AppleCare)
 * 12:00 - 13:45: Enterprise Support (AppleCare)
