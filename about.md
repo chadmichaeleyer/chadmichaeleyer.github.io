@@ -65,4 +65,4 @@ Calendar
   [Twitter]: https://twitter.com/eyer "Twitter"
   [Propose a meeting time]: http://freebusy.io/eyer@eyer.us
   [View future calendar items]: calendar-year
-  [vcf]: eyer.vcf
+  [vcf]: /eyer.vcf
