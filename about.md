@@ -20,6 +20,7 @@ Contact Information
 -------------------
 
 <!-- >* [Download][vcf] contact information to your address book (vCard) -->
+
 | Name             | Chad Michael Eyer                                                  |
 | ---------------- | ------------------------------------------------------------------ |
 | Email            | <eyer@eyer.us>                                                     |
@@ -40,7 +41,7 @@ Calendar
 
 #### more calendar options
 
--   [Find/propose a meeting time]
+-   [Propose a meeting time]
 -   [View future calendar items]
 
   [Student. Thinker. Learner. Leader. **Human.**]: /assets/human-wordle.jpg "Human wordle."
