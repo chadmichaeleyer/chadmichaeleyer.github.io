@@ -19,13 +19,13 @@ A Florida native, Chad lives and works on a small farm and citrus grove in Minne
 Contact Information
 -------------------
 
-<!-- >* [Download][vcf] contact information to your address book (vCard) -->
+* [Download][vcf] contact information to your address book
 
 | Name:            &nbsp; | Chad Michael Eyer                                                  |
 | ----------------------- | ------------------------------------------------------------------ |
 | Email:           &nbsp; | <eyer@eyer.us>                                                     |
 | Telephone:       &nbsp; | +1 (321) 422-3428 ([tel]) ([sms]) ([FaceTime])                     |
-| Facsimilie:      &nbsp; | +1 (815) 301-3995 ([fax])                                          |
+| Facsimile:       &nbsp; | +1 (815) 301-3995 ([fax])                                          |
 | Homepage:        &nbsp; | [www.eyer.us]                                                      |
 | Correspondence:  &nbsp; | 131 W Washington St \# 1845, PO Box 1845, Minneola FL 34755-1845   |
 | Social media:    &nbsp; | [Facebook]                                                         |
@@ -65,3 +65,4 @@ Calendar
   [Twitter]: https://twitter.com/eyer "Twitter"
   [Propose a meeting time]: http://freebusy.io/eyer@eyer.us
   [View future calendar items]: calendar-year
+  [vcf]: eyer.vcf
