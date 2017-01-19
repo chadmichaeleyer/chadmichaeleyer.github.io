@@ -37,13 +37,12 @@ A Florida native, Chad lives and works on a small farm and citrus grove in Minne
 |                               | [Twitter][]                                          |
 
 
-<!--
-
 ## Calendar
 
-* [Subscribe][ics] to Chad's calendar (updated frequently)
+{% include_relative calendar.markdown %}
 
--->
+
+
 
 [vcf]:			http://athena.eyer.us/eyer.vcf			"vCard"
 [tel]:			tel:+13214223428						"telephone"
