@@ -20,18 +20,18 @@ Contact Information
 -------------------
 
 <!-- >* [Download][vcf] contact information to your address book (vCard) -->
-  Name             Chad Michael Eyer
-  ---------------- ------------------------------------------------------------------
-  Email            <eyer@eyer.us>
-  Telephone        +1 (321) 422-3428 ([tel]) ([sms]) ([FaceTime])
-  Facsimilie       +1 (815) 301-3995 ([fax])
-  Homepage         [www.eyer.us]
-  Correspondence   131 W Washington St \# 1845, PO Box 1845, Minneola FL 34755-1845
-  Social media     [Facebook]
-                   [GitHub]
-                   [LinkedIn]
-                   [Skype]
-                   [Twitter]
+Name            |Chad Michael Eyer
+----------------|------------------------------------------------------------------
+Email           |<eyer@eyer.us>
+Telephone       |+1 (321) 422-3428 ([tel]) ([sms]) ([FaceTime])
+Facsimilie      |+1 (815) 301-3995 ([fax])
+Homepage        |[www.eyer.us]
+Correspondence  |131 W Washington St \# 1845, PO Box 1845, Minneola FL 34755-1845
+Social media    |[Facebook]
+                |[GitHub]
+                |[LinkedIn]
+                |[Skype]
+                |[Twitter]
 
 Calendar
 --------
