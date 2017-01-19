@@ -40,7 +40,7 @@ Calendar
 
 #### more calendar options
 
--   [Propose a meeting time]
+-   [Find/propose a meeting time]
 -   [View future calendar items]
 
   [Student. Thinker. Learner. Leader. **Human.**]: /assets/human-wordle.jpg "Human wordle."
