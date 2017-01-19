@@ -21,18 +21,18 @@ Contact Information
 
 <!-- >* [Download][vcf] contact information to your address book (vCard) -->
 
-| Name             | Chad Michael Eyer                                                  |
-| ---------------- | ------------------------------------------------------------------ |
-| Email            | <eyer@eyer.us>                                                     |
-| Telephone        | +1 (321) 422-3428 ([tel]) ([sms]) ([FaceTime])                     |
-| Facsimilie       | +1 (815) 301-3995 ([fax])                                          |
-| Homepage         | [www.eyer.us]                                                      |
-| Correspondence   | 131 W Washington St \# 1845, PO Box 1845, Minneola FL 34755-1845   |
-| Social media     | [Facebook]                                                         |
-|                  | [GitHub]                                                           |
-|                  | [LinkedIn]                                                         |
-|                  | [Skype]                                                            |
-|                  | [Twitter]                                                          |
+| Name:            &nbsp; | Chad Michael Eyer                                                  |
+| ----------------------- | ------------------------------------------------------------------ |
+| Email:           &nbsp; | <eyer@eyer.us>                                                     |
+| Telephone:       &nbsp; | +1 (321) 422-3428 ([tel]) ([sms]) ([FaceTime])                     |
+| Facsimilie:      &nbsp; | +1 (815) 301-3995 ([fax])                                          |
+| Homepage:        &nbsp; | [www.eyer.us]                                                      |
+| Correspondence:  &nbsp; | 131 W Washington St \# 1845, PO Box 1845, Minneola FL 34755-1845   |
+| Social media:    &nbsp; | [Facebook]                                                         |
+|                  &nbsp; | [GitHub]                                                           |
+|                  &nbsp; | [LinkedIn]                                                         |
+|                  &nbsp; | [Skype]                                                            |
+|                  &nbsp; | [Twitter]                                                          |
 
 Calendar
 --------
