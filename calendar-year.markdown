@@ -1,10 +1,3 @@
-2017-01-19:
-
-* 09:30 - 10:30: Physical Therapy
-* 11:30 - 13:00: Luncheon 
-* 18:30 - 19:30: Fellowship Dinner (Lodge 165)
-* 19:30 - 21:15: Stated Communication (Lodge 165)
-
 2017-01-20:
 
 * Inauguration Day
@@ -2262,5 +2255,9 @@
 * 07:00 - 21:30: AppleCare Advisor
 
 2018-01-19:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-01-20:
 
 * 07:00 - 21:30: AppleCare Advisor
