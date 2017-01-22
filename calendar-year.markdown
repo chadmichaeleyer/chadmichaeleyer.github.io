@@ -1,6 +1,8 @@
 2017-01-22:
 
+* 09:00 - 10:15: Not Attending – Enterprise Support (AppleCare)
 * 09:40 - 11:10: Office Visit (Urgent Care)
+* 10:30 - 12:30: Not Attending – Enterprise Support (AppleCare)
 * 13:30 - 14:00: Office Time (AppleCare)
 * 14:00 - 15:30: Enterprise Support (AppleCare)
 * 15:45 - 18:00: Enterprise Support (AppleCare)
@@ -253,6 +255,7 @@
 
 2017-02-25:
 
+* Tentative – TEDxOrlando
 * 09:00 - 10:45: Enterprise Support (AppleCare)
 * 11:00 - 12:30: Enterprise Support (AppleCare)
 * 13:30 - 14:30: Enterprise Support (AppleCare)
@@ -473,6 +476,7 @@
 
 2017-03-29:
 
+* Tentative – TEDxUSF
 * 07:00 - 08:30: Enterprise Support (AppleCare)
 * 08:45 - 11:00: Enterprise Support (AppleCare)
 * 12:00 - 13:45: Enterprise Support (AppleCare)
@@ -497,6 +501,7 @@
 
 2017-04-01:
 
+* Tentative – TEDxUF
 * April Fools’ Day
 * 09:00 - 12:00: Masters & Wardens Meeting
 
