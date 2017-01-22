@@ -30,11 +30,13 @@
 
 2017-01-25:
 
+* 09:00 - 19:00: Tentative – Future of Education Technology Conference
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-01-26:
 
+* 09:00 - 19:00: Tentative – Future of Education Technology Conference
 * 09:30 - 10:30: Physical Therapy
 * 11:00 - 12:00: Psychotherapy
 
@@ -138,6 +140,7 @@
 
 2017-02-08:
 
+* 12:45 - 14:45: Tentative – Villages Environmental Discussions Group
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -1963,6 +1966,7 @@
 
 2017-11-26:
 
+* Tentative – OUC Half Marathon
 * 07:00 - 21:30: AppleCare Advisor
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
