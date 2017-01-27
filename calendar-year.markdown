@@ -1,51 +1,8 @@
-2017-01-22:
-
-* 09:00 - 10:15: Not Attending – Enterprise Support (AppleCare)
-* 09:40 - 11:10: Office Visit (Urgent Care)
-* 10:30 - 12:30: Not Attending – Enterprise Support (AppleCare)
-* 13:30 - 14:00: Office Time (AppleCare)
-* 14:00 - 15:30: Enterprise Support (AppleCare)
-* 15:45 - 18:00: Enterprise Support (AppleCare)
-
-2017-01-23:
-
-* 09:00 - 10:30: Enterprise Support (AppleCare)
-* 10:45 - 13:30: Enterprise Support (AppleCare)
-* 14:30 - 15:45: Enterprise Support (AppleCare)
-* 16:30 - 17:30: Physical Therapy
-* 19:00 - 21:00: Ritual Rehearsal (Lodge 69)
-
-2017-01-24:
-
-* 09:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:00 - 15:30: Team Meeting (AppleCare)
-* 15:30 - 15:45: Enterprise Support (AppleCare)
-* 16:00 - 17:00: Enterprise Roundtable (AppleCare)
-* 17:00 - 17:30: Office Time (AppleCare)
-* 17:30 - 18:00: Enterprise Support (AppleCare)
-* 18:30 - 19:30: Fellowship (Lodge 69)
-* 19:30 - 21:15: Stated Communication (Lodge 69)
-
-2017-01-25:
-
-* 09:00 - 19:00: Tentative – Future of Education Technology Conference
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
-* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
-2017-01-26:
-
-* 09:00 - 19:00: Tentative – Future of Education Technology Conference
-* 09:30 - 10:30: Physical Therapy
-* 11:00 - 12:00: Psychotherapy
-
 2017-01-27:
 
 * 09:00 - 09:30: Enterprise Support (AppleCare)
 * 09:30 - 10:00: Office Time (AppleCare)
 * 10:15 - 12:30: Enterprise Support (AppleCare)
-* 12:30 - 13:00: Academic Coaching
 * 13:30 - 15:00: Enterprise Support (AppleCare)
 * 15:15 - 18:00: Enterprise Support (AppleCare)
 
@@ -83,11 +40,12 @@
 * 16:00 - 17:00: Enterprise Roundtable (AppleCare)
 * 17:00 - 17:30: Office Time (AppleCare)
 * 17:30 - 18:00: Enterprise Support (AppleCare)
-* 19:00 - 21:00: Tentative – Membership Seminar
+* 19:00 - 21:00: Tentative – Junior Grand Warden's Visit/Membership Seminar
 
 2017-02-01:
 
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 18:30 - 19:30: New Member Class (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-02-02:
@@ -141,12 +99,15 @@
 2017-02-08:
 
 * 12:45 - 14:45: Tentative – Villages Environmental Discussions Group
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 18:30 - 19:30: New Member Class (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-02-09:
 
 * 10:30 - 12:00: Tentative – Stated Communication 
+* 18:00 - 18:30: Dinner (Lake County Democratic Party)
+* 18:30 - 19:00: Dinner (Lake County Democratic Party)
 
 2017-02-10:
 
@@ -195,7 +156,8 @@
 
 2017-02-15:
 
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 18:30 - 19:30: New Member Class (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-02-17:
@@ -244,7 +206,8 @@
 
 2017-02-22:
 
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 18:30 - 19:30: New Member Class (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-02-24:
@@ -2249,5 +2212,30 @@
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
 2018-01-22:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-01-23:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
+* 18:30 - 19:30: Fellowship (Lodge 69)
+* 19:30 - 21:30: Stated Communication (Lodge 69)
+
+2018-01-24:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+2018-01-25:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-01-26:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-01-27:
 
 * 07:00 - 21:30: AppleCare Advisor
