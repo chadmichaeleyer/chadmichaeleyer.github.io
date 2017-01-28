@@ -205,7 +205,7 @@
 
 2017-02-23:
 
-* 16:30 - 17:30: Office Visit (Physician)
+* 16:30 - 17:30: Office Visit (Family Practice)
 
 2017-02-24:
 
