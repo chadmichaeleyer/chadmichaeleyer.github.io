@@ -1,13 +1,3 @@
-2017-01-27:
-
-* 09:00 - 09:30: Not Attending – Enterprise Support (AppleCare)
-* 09:30 - 10:00: Not Attending – Office Time (AppleCare)
-* 10:15 - 12:30: Not Attending – Enterprise Support (AppleCare)
-* 11:30 - 12:30: Office Visit (Physician)
-* 12:30 - 13:00: Not Attending – Academic Coaching
-* 13:30 - 15:00: Not Attending – Enterprise Support (AppleCare)
-* 15:15 - 18:00: Not Attending – Enterprise Support (AppleCare)
-
 2017-01-28:
 
 * 09:00 - 10:45: Enterprise Support (AppleCare)
@@ -2246,3 +2236,9 @@
 2018-01-27:
 
 * 07:00 - 21:30: AppleCare Advisor
+
+2018-01-28:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)

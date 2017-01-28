@@ -1,25 +1,23 @@
 ### today:
 
-* 09:00 - 09:30: Not Attending – Enterprise Support (AppleCare)
-* 09:30 - 10:00: Not Attending – Office Time (AppleCare)
-* 10:15 - 12:30: Not Attending – Enterprise Support (AppleCare)
-* 11:30 - 12:30: Office Visit (Physician)
-* 12:30 - 13:00: Not Attending – Academic Coaching
-* 13:30 - 15:00: Not Attending – Enterprise Support (AppleCare)
-* 15:15 - 18:00: Not Attending – Enterprise Support (AppleCare)
-
-### tomorrow:
-
 * 09:00 - 10:45: Enterprise Support (AppleCare)
 * 11:00 - 12:30: Enterprise Support (AppleCare)
 * 13:30 - 14:30: Enterprise Support (AppleCare)
 * 14:30 - 15:00: Office Time (AppleCare)
 * 15:15 - 18:00: Enterprise Support (AppleCare)
 
-### day after tomorrow:
+### tomorrow:
 
 * 09:00 - 10:15: Enterprise Support (AppleCare)
 * 10:30 - 12:30: Enterprise Support (AppleCare)
 * 13:30 - 14:00: Office Time (AppleCare)
 * 14:00 - 15:30: Enterprise Support (AppleCare)
 * 15:45 - 18:00: Enterprise Support (AppleCare)
+
+### day after tomorrow:
+
+* 09:00 - 10:30: Enterprise Support (AppleCare)
+* 10:45 - 13:30: Enterprise Support (AppleCare)
+* 14:30 - 15:45: Enterprise Support (AppleCare)
+* 16:00 - 18:00: Enterprise Support (AppleCare)
+* 19:30 - 22:00: Entered Apprentice Degree (Lodge 243)
