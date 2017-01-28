@@ -1,11 +1,12 @@
 ### today:
 
-* 09:00 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:15 - 12:30: Enterprise Support (AppleCare)
-* 12:30 - 13:00: Academic Coaching
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:15 - 18:00: Enterprise Support (AppleCare)
+* 09:00 - 09:30: Not Attending – Enterprise Support (AppleCare)
+* 09:30 - 10:00: Not Attending – Office Time (AppleCare)
+* 10:15 - 12:30: Not Attending – Enterprise Support (AppleCare)
+* 11:30 - 12:30: Office Visit (Physician)
+* 12:30 - 13:00: Not Attending – Academic Coaching
+* 13:30 - 15:00: Not Attending – Enterprise Support (AppleCare)
+* 15:15 - 18:00: Not Attending – Enterprise Support (AppleCare)
 
 ### tomorrow:
 

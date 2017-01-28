@@ -1,11 +1,12 @@
 2017-01-27:
 
-* 09:00 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:15 - 12:30: Enterprise Support (AppleCare)
-* 12:30 - 13:00: Academic Coaching
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:15 - 18:00: Enterprise Support (AppleCare)
+* 09:00 - 09:30: Not Attending – Enterprise Support (AppleCare)
+* 09:30 - 10:00: Not Attending – Office Time (AppleCare)
+* 10:15 - 12:30: Not Attending – Enterprise Support (AppleCare)
+* 11:30 - 12:30: Office Visit (Physician)
+* 12:30 - 13:00: Not Attending – Academic Coaching
+* 13:30 - 15:00: Not Attending – Enterprise Support (AppleCare)
+* 15:15 - 18:00: Not Attending – Enterprise Support (AppleCare)
 
 2017-01-28:
 
@@ -84,6 +85,7 @@
 * 10:45 - 13:30: Enterprise Support (AppleCare)
 * 14:30 - 15:45: Enterprise Support (AppleCare)
 * 16:00 - 18:00: Enterprise Support (AppleCare)
+* 19:00 - 21:00: Ritual Rehearsal (Lodge 69)
 
 2017-02-07:
 
@@ -210,6 +212,10 @@
 * 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
 * 18:30 - 19:30: New Member Class (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+2017-02-23:
+
+* 16:30 - 17:30: Office Visit (Physician)
 
 2017-02-24:
 
