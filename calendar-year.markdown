@@ -1,19 +1,3 @@
-2017-01-29:
-
-* 09:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 14:00: Office Time (AppleCare)
-* 14:00 - 15:30: Enterprise Support (AppleCare)
-* 15:45 - 18:00: Enterprise Support (AppleCare)
-
-2017-01-30:
-
-* 09:00 - 10:30: Enterprise Support (AppleCare)
-* 10:45 - 13:30: Enterprise Support (AppleCare)
-* 14:30 - 15:45: Enterprise Support (AppleCare)
-* 16:00 - 18:00: Enterprise Support (AppleCare)
-* 19:30 - 22:00: Entered Apprentice Degree (Lodge 243)
-
 2017-01-31:
 
 * 09:00 - 10:15: Enterprise Support (AppleCare)
@@ -24,7 +8,7 @@
 * 16:00 - 17:00: Enterprise Roundtable (AppleCare)
 * 17:00 - 17:30: Office Time (AppleCare)
 * 17:30 - 18:00: Enterprise Support (AppleCare)
-* 19:00 - 21:00: Tentative – Junior Grand Warden's Visit/Membership Seminar
+* 19:00 - 21:00: Not Attending – Junior Grand Warden's Visit/Membership Seminar
 
 2017-02-01:
 
@@ -164,8 +148,7 @@
 
 2017-02-19:
 
-* 09:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 12:30: Enterprise Support (AppleCare)
+* 07:00 - 12:00: Cherry Lake Farm Duathlon & 10K
 * 13:30 - 14:00: Office Time (AppleCare)
 * 14:00 - 15:30: Enterprise Support (AppleCare)
 * 15:45 - 18:00: Enterprise Support (AppleCare)
@@ -2303,3 +2286,13 @@
 2018-01-29:
 
 * 07:00 - 21:30: AppleCare Advisor
+
+2018-01-30:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-01-31:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
