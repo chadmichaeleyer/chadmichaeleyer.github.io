@@ -1,10 +1,3 @@
-2017-02-01:
-
-* 13:00 - 14:00: Lunch 
-* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
-* 18:30 - 19:30: New Member Class (Oakland Presbyterian)
-* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
 2017-02-02:
 
 * Groundhog Day
@@ -2288,4 +2281,9 @@
 
 2018-02-01:
 
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-02:
+
+* Groundhog Day
 * 07:00 - 21:30: AppleCare Advisor
