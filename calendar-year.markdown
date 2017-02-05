@@ -1,24 +1,3 @@
-2017-02-02:
-
-* Groundhog Day
-
-2017-02-03:
-
-* 09:00 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:15 - 12:30: Enterprise Support (AppleCare)
-* 12:30 - 13:00: Academic Coaching
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:15 - 18:00: Enterprise Support (AppleCare)
-
-2017-02-04:
-
-* 09:00 - 10:45: Enterprise Support (AppleCare)
-* 11:00 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 14:30: Enterprise Support (AppleCare)
-* 14:30 - 15:00: Office Time (AppleCare)
-* 15:15 - 18:00: Enterprise Support (AppleCare)
-
 2017-02-05:
 
 * 09:00 - 10:15: Enterprise Support (AppleCare)
@@ -26,6 +5,7 @@
 * 13:30 - 14:00: Office Time (AppleCare)
 * 14:00 - 15:30: Enterprise Support (AppleCare)
 * 15:45 - 18:00: Enterprise Support (AppleCare)
+* 20:00 - 22:30: Not Attending – Ritual of the First Degree (Kappa Kappa Psi)
 
 2017-02-06:
 
@@ -2286,4 +2266,19 @@
 2018-02-02:
 
 * Groundhog Day
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-03:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 12:00: Masters & Wardens Meeting
+
+2018-02-04:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+2018-02-05:
+
 * 07:00 - 21:30: AppleCare Advisor
