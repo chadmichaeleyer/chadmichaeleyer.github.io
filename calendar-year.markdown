@@ -1,127 +1,10 @@
-2017-02-05:
-
-* 09:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 14:00: Office Time (AppleCare)
-* 14:00 - 15:30: Enterprise Support (AppleCare)
-* 15:45 - 18:00: Enterprise Support (AppleCare)
-* 20:00 - 22:30: Not Attending – Ritual of the First Degree (Kappa Kappa Psi)
-
-2017-02-06:
-
-* 09:00 - 10:30: Enterprise Support (AppleCare)
-* 10:45 - 13:30: Enterprise Support (AppleCare)
-* 14:30 - 15:45: Enterprise Support (AppleCare)
-* 16:00 - 18:00: Enterprise Support (AppleCare)
-* 19:00 - 21:00: Ritual Rehearsal (Lodge 69)
-
-2017-02-07:
-
-* 09:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:00 - 15:30: Team Meeting (AppleCare)
-* 15:30 - 15:45: Enterprise Support (AppleCare)
-* 16:00 - 17:00: Enterprise Roundtable (AppleCare)
-* 17:00 - 17:30: Office Time (AppleCare)
-* 17:30 - 18:00: Enterprise Support (AppleCare)
-* 19:00 - 21:30: Fellowcraft Degree (Lodge 69)
-
-2017-02-08:
-
-* 12:45 - 14:45: Tentative – Villages Environmental Discussions Group
-* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
-* 18:30 - 19:30: New Member Class (Oakland Presbyterian)
-* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
-2017-02-09:
-
-* 10:30 - 12:00: Tentative – Stated Communication 
-* 18:00 - 18:30: Dinner (Lake County Democratic Party)
-* 18:30 - 19:00: Dinner (Lake County Democratic Party)
-
-2017-02-10:
-
-* 09:00 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:15 - 12:30: Enterprise Support (AppleCare)
-* 12:30 - 13:00: Academic Coaching
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:15 - 18:00: Enterprise Support (AppleCare)
-
-2017-02-11:
-
-* 09:00 - 10:45: Enterprise Support (AppleCare)
-* 11:00 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 14:30: Enterprise Support (AppleCare)
-* 14:30 - 15:00: Office Time (AppleCare)
-* 15:15 - 18:00: Enterprise Support (AppleCare)
-
-2017-02-12:
-
-* 09:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 14:00: Office Time (AppleCare)
-* 14:00 - 15:30: Enterprise Support (AppleCare)
-* 15:45 - 18:00: Enterprise Support (AppleCare)
-
-2017-02-13:
-
-* 09:00 - 10:30: Enterprise Support (AppleCare)
-* 10:45 - 13:30: Enterprise Support (AppleCare)
-* 14:30 - 15:45: Enterprise Support (AppleCare)
-* 16:00 - 18:00: Enterprise Support (AppleCare)
-
-2017-02-14:
-
-* Valentine’s Day
-* 09:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:00 - 15:30: Team Meeting (AppleCare)
-* 15:30 - 15:45: Enterprise Support (AppleCare)
-* 16:00 - 17:00: Enterprise Roundtable (AppleCare)
-* 17:00 - 17:30: Office Time (AppleCare)
-* 17:30 - 18:00: Enterprise Support (AppleCare)
-* 19:30 - 21:30: Tentative – Stated Communication 
-
-2017-02-15:
-
-* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
-* 18:30 - 19:30: New Member Class (Oakland Presbyterian)
-* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
-2017-02-17:
-
-* 09:00 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:15 - 12:30: Enterprise Support (AppleCare)
-* 12:30 - 13:00: Academic Coaching
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:15 - 18:00: Enterprise Support (AppleCare)
-
-2017-02-18:
-
-* 09:00 - 10:45: Enterprise Support (AppleCare)
-* 11:00 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 14:30: Enterprise Support (AppleCare)
-* 14:30 - 15:00: Office Time (AppleCare)
-* 15:15 - 18:00: Enterprise Support (AppleCare)
-
-2017-02-19:
-
-* 07:00 - 12:00: Cherry Lake Farm Duathlon & 10K
-* 13:30 - 14:00: Office Time (AppleCare)
-* 14:00 - 15:30: Enterprise Support (AppleCare)
-* 15:45 - 18:00: Enterprise Support (AppleCare)
-
 2017-02-20:
 
 * Presidents’ Day
-* 09:00 - 10:30: Enterprise Support (AppleCare)
-* 10:45 - 13:30: Enterprise Support (AppleCare)
-* 14:30 - 15:45: Enterprise Support (AppleCare)
-* 16:00 - 18:00: Enterprise Support (AppleCare)
+* 09:00 - 10:30: Not Attending – Enterprise Support (AppleCare)
+* 10:45 - 13:30: Not Attending – Enterprise Support (AppleCare)
+* 14:30 - 15:45: Not Attending – Enterprise Support (AppleCare)
+* 16:00 - 18:00: Not Attending – Enterprise Support (AppleCare)
 
 2017-02-21:
 
@@ -210,46 +93,51 @@
 
 2017-03-06:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-07:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-08:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-03-09:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-10:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
 * 12:30 - 13:00: Academic Coaching
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-11:
 
@@ -264,50 +152,55 @@
 
 2017-03-13:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-14:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-03-15:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-03-16:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-17:
 
 * Saint Patrick’s Day
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
 * 12:30 - 13:00: Academic Coaching
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-19:
 
@@ -316,47 +209,51 @@
 
 2017-03-20:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-21:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-22:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:10 - 12:40: Dental Hygiene
-* 13:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-03-23:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-24:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
 * 12:30 - 13:00: Academic Coaching
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-26:
 
@@ -365,18 +262,19 @@
 
 2017-03-27:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-28:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -384,31 +282,35 @@
 2017-03-29:
 
 * Tentative – TEDxUSF
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-03-30:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-03-31:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
 * 12:30 - 13:00: Academic Coaching
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-01:
 
@@ -442,51 +344,57 @@
 
 2017-04-10:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
+* 16:20 - 17:00: Dental Hygiene
 
 2017-04-11:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-04-12:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-04-13:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 19:00 - 19:30: Rehearsal—Sanctuary Choir
 * 19:30 - 21:00: Worship (Tenebrae Service)
 
 2017-04-14:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
 * 12:30 - 13:00: Academic Coaching
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-16:
 
@@ -496,47 +404,52 @@
 
 2017-04-17:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-18:
 
 * Tax Day
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-19:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-04-20:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-21:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
 * 12:30 - 13:00: Academic Coaching
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-22:
 
@@ -549,49 +462,54 @@
 
 2017-04-24:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-25:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-04-26:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-04-27:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-28:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
 * 12:30 - 13:00: Academic Coaching
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-04-30:
 
@@ -600,46 +518,51 @@
 
 2017-05-01:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-02:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-03:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-05-04:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-05:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
 * 12:30 - 13:00: Academic Coaching
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-06:
 
@@ -652,48 +575,53 @@
 
 2017-05-08:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-09:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-05-10:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-05-11:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-12:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-13:
 
@@ -708,45 +636,50 @@
 
 2017-05-15:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-16:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-17:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-05-18:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-19:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-21:
 
@@ -755,48 +688,53 @@
 
 2017-05-22:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-23:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-05-24:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-05-25:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-26:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-28:
 
@@ -806,45 +744,50 @@
 2017-05-29:
 
 * Memorial Day
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-30:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-05-31:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-06-01:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-02:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-03:
 
@@ -857,45 +800,50 @@
 
 2017-06-05:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-06:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-07:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-06-08:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-09:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-10:
 
@@ -910,18 +858,19 @@
 2017-06-12:
 
 * Tentative – Brahms Requiem at FUMCO
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-13:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -929,30 +878,34 @@
 2017-06-14:
 
 * Flag Day
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-06-15:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-16:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-18:
 
@@ -962,45 +915,50 @@
 
 2017-06-19:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-20:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-21:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-06-22:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-23:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-25:
 
@@ -1009,48 +967,53 @@
 
 2017-06-26:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-27:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-06-28:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-06-29:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-06-30:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-01:
 
@@ -1063,46 +1026,51 @@
 
 2017-07-03:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-04:
 
 * Independence Day
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-05:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-07-06:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-07:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-08:
 
@@ -1116,48 +1084,53 @@
 
 2017-07-10:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-11:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-07-12:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-07-13:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-14:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-16:
 
@@ -1166,45 +1139,50 @@
 
 2017-07-17:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-18:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-19:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-07-20:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-21:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-23:
 
@@ -1213,48 +1191,53 @@
 
 2017-07-24:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-25:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-07-26:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-07-27:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-28:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-07-30:
 
@@ -1263,45 +1246,50 @@
 
 2017-07-31:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-01:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-02:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-08-03:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-04:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-05:
 
@@ -1314,48 +1302,53 @@
 
 2017-08-07:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-08:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-08-09:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-08-10:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-11:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-12:
 
@@ -1369,45 +1362,50 @@
 
 2017-08-14:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-15:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-16:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-08-17:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-18:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-20:
 
@@ -1416,48 +1414,53 @@
 
 2017-08-21:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-22:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 2017-08-23:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-08-24:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-25:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-27:
 
@@ -1466,45 +1469,50 @@
 
 2017-08-28:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-29:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-08-30:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:30: Enterprise Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 2017-08-31:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:00: Enterprise Support (AppleCare)
-* 14:00 - 14:30: Office Time (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 
 2017-09-01:
 
-* 07:00 - 08:30: Enterprise Support (AppleCare)
-* 08:45 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 15:15: Enterprise Support (AppleCare)
-* 15:15 - 15:45: Office Time (AppleCare)
-* 15:45 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 2017-09-02:
 
@@ -2280,5 +2288,80 @@
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
 2018-02-05:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-06:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-07:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+2018-02-08:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-09:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-10:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 08:00 - 11:00: Breakfast (Lodge 69)
+
+2018-02-11:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+2018-02-12:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-13:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
+* 18:30 - 19:30: Fellowship Dinner (Lodge 69)
+* 19:30 - 21:30: Stated Communication (Lodge 69)
+
+2018-02-14:
+
+* Valentine’s Day
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+2018-02-15:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-16:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-17:
+
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-18:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+2018-02-19:
+
+* Presidents’ Day
+* 07:00 - 21:30: AppleCare Advisor
+
+2018-02-20:
 
 * 07:00 - 21:30: AppleCare Advisor
