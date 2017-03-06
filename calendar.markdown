@@ -1,24 +1,27 @@
 ### today:
 
-* Presidents’ Day
-* 09:00 - 10:30: Not Attending – Enterprise Support (AppleCare)
-* 10:45 - 13:30: Not Attending – Enterprise Support (AppleCare)
-* 14:30 - 15:45: Not Attending – Enterprise Support (AppleCare)
-* 16:00 - 18:00: Not Attending – Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 
 ### tomorrow:
 
-* 09:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 12:30: Enterprise Support (AppleCare)
-* 13:30 - 15:00: Enterprise Support (AppleCare)
-* 15:00 - 15:30: Team Meeting (AppleCare)
-* 15:30 - 15:45: Enterprise Support (AppleCare)
-* 16:00 - 17:00: Enterprise Roundtable (AppleCare)
-* 17:00 - 17:30: Office Time (AppleCare)
-* 17:30 - 18:00: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:45: Enterprise Support (AppleCare)
+* 11:45 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 17:15 - 18:30: Investigations Committee
 
 ### day after tomorrow:
 
-* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
-* 18:30 - 19:30: New Member Class (Oakland Presbyterian)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
