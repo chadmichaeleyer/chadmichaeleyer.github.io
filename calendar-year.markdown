@@ -4,6 +4,7 @@
 * 09:30 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
+* 16:00 - 17:00: Tangelo and Grapefruit Harvesting
 
 2017-03-07:
 

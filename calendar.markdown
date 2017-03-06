@@ -4,6 +4,7 @@
 * 09:30 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
+* 16:00 - 17:00: Tangelo and Grapefruit Harvesting
 
 ### tomorrow:
 
@@ -13,6 +14,7 @@
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:30: Investigations Committee
+* 17:30 - 19:00: Not Attending – Shannon Elswick Campaign Information Session
 
 ### day after tomorrow:
 
