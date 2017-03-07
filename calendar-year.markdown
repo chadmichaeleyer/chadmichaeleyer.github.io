@@ -1,11 +1,3 @@
-2017-03-06:
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:45: Enterprise Support (AppleCare)
-* 11:45 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
-* 16:00 - 17:00: Tangelo and Grapefruit Harvesting
-
 2017-03-07:
 
 * 07:00 - 09:15: Enterprise Support (AppleCare)
@@ -38,6 +30,7 @@
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
 * 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
+* 17:00 - 17:30: Manual Therapy
 
 2017-03-10:
 
@@ -2310,3 +2303,9 @@
 2018-03-06:
 
 * 07:00 - 21:30: AppleCare Advisor
+
+2018-03-07:
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
