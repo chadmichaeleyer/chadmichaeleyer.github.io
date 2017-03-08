@@ -1,12 +1,4 @@
-2017-03-07:
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:45: Enterprise Support (AppleCare)
-* 11:45 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
-* 17:15 - 18:30: Investigations Committee
-* 17:30 - 19:00: Not Attending – Shannon Elswick Campaign Information Session
+all times EST (UTC-0500)
 
 2017-03-08:
 
@@ -187,7 +179,6 @@
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 17:00 - 18:00: Nordquist
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -201,6 +192,7 @@
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
 * 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
+* 16:45 - 17:45: Nordquist
 
 2017-03-31:
 
@@ -2309,3 +2301,7 @@
 * 07:00 - 21:30: AppleCare Advisor
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+2018-03-08:
+
+* 07:00 - 21:30: AppleCare Advisor
