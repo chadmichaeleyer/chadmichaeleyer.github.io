@@ -30,7 +30,7 @@ all times EST (UTC-0500)
 * Daylight Saving Time
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-* 13:30 - 17:00: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 16:00 - 19:00: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-03-13 (Mon):
 
