@@ -11,7 +11,8 @@ all times EST (UTC-0500)
 ### 2017-03-11 (Sat):
 
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
-* 08:00 - 11:00: Breakfast (Lodge 69)
+* 08:00 - 10:00: Breakfast (Lodge 69)
+* 18:00 - 21:00: Taste In Mount Dora
 
 ### 2017-03-12 (Sun):
 
