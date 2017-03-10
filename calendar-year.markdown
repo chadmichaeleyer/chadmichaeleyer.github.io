@@ -1,17 +1,5 @@
 all times EST (UTC-0500)
 
-### 2017-03-09 (Thu):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 12:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:00 - 14:00: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
-* 17:00 - 17:30: Physical Therapy/Manual
-
 ### 2017-03-10 (Fri):
 
 * 07:00 - 09:00: Enterprise Support (AppleCare)
@@ -2298,3 +2286,9 @@ all times EST (UTC-0500)
 ### 2018-03-09 (Fri):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-03-10 (Sat):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 08:00 - 11:00: Breakfast (Lodge 69)
