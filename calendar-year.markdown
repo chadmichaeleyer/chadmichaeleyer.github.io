@@ -7,6 +7,7 @@ all times EST (UTC-0500)
 * 10:00 - 10:30: Office Time (AppleCare)
 * 11:30 - 13:30: Enterprise Support (AppleCare)
 * 13:45 - 16:00: Enterprise Support (AppleCare)
+* 17:30 - 18:30: Happy Hour (One Yoga & Fitness)
 
 ### 2017-03-11 (Sat):
 
