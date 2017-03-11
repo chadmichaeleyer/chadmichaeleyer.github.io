@@ -1,14 +1,5 @@
 all times EST (UTC-0500)
 
-### 2017-03-10 (Fri):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:30: Enterprise Support (AppleCare)
-* 13:45 - 16:00: Enterprise Support (AppleCare)
-* 17:30 - 18:30: Happy Hour (One Yoga & Fitness)
-
 ### 2017-03-11 (Sat):
 
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
@@ -2294,3 +2285,10 @@ all times EST (UTC-0500)
 * 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 08:00 - 11:00: Breakfast (Lodge 69)
+
+### 2018-03-11 (Sun):
+
+* Daylight Saving Time
+* 07:00 - 21:30: AppleCare Advisor
+* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
