@@ -1,4 +1,4 @@
-all times EST (UTC-0500)
+all times EDT (UTC-0400)
 
 ### 2017-03-12 (Sun):
 
