@@ -110,6 +110,10 @@ all times EDT (UTC-0400)
 * 11:30 - 13:30: Enterprise Support (AppleCare)
 * 13:45 - 16:00: Enterprise Support (AppleCare)
 
+### 2017-03-25 (Sat):
+
+* 17:00 - 18:00: Roxana's birthday
+
 ### 2017-03-26 (Sun):
 
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
