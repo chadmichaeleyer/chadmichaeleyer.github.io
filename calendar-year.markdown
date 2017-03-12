@@ -1,11 +1,5 @@
 all times EST (UTC-0500)
 
-### 2017-03-11 (Sat):
-
-* 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
-* 08:00 - 10:00: Breakfast (Lodge 69)
-* 18:00 - 21:00: Taste In Mount Dora
-
 ### 2017-03-12 (Sun):
 
 * Daylight Saving Time
@@ -2292,3 +2286,7 @@ all times EST (UTC-0500)
 * 07:00 - 21:30: AppleCare Advisor
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-03-12 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
