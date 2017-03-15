@@ -2,12 +2,13 @@ all times EDT (UTC-0400)
 
 ### 2017-03-15 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
-* 10:15 - 10:45: Office Time (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:45: Monthly 1:1 (AppleCare) 
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Office Time (AppleCare)
+* 14:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -56,8 +57,8 @@ all times EDT (UTC-0400)
 
 ### 2017-03-22 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -115,8 +116,8 @@ all times EDT (UTC-0400)
 ### 2017-03-29 (Wed):
 
 * Tentative – TEDxUSF
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -193,8 +194,8 @@ all times EDT (UTC-0400)
 
 ### 2017-04-12 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -249,8 +250,8 @@ all times EDT (UTC-0400)
 
 ### 2017-04-19 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -307,8 +308,8 @@ all times EDT (UTC-0400)
 
 ### 2017-04-26 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -358,8 +359,8 @@ all times EDT (UTC-0400)
 
 ### 2017-05-03 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -410,8 +411,8 @@ all times EDT (UTC-0400)
 
 ### 2017-05-10 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -468,8 +469,8 @@ all times EDT (UTC-0400)
 
 ### 2017-05-17 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -522,8 +523,8 @@ all times EDT (UTC-0400)
 
 ### 2017-05-24 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -574,8 +575,8 @@ all times EDT (UTC-0400)
 
 ### 2017-05-31 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -630,8 +631,8 @@ all times EDT (UTC-0400)
 
 ### 2017-06-07 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -692,8 +693,8 @@ all times EDT (UTC-0400)
 ### 2017-06-14 (Wed):
 
 * Flag Day
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -744,8 +745,8 @@ all times EDT (UTC-0400)
 
 ### 2017-06-21 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -798,8 +799,8 @@ all times EDT (UTC-0400)
 
 ### 2017-06-28 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -855,8 +856,8 @@ all times EDT (UTC-0400)
 
 ### 2017-07-05 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -915,8 +916,8 @@ all times EDT (UTC-0400)
 
 ### 2017-07-12 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -966,8 +967,8 @@ all times EDT (UTC-0400)
 
 ### 2017-07-19 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -1020,8 +1021,8 @@ all times EDT (UTC-0400)
 
 ### 2017-07-26 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -1071,8 +1072,8 @@ all times EDT (UTC-0400)
 
 ### 2017-08-02 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -1129,8 +1130,8 @@ all times EDT (UTC-0400)
 
 ### 2017-08-09 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -1185,8 +1186,8 @@ all times EDT (UTC-0400)
 
 ### 2017-08-16 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -1239,8 +1240,8 @@ all times EDT (UTC-0400)
 
 ### 2017-08-23 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
@@ -1290,8 +1291,8 @@ all times EDT (UTC-0400)
 
 ### 2017-08-30 (Wed):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
