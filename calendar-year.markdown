@@ -40,6 +40,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
+* 17:00 - 17:30: Physical Therapy/Manual
 * 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-03-22 (Wed):
@@ -64,6 +65,7 @@ all times EDT (UTC-0400)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
 * 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
+* 17:00 - 17:30: Physical Therapy/Manual
 
 ### 2017-03-24 (Fri):
 
