@@ -1,17 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-03-16 (Thu):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 12:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:00 - 14:00: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
-* 17:00 - 17:30: Physical Therapy/Manual
-
 ### 2017-03-17 (Fri):
 
 * Saint Patrick’s Day
@@ -2279,4 +2267,9 @@ all times EDT (UTC-0400)
 
 ### 2018-03-16 (Fri):
 
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-03-17 (Sat):
+
+* Saint Patrick’s Day
 * 07:00 - 21:30: AppleCare Advisor
