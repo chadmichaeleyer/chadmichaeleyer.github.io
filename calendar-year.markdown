@@ -1,14 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-03-17 (Fri):
-
-* Saint Patrick’s Day
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:30: Enterprise Support (AppleCare)
-* 13:45 - 16:00: Enterprise Support (AppleCare)
-
 ### 2017-03-19 (Sun):
 
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -2273,3 +2264,9 @@ all times EDT (UTC-0400)
 
 * Saint Patrick’s Day
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-03-18 (Sun):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
