@@ -125,6 +125,10 @@ all times EDT (UTC-0400)
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-04-03 (Mon):
+
+* 18:30 - 23:00: Potomac Lodge No. 5, F.A.A.M.
+
 ### 2017-04-05 (Wed):
 
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
