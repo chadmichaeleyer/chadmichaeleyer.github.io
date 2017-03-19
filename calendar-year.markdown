@@ -2270,3 +2270,7 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-03-19 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
