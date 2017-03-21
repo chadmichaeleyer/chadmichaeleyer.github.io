@@ -7,7 +7,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 17:00 - 17:30: Physical Therapy/Manual
+* 17:00 - 18:30: Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-03-22 (Wed):
@@ -44,7 +44,7 @@ all times EDT (UTC-0400)
 
 ### 2017-03-25 (Sat):
 
-* 17:00 - 18:00: Roxana's birthday
+* 17:00 - 18:00: Birthday Party 
 
 ### 2017-03-26 (Sun):
 
