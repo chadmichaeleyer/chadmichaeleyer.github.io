@@ -1,12 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-03-20 (Mon):
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:45: Enterprise Support (AppleCare)
-* 11:45 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
-
 ### 2017-03-21 (Tue):
 
 * 07:00 - 09:15: Enterprise Support (AppleCare)
@@ -2277,3 +2270,9 @@ all times EDT (UTC-0400)
 ### 2018-03-20 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-03-21 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
