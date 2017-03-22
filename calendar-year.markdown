@@ -825,17 +825,9 @@ all times EDT (UTC-0400)
 * 11:00 - 12:30: Tentative – Worship, Traditional Service (Oakland Presbyterian)
 * 16:00 - 19:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
-### 2017-07-03 (Mon):
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:45: Enterprise Support (AppleCare)
-
 ### 2017-07-04 (Tue):
 
 * Independence Day
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:45: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-07-05 (Wed):
