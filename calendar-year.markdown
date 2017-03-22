@@ -55,7 +55,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
+* 17:15 - 18:15: Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -96,21 +96,46 @@ all times EDT (UTC-0400)
 
 * April Fools’ Day
 * Tentative – TEDxUF
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 06:50 - 08:55: Flight: B6 2324 from MCO to DCA
+* 09:00 - 12:00: Not Attending – Masters & Wardens Meeting
 
 ### 2017-04-02 (Sun):
 
-* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+* 10:30 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Not Attending – Worship, Traditional Service (Oakland Presbyterian)
 
 ### 2017-04-03 (Mon):
 
 * 18:30 - 23:00: Potomac Lodge No. 5, F.A.A.M.
 
+### 2017-04-04 (Tue):
+
+* 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
+
 ### 2017-04-05 (Wed):
 
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 18:30 - 19:30: Not Attending – Music Library Work (Oakland Presbyterian)
+* 18:50 - 21:13: Flight: B6 2323 from DCA to MCO
+* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2017-04-06 (Thu):
+
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
+
+### 2017-04-07 (Fri):
+
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 13:30: Enterprise Support (AppleCare)
+* 13:45 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-04-08 (Sat):
 
@@ -121,14 +146,14 @@ all times EDT (UTC-0400)
 
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-* 13:30 - 17:00: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 16:00 - 19:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-04-10 (Mon):
 
 * 07:00 - 09:15: Enterprise Support (AppleCare)
 * 09:30 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
+* 14:45 - 15:30: Enterprise Support (AppleCare)
 * 16:20 - 17:00: Dental Hygiene
 
 ### 2017-04-11 (Tue):
@@ -138,7 +163,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
+* 17:15 - 18:15: Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -196,7 +221,6 @@ all times EDT (UTC-0400)
 * 10:00 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-04-19 (Wed):
 
@@ -207,8 +231,9 @@ all times EDT (UTC-0400)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-04-20 (Thu):
 
@@ -317,6 +342,7 @@ all times EDT (UTC-0400)
 * 13:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-05-04 (Thu):
@@ -415,7 +441,6 @@ all times EDT (UTC-0400)
 * 10:00 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-05-17 (Wed):
 
@@ -426,8 +451,9 @@ all times EDT (UTC-0400)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-05-18 (Thu):
 
@@ -510,10 +536,6 @@ all times EDT (UTC-0400)
 ### 2017-05-29 (Mon):
 
 * Memorial Day
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:45: Enterprise Support (AppleCare)
-* 11:45 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-05-30 (Tue):
 
@@ -533,6 +555,7 @@ all times EDT (UTC-0400)
 * 13:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-06-01 (Thu):
@@ -563,6 +586,7 @@ all times EDT (UTC-0400)
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 * 13:30 - 17:00: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 16:00 - 19:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-06-05 (Mon):
 
@@ -637,7 +661,6 @@ all times EDT (UTC-0400)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
-* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 ### 2017-06-14 (Wed):
@@ -650,8 +673,9 @@ all times EDT (UTC-0400)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-06-15 (Thu):
 
@@ -756,8 +780,9 @@ all times EDT (UTC-0400)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-06-29 (Thu):
 
@@ -786,7 +811,7 @@ all times EDT (UTC-0400)
 
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-* 13:30 - 17:00: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 16:00 - 19:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-07-03 (Mon):
 
@@ -844,14 +869,11 @@ all times EDT (UTC-0400)
 
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+* 14:00 - 16:00: Exhibition, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-07-10 (Mon):
 
 * Exhibition, Bahia Shrine Drum and Bugle Corps
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:45: Enterprise Support (AppleCare)
-* 11:45 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-07-11 (Tue):
 
