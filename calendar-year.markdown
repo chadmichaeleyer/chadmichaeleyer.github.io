@@ -98,6 +98,7 @@ all times EDT (UTC-0400)
 * Tentative – TEDxUF
 * 06:50 - 08:55: Flight: B6 2324 from MCO to DCA
 * 09:00 - 12:00: Not Attending – Masters & Wardens Meeting
+* 09:00 - 12:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-04-02 (Sun):
 
@@ -139,8 +140,9 @@ all times EDT (UTC-0400)
 
 ### 2017-04-08 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
-* 08:00 - 11:00: Breakfast (Lodge 69)
+* 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
+* 08:00 - 11:00: Not Attending – Breakfast (Lodge 69)
+* 09:00 - 12:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-04-09 (Sun):
 
@@ -585,7 +587,6 @@ all times EDT (UTC-0400)
 
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-* 13:30 - 17:00: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 16:00 - 19:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-06-05 (Mon):
