@@ -71,6 +71,7 @@ all times EDT (UTC-0400)
 * 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 * 16:45 - 17:45: Office Visit (Physician)
+* 17:30 - 18:00: Physical Therapy/Manual
 
 ### 2017-03-31 (Fri):
 
