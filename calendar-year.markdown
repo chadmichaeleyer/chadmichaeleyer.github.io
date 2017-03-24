@@ -768,7 +768,7 @@ all times EDT (UTC-0400)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:00 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
-* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
+* 17:00 - 18:00: Music Library Work (Oakland Presbyterian)
 * 18:30 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
