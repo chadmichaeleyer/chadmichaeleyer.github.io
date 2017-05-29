@@ -2,12 +2,11 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:45: Enterprise Support (AppleCare)
-* 11:45 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
-* 17:00 - 19:00: Dinner 
-* 19:30 - 21:00: Yin Yoga
+* Memorial Day
+* 08:00 - 10:15: Enterprise Support (AppleCare)
+* 10:30 - 11:45: Enterprise Support (AppleCare)
+* 12:45 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 17:00: Enterprise Support (AppleCare)
 
 ### tomorrow:
 
@@ -17,9 +16,7 @@ all times EDT (UTC-0400)
 * 11:30 - 13:15: Enterprise Support (AppleCare)
 * 13:30 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
-* 18:30 - 19:30: Fellowship (Lodge 69)
-* 19:30 - 21:30: Stated Communication (Lodge 69)
+* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### day after tomorrow:
 
@@ -28,6 +25,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 16:00: Enterprise Support (AppleCare)
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 17:00 - 18:00: Music Library Work (Oakland Presbyterian)
+* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
