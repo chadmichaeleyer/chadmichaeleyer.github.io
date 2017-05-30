@@ -1,20 +1,8 @@
 all times EDT (UTC-0400)
 
-### 2017-05-29 (Mon):
-
-* Memorial Day
-* 08:00 - 10:15: Enterprise Support (AppleCare)
-* 10:30 - 11:45: Enterprise Support (AppleCare)
-* 12:45 - 14:00: Enterprise Support (AppleCare)
-* 14:15 - 17:00: Enterprise Support (AppleCare)
-
 ### 2017-05-30 (Tue):
 
 * 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
@@ -2161,3 +2149,9 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
+
+### 2018-05-30 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
