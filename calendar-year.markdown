@@ -1,11 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-05-30 (Tue):
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
-
 ### 2017-05-31 (Wed):
 
 * 07:00 - 09:00: Enterprise Support (AppleCare)
@@ -2155,3 +2149,7 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2018-05-31 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
