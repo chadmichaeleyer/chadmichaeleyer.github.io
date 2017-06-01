@@ -1,18 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-05-31 (Wed):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:15: Enterprise Support (AppleCare)
-* 10:15 - 10:45: Office Time (AppleCare)
-* 11:45 - 12:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
-* 17:00 - 18:00: Music Library Work (Oakland Presbyterian)
-* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
-* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
 ### 2017-06-01 (Thu):
 
 * 07:00 - 09:00: Enterprise Support (AppleCare)
@@ -2151,5 +2138,9 @@ all times EDT (UTC-0400)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-31 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-06-01 (Fri):
 
 * 07:00 - 21:30: AppleCare Advisor
