@@ -1,87 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-06-01 (Thu):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:30: Enterprise Support (AppleCare)
-* 13:00 - 14:30: Clerk Reception (Lake County Elections)
-
-### 2017-06-02 (Fri):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:30: Enterprise Support (AppleCare)
-* 13:45 - 16:00: Enterprise Support (AppleCare)
-
-### 2017-06-03 (Sat):
-
-* 09:00 - 12:00: Not Attending – Masters & Wardens Meeting
-
-### 2017-06-04 (Sun):
-
-* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-* 16:30 - 18:00: Rehearsal, Bahia Shrine Drum and Bugle Corps
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
-
-### 2017-06-05 (Mon):
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:45: Enterprise Support (AppleCare)
-* 11:45 - 14:30: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Enterprise Support (AppleCare)
-
-### 2017-06-06 (Tue):
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
-* 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
-* 18:30 - 19:30: Fellowship Dinner (Lodge 69)
-* 19:30 - 21:30: Fellowcraft Degree (Lodge 69)
-
-### 2017-06-07 (Wed):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:15: Enterprise Support (AppleCare)
-* 10:15 - 10:45: Office Time (AppleCare)
-* 11:45 - 12:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
-* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
-### 2017-06-08 (Thu):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 12:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
-
-### 2017-06-09 (Fri):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:30: Enterprise Support (AppleCare)
-* 13:45 - 16:00: Enterprise Support (AppleCare)
-
-### 2017-06-10 (Sat):
-
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
-* 08:00 - 11:00: Breakfast (Lodge 69)
-
 ### 2017-06-11 (Sun):
 
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -89,7 +7,6 @@ all times EDT (UTC-0400)
 
 ### 2017-06-12 (Mon):
 
-* Tentative – Brahms Requiem at FUMCO
 * 07:00 - 09:15: Enterprise Support (AppleCare)
 * 09:30 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
@@ -117,8 +34,8 @@ all times EDT (UTC-0400)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:15 - 14:15: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
-* 17:30 - 18:30: Music Library Work (Oakland Presbyterian)
-* 19:00 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
+* 17:00 - 18:00: Music Library Work (Oakland Presbyterian)
+* 18:30 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-06-15 (Thu):
@@ -140,11 +57,16 @@ all times EDT (UTC-0400)
 * 11:30 - 13:30: Enterprise Support (AppleCare)
 * 13:45 - 16:00: Enterprise Support (AppleCare)
 
+### 2017-06-17 (Sat):
+
+* 08:30 - 12:00: Educating the Educator
+
 ### 2017-06-18 (Sun):
 
 * Father’s Day
 * 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+* 17:00 - 19:00: Dinner 
 
 ### 2017-06-19 (Mon):
 
@@ -204,6 +126,7 @@ all times EDT (UTC-0400)
 * 09:30 - 10:45: Enterprise Support (AppleCare)
 * 11:45 - 14:30: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
+* 18:00 - 21:00: Master Mason Degree
 
 ### 2017-06-27 (Tue):
 
@@ -324,6 +247,8 @@ all times EDT (UTC-0400)
 ### 2017-07-10 (Mon):
 
 * Exhibition, Bahia Shrine Drum and Bugle Corps
+* Exhibition, Bahia Shrine Drum and Bugle Corps
+* 14:00 - 21:00: Exhibition, Bahia Shrine Drum and Bugle Corps
 
 ### 2017-07-11 (Tue):
 
@@ -2142,5 +2067,55 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-06-01 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-06-02 (Sat):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 12:00: Masters & Wardens Meeting
+
+### 2018-06-03 (Sun):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-06-04 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-06-05 (Tue):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
+
+### 2018-06-06 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2018-06-07 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-06-08 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-06-09 (Sat):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 08:00 - 11:00: Breakfast (Lodge 69)
+
+### 2018-06-10 (Sun):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-06-11 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
