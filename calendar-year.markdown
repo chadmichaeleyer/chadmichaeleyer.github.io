@@ -1,24 +1,22 @@
 all times EDT (UTC-0400)
 
-### 2017-06-11 (Sun):
-
-* 10:30 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
 ### 2017-06-12 (Mon):
 
 * 07:00 - 09:15: Enterprise Support (AppleCare)
 * 09:30 - 10:45: Enterprise Support (AppleCare)
-* 11:45 - 14:30: Enterprise Support (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 14:00: Apple Event (AppleCare)
+* 14:00 - 14:15: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-06-13 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -32,8 +30,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 17:00 - 18:00: Music Library Work (Oakland Presbyterian)
 * 18:30 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -46,7 +44,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-06-16 (Fri):
@@ -77,11 +75,12 @@ all times EDT (UTC-0400)
 
 ### 2017-06-20 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-06-21 (Wed):
@@ -91,8 +90,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -104,7 +103,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-06-23 (Fri):
@@ -130,7 +129,12 @@ all times EDT (UTC-0400)
 
 ### 2017-06-27 (Tue):
 
-* 09:00 - 15:00: Lake County Water School
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -143,8 +147,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 17:00 - 18:00: Music Library Work (Oakland Presbyterian)
 * 18:30 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -157,7 +161,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-06-30 (Fri):
@@ -193,24 +197,23 @@ all times EDT (UTC-0400)
 * Independence Day
 * 07:00 - 09:00: Enterprise Support (AppleCare)
 * 09:15 - 10:15: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:15 - 14:15: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 23:30 - ...: Assignment Completion
 
 ### 2017-07-05 (Wed):
 
-* ... - 04:30: Assignment Completion
 * 07:00 - 09:00: Enterprise Support (AppleCare)
 * 09:15 - 10:15: Enterprise Support (AppleCare)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Tentative – Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Tentative – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -222,7 +225,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-07-07 (Fri):
@@ -252,11 +255,12 @@ all times EDT (UTC-0400)
 
 ### 2017-07-11 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 16:00 - 17:00: Individual Psychotherapy 
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -270,8 +274,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -283,7 +287,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-07-14 (Fri):
@@ -309,11 +313,12 @@ all times EDT (UTC-0400)
 
 ### 2017-07-18 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-07-19 (Wed):
@@ -323,8 +328,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -336,7 +341,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-07-21 (Fri):
@@ -361,11 +366,12 @@ all times EDT (UTC-0400)
 
 ### 2017-07-25 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -378,8 +384,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -391,7 +397,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-07-28 (Fri):
@@ -416,11 +422,12 @@ all times EDT (UTC-0400)
 
 ### 2017-08-01 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-08-02 (Wed):
@@ -430,8 +437,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -443,7 +450,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-08-04 (Fri):
@@ -472,11 +479,12 @@ all times EDT (UTC-0400)
 
 ### 2017-08-08 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -489,8 +497,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -502,7 +510,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-08-11 (Fri):
@@ -532,11 +540,12 @@ all times EDT (UTC-0400)
 
 ### 2017-08-15 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-08-16 (Wed):
@@ -546,8 +555,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -559,7 +568,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-08-18 (Fri):
@@ -584,11 +593,12 @@ all times EDT (UTC-0400)
 
 ### 2017-08-22 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -601,8 +611,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -614,7 +624,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-08-25 (Fri):
@@ -639,11 +649,12 @@ all times EDT (UTC-0400)
 
 ### 2017-08-29 (Tue):
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:30: Enterprise Support (AppleCare)
+* 09:30 - 10:00: Office Time (AppleCare)
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 16:00: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-08-30 (Wed):
@@ -653,8 +664,8 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
+* 13:00 - 14:30: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Enterprise Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -666,7 +677,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Enterprise Support (AppleCare)
 * 11:30 - 12:00: Enterprise Support (AppleCare)
 * 12:00 - 13:00: Enterprise Roundtable (AppleCare)
-* 13:15 - 14:15: Enterprise Support (AppleCare)
+* 13:00 - 14:00: Enterprise Support (AppleCare)
 * 14:15 - 16:00: Enterprise Support (AppleCare)
 
 ### 2017-09-01 (Fri):
@@ -696,6 +707,7 @@ all times EDT (UTC-0400)
 ### 2017-09-05 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-09-06 (Wed):
@@ -731,6 +743,7 @@ all times EDT (UTC-0400)
 ### 2017-09-12 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -767,6 +780,7 @@ all times EDT (UTC-0400)
 ### 2017-09-19 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-09-20 (Wed):
@@ -800,6 +814,7 @@ all times EDT (UTC-0400)
 ### 2017-09-26 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -836,6 +851,7 @@ all times EDT (UTC-0400)
 ### 2017-10-03 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 18:15 - 20:15: Assignment Completion
 
@@ -872,6 +888,7 @@ all times EDT (UTC-0400)
 ### 2017-10-10 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -911,6 +928,7 @@ all times EDT (UTC-0400)
 ### 2017-10-17 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-10-18 (Wed):
@@ -944,6 +962,7 @@ all times EDT (UTC-0400)
 ### 2017-10-24 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -981,6 +1000,7 @@ all times EDT (UTC-0400)
 
 * Halloween
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-11-01 (Wed):
@@ -1017,6 +1037,7 @@ all times EDT (UTC-0400)
 
 * Election Day
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-11-08 (Wed):
@@ -1054,6 +1075,7 @@ all times EDT (UTC-0400)
 ### 2017-11-14 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1090,6 +1112,7 @@ all times EDT (UTC-0400)
 ### 2017-11-21 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-11-22 (Wed):
@@ -1125,6 +1148,7 @@ all times EDT (UTC-0400)
 ### 2017-11-28 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -1161,6 +1185,7 @@ all times EDT (UTC-0400)
 ### 2017-12-05 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-12-06 (Wed):
@@ -1196,6 +1221,7 @@ all times EDT (UTC-0400)
 ### 2017-12-12 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1233,6 +1259,7 @@ all times EDT (UTC-0400)
 ### 2017-12-19 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-12-20 (Wed):
@@ -1267,6 +1294,7 @@ all times EDT (UTC-0400)
 ### 2017-12-26 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -1304,6 +1332,7 @@ all times EDT (UTC-0400)
 ### 2018-01-02 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-01-03 (Wed):
@@ -1338,6 +1367,7 @@ all times EDT (UTC-0400)
 ### 2018-01-09 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1377,6 +1407,7 @@ all times EDT (UTC-0400)
 ### 2018-01-16 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-01-17 (Wed):
@@ -1410,6 +1441,7 @@ all times EDT (UTC-0400)
 ### 2018-01-23 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -1446,6 +1478,7 @@ all times EDT (UTC-0400)
 ### 2018-01-30 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-01-31 (Wed):
@@ -1481,6 +1514,7 @@ all times EDT (UTC-0400)
 ### 2018-02-06 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-02-07 (Wed):
@@ -1516,6 +1550,7 @@ all times EDT (UTC-0400)
 ### 2018-02-13 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1554,6 +1589,7 @@ all times EDT (UTC-0400)
 ### 2018-02-20 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-02-21 (Wed):
@@ -1587,6 +1623,7 @@ all times EDT (UTC-0400)
 ### 2018-02-27 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -1624,6 +1661,7 @@ all times EDT (UTC-0400)
 ### 2018-03-06 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-03-07 (Wed):
@@ -1660,6 +1698,7 @@ all times EDT (UTC-0400)
 ### 2018-03-13 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1697,6 +1736,7 @@ all times EDT (UTC-0400)
 ### 2018-03-20 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-03-21 (Wed):
@@ -1730,6 +1770,7 @@ all times EDT (UTC-0400)
 ### 2018-03-27 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -1768,6 +1809,7 @@ all times EDT (UTC-0400)
 ### 2018-04-03 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-04-04 (Wed):
@@ -1802,6 +1844,7 @@ all times EDT (UTC-0400)
 ### 2018-04-10 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1841,6 +1884,7 @@ all times EDT (UTC-0400)
 
 * Tax Day
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-04-18 (Wed):
@@ -1875,6 +1919,7 @@ all times EDT (UTC-0400)
 ### 2018-04-24 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -1911,6 +1956,7 @@ all times EDT (UTC-0400)
 ### 2018-05-01 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-05-02 (Wed):
@@ -1945,6 +1991,7 @@ all times EDT (UTC-0400)
 ### 2018-05-08 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1984,6 +2031,7 @@ all times EDT (UTC-0400)
 ### 2018-05-15 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-05-16 (Wed):
@@ -2017,6 +2065,7 @@ all times EDT (UTC-0400)
 ### 2018-05-22 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -2054,6 +2103,7 @@ all times EDT (UTC-0400)
 ### 2018-05-29 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-05-30 (Wed):
@@ -2088,6 +2138,7 @@ all times EDT (UTC-0400)
 ### 2018-06-05 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-06-06 (Wed):
@@ -2119,3 +2170,12 @@ all times EDT (UTC-0400)
 ### 2018-06-11 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-06-12 (Tue):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 10:30: Enterprise Support (AppleCare)
+* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
+* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
+* 18:30 - 19:30: Fellowship Dinner (Lodge 69)
+* 19:30 - 21:30: Stated Communication (Lodge 69)
