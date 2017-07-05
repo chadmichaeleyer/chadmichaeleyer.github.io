@@ -2,11 +2,16 @@ all times EDT (UTC-0400)
 
 ### 2017-07-05 (Wed):
 
-* 07:00 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 09:15: Work
 * 09:15 - 09:30: Break
+* 09:30 - 10:15: Work
 * 10:15 - 10:45: Offline
+* 10:45 - 11:45: Lunch
+* 11:45 - 12:00: Work
 * 12:00 - 13:00: Team Meeting
+* 13:00 - 13:15: Work
 * 13:15 - 13:30: Break
+* 13:30 - 16:00: Work
 * 17:00 - 18:00: Not Attending – Music Library Work (Oakland Presbyterian)
 * 18:30 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
