@@ -15,11 +15,12 @@ all times EDT (UTC-0400)
 
 ### tomorrow:
 
-* 07:00 - 10:30: Enterprise Support (AppleCare)
+* 07:00 - 10:30: AppleCare Advisor
+* 10:30 - 16:00: Not Attending – AppleCare Advisor
 * 15:00 - 16:00: Healthcare Appointment 
 * 16:00 - 16:30: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### day after tomorrow:
 
-* 07:00 - 16:00: Enterprise Support (AppleCare)
+* 07:00 - 16:00: AppleCare Advisor
