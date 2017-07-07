@@ -338,8 +338,8 @@ all times EDT (UTC-0400)
 
 ### 2017-09-09 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2017-09-10 (Sun):
 
@@ -521,8 +521,8 @@ all times EDT (UTC-0400)
 
 ### 2017-10-14 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2017-10-15 (Sun):
 
@@ -668,8 +668,8 @@ all times EDT (UTC-0400)
 ### 2017-11-11 (Sat):
 
 * Veterans Day
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2017-11-12 (Sun):
 
@@ -813,8 +813,8 @@ all times EDT (UTC-0400)
 
 ### 2017-12-09 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2017-12-10 (Sun):
 
@@ -997,8 +997,8 @@ all times EDT (UTC-0400)
 
 ### 2018-01-13 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-01-14 (Sun):
 
@@ -1140,8 +1140,8 @@ all times EDT (UTC-0400)
 
 ### 2018-02-10 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-02-11 (Sun):
 
@@ -1286,8 +1286,8 @@ all times EDT (UTC-0400)
 
 ### 2018-03-10 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-03-11 (Sun):
 
@@ -1401,8 +1401,8 @@ all times EDT (UTC-0400)
 
 ### 2018-04-01 (Sun):
 
-* Easter
 * April Fools’ Day
+* Easter
 * 07:00 - 21:30: AppleCare Advisor
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
@@ -1471,8 +1471,8 @@ all times EDT (UTC-0400)
 
 ### 2018-04-14 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-04-15 (Sun):
 
@@ -1617,8 +1617,8 @@ all times EDT (UTC-0400)
 
 ### 2018-05-12 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-05-13 (Sun):
 
@@ -1760,8 +1760,8 @@ all times EDT (UTC-0400)
 
 ### 2018-06-09 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-06-10 (Sun):
 
