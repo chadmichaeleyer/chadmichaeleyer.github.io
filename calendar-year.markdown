@@ -1,30 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-05 (Wed):
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 10:15: Enterprise Support (AppleCare)
-* 10:15 - 10:45: Office Time (AppleCare)
-* 11:45 - 12:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:00 - 13:15: Enterprise Support (AppleCare)
-* 13:30 - 16:00: Enterprise Support (AppleCare)
-* 16:30 - 17:00: Healthcare Appointment 
-* 17:00 - 18:00: Not Attending – Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 18:30 - 21:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
-* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
-### 2017-07-06 (Thu):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 09:30: Enterprise Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:30: Enterprise Support (AppleCare)
-* 10:30 - 16:00: Not Attending – AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
-* 16:00 - 16:30: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
-
 ### 2017-07-07 (Fri):
 
 * 07:00 - 09:00: Enterprise Support (AppleCare)
@@ -1924,3 +1899,12 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 15:00 - 16:00: Healthcare Appointment 
+
+### 2018-07-06 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-07-07 (Sat):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 12:00: Masters & Wardens Meeting
