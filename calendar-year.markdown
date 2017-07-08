@@ -10,8 +10,9 @@ all times EDT (UTC-0400)
 
 ### 2017-07-08 (Sat):
 
-* 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
-* 07:30 - 09:00: Clermont Waterfront parkrun
+* 07:15 - 09:00: Clermont Waterfront parkrun
+* 09:15 - 11:00: Errands
+* 12:45 - 13:45: Not Attending – Kitchen Preparation (Lodge 69)
 
 ### 2017-07-09 (Sun):
 
