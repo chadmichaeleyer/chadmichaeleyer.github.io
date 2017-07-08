@@ -1,18 +1,10 @@
 all times EDT (UTC-0400)
 
-### 2017-07-07 (Fri):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:00: Enterprise Support (AppleCare)
-* 10:00 - 10:30: Office Time (AppleCare)
-* 11:30 - 13:30: Enterprise Support (AppleCare)
-* 13:45 - 16:00: Enterprise Support (AppleCare)
-
 ### 2017-07-08 (Sat):
 
+* 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
 * 07:15 - 09:00: Clermont Waterfront parkrun
 * 09:15 - 11:00: Errands
-* 12:45 - 13:45: Not Attending – Kitchen Preparation (Lodge 69)
 
 ### 2017-07-09 (Sun):
 
@@ -1927,3 +1919,9 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 09:00 - 12:00: Masters & Wardens Meeting
+
+### 2018-07-08 (Sun):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
