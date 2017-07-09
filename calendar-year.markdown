@@ -1,11 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-08 (Sat):
-
-* 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
-* 07:15 - 09:00: Clermont Waterfront parkrun
-* 09:15 - 11:00: Errands
-
 ### 2017-07-09 (Sun):
 
 * 10:30 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -1925,3 +1919,7 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-07-09 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
