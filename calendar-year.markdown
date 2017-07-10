@@ -1,14 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-09 (Sun):
-
-* 10:30 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Not Attending – Worship, Traditional Service (Oakland Presbyterian)
-* 13:30 - 14:15: Rehearsal, Bahia Shrine Drum and Bugle Corps
-* 15:00 - 15:45: Shrine Imperial Opening Ceremony
-* 17:15 - 19:30: Rehearsal, Bahia Shrine Drum and Bugle Corps
-* 19:30 - 21:00: Exhibition, Bahia Shrine Drum and Bugle Corps
-
 ### 2017-07-10 (Mon):
 
 * 07:00 - 16:00: Not Attending – AppleCare Advisor
@@ -1923,3 +1914,11 @@ all times EDT (UTC-0400)
 ### 2018-07-09 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-07-10 (Tue):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
+* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
+* 18:30 - 19:30: Fellowship Dinner (Lodge 69)
+* 19:30 - 21:30: Stated Communication (Lodge 69)
