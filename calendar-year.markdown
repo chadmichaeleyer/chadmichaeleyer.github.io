@@ -1,12 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-10 (Mon):
-
-* 07:00 - 16:00: Not Attending – AppleCare Advisor
-* 12:00 - 13:30: Exhibition, Bahia Shrine Drum and Bugle Corps
-* 17:30 - 19:00: Ainad Temple BBQ, Bahia Shrine Drum and Bugle Corps
-* 20:00 - 21:00: Ballyhoo, Bahia Shrine Drum and Bugle Corps
-
 ### 2017-07-11 (Tue):
 
 * 07:00 - 09:00: Enterprise Support (AppleCare)
@@ -1922,3 +1915,9 @@ all times EDT (UTC-0400)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
+
+### 2018-07-11 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
