@@ -2,7 +2,7 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 07:00 - 08:15: Not Attending – AppleCare Advisor
+* 07:00 - 16:00: Not Attending – AppleCare Advisor
 * 15:00 - 16:00: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
