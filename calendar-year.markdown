@@ -4,7 +4,6 @@ all times EDT (UTC-0400)
 
 * 07:00 - 16:00: Not Attending – AppleCare Advisor
 * 15:00 - 16:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-07-14 (Fri):
 
@@ -36,6 +35,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 16:00: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
+* 17:15 - 17:45: Healthcare Appointment 
 * 19:30 - 21:00: National Intercollegiate Band Concert
 
 ### 2017-07-19 (Wed):
