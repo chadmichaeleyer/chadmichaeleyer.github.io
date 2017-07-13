@@ -1,16 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-12 (Wed):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 12:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:00 - 14:00: Enterprise Town Hall (AppleCare)
-* 14:15 - 16:00: Enterprise Support (AppleCare)
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
 ### 2017-07-13 (Thu):
 
 * 07:00 - 09:00: Enterprise Support (AppleCare)
@@ -1913,3 +1902,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 15:00 - 16:00: Healthcare Appointment 
+
+### 2018-07-13 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
