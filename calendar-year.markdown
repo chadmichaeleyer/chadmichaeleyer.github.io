@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-13 (Thu):
-
-* 07:00 - 16:00: Not Attending – AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
-
 ### 2017-07-14 (Fri):
 
 * 07:00 - 09:00: Enterprise Support (AppleCare)
@@ -1900,4 +1895,9 @@ all times EDT (UTC-0400)
 
 ### 2018-07-13 (Fri):
 
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-07-14 (Sat):
+
+* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 07:00 - 21:30: AppleCare Advisor
