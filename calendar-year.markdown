@@ -2,8 +2,7 @@ all times EDT (UTC-0400)
 
 ### 2017-07-15 (Sat):
 
-* 07:30 - 09:00: Clermont Waterfront parkrun
-* 09:30 - 10:00: Bank of America Appointment
+* 20:00 - 21:30: Clermont Waterfront parkrun
 
 ### 2017-07-16 (Sun):
 
@@ -85,6 +84,7 @@ all times EDT (UTC-0400)
 ### 2017-07-29 (Sat):
 
 * 07:30 - 09:00: Clermont Waterfront parkrun
+* 09:00 - 09:30: Bank of America Appointment
 
 ### 2017-07-30 (Sun):
 
