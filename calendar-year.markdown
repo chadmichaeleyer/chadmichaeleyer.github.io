@@ -4,8 +4,8 @@ all times EDT (UTC-0400)
 
 * 07:00 - 09:00: Enterprise Support (AppleCare)
 * 09:15 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 13:45: Enterprise Support (AppleCare)
 * 11:30 - 12:15: One-on-one
+* 12:15 - 13:45: Enterprise Support (AppleCare)
 * 14:00 - 15:45: Enterprise Support (AppleCare)
 * 15:45 - 16:00: Not Attending – AppleCare Advisor
 * 16:20 - 17:00: Healthcare Appointment 
