@@ -25,7 +25,6 @@ Contact Information
 | ----------------------- | ------------------------------------------------------------------ |
 | Email:           &nbsp; | <eyer@eyer.us>                                                     |
 | Telephone:       &nbsp; | +1 (321) 422-3428 ([tel]) ([sms]) ([FaceTime])                     |
-| Facsimile:       &nbsp; | +1 (815) 301-3995 ([fax])                                          |
 | Homepage:        &nbsp; | [www.eyer.us]                                                      |
 | Correspondence:  &nbsp; | 131 W Washington St \# 1845, PO Box 1845, Minneola FL 34755-1845   |
 | Social media:    &nbsp; | [Facebook]                                                         |
