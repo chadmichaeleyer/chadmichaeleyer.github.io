@@ -456,6 +456,7 @@ all times EDT (UTC-0400)
 ### 2017-10-17 (Tue):
 
 * 07:00 - 16:00: AppleCare Advisor
+* 16:10 - 17:00: Healthcare Appointment 
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-10-18 (Wed):
