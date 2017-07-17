@@ -28,12 +28,12 @@ Contact Information
 | Facsimile:       &nbsp; | +1 (815) 301-3995 ([fax])                                          |
 | Homepage:        &nbsp; | [www.eyer.us]                                                      |
 | Correspondence:  &nbsp; | 131 W Washington St \# 1845, PO Box 1845, Minneola FL 34755-1845   |
-| Social media:    &nbsp; | [Facebook]: [chadmichaeleyer](Facebook)                            |
-|                  &nbsp; | [GitHub]: [eyer](Github)                                           |
-|                  &nbsp; | [LinkedIn]: [chadmichaeleyer](LinkedIn)                            |
-|                  &nbsp; | [RunKeeper]: [eyer](RunKeeper)                                     |
-|                  &nbsp; | [Skype]: [chadmichaeleyer](Skype)                                  |
-|                  &nbsp; | [Twitter]: [@eyer](Twitter)                                        |
+| Social media:    &nbsp; | [Facebook]                                                         |
+|                  &nbsp; | [GitHub]                                                           |
+|                  &nbsp; | [LinkedIn]                                                         |
+|                  &nbsp; | [RunKeeper]                                                        |
+|                  &nbsp; | [Skype]                                                            |
+|                  &nbsp; | [Twitter]                                                          |
 
 Calendar
 --------
