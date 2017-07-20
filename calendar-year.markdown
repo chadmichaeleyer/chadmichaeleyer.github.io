@@ -342,6 +342,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 16:00: AppleCare Advisor
 * 15:00 - 16:00: Healthcare Appointment 
+* 16:45 - 17:45: Healthcare Appointment 
 
 ### 2017-09-29 (Fri):
 
