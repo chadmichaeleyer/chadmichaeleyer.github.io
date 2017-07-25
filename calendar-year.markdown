@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-24 (Mon):
-
-* 07:00 - 16:00: AppleCare Advisor
-* 19:30 - 21:00: Yin Yoga
-
 ### 2017-07-25 (Tue):
 
 * 07:00 - 16:00: AppleCare Advisor
@@ -1801,3 +1796,9 @@ all times EDT (UTC-0400)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
+
+### 2018-07-25 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
