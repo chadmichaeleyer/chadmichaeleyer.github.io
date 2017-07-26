@@ -2,9 +2,13 @@ all times EDT (UTC-0400)
 
 ### 2017-07-26 (Wed):
 
-* 07:00 - 16:00: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 10:15: Enterprise Support (AppleCare)
+* 10:15 - 10:45: Office Time (AppleCare)
+* 11:45 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 13:15 - 14:30: Enterprise Support (AppleCare)
+* 14:30 - 16:00: Meeting
 
 ### 2017-07-27 (Thu):
 
@@ -21,6 +25,8 @@ all times EDT (UTC-0400)
 
 * 07:30 - 09:00: Clermont Waterfront parkrun
 * 09:00 - 09:30: Bank of America Appointment
+* 18:00 - 20:00: Dinner
+* 20:00 - 22:00: Saint Joan
 
 ### 2017-07-30 (Sun):
 
