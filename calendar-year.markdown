@@ -1,67 +1,15 @@
 all times EDT (UTC-0400)
 
-### 2017-07-18 (Tue):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 11:45: Enterprise Support (AppleCare)
-* 11:45 - 12:15: Office Time (AppleCare)
-* 12:15 - 13:30: Enterprise Support (AppleCare)
-* 13:45 - 16:00: Enterprise Support (AppleCare)
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 17:15 - 17:45: Healthcare Appointment 
-* 19:30 - 21:00: National Intercollegiate Band Concert
-
-### 2017-07-19 (Wed):
-
-* 07:00 - 16:00: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 19:30 - 21:00: Orlando Concert Band Concert
-* 21:00 - 22:30: ΚΚΨ Ritual
-
-### 2017-07-20 (Thu):
-
-* 07:00 - 14:45: AppleCare Advisor
-* 14:45 - 16:00: Not Attending – AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
-
-### 2017-07-21 (Fri):
-
-* 07:00 - 16:00: AppleCare Advisor
-
-### 2017-07-22 (Sat):
-
-* 07:30 - 09:00: Clermont Waterfront parkrun
-
-### 2017-07-23 (Sun):
-
-* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-07-24 (Mon):
-
-* 07:00 - 16:00: AppleCare Advisor
-* 19:30 - 21:00: Yin Yoga
-
-### 2017-07-25 (Tue):
-
-* 07:00 - 16:00: AppleCare Advisor
-* 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
-* 18:30 - 19:30: Fellowship (Lodge 69)
-* 19:30 - 21:30: Stated Communication (Lodge 69)
-
-### 2017-07-26 (Wed):
-
-* 07:00 - 16:00: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
 ### 2017-07-27 (Thu):
 
-* 07:00 - 14:45: AppleCare Advisor
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 09:45: Enterprise Support (AppleCare)
+* 09:45 - 10:15: Office Time (AppleCare)
+* 10:15 - 10:30: Enterprise Support (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Roundtable
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 14:45: Enterprise Support (AppleCare)
 * 14:45 - 16:00: Not Attending – AppleCare Advisor
 * 15:00 - 16:00: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
@@ -73,7 +21,8 @@ all times EDT (UTC-0400)
 ### 2017-07-29 (Sat):
 
 * 07:30 - 09:00: Clermont Waterfront parkrun
-* 09:00 - 09:30: Bank of America Appointment
+* 18:00 - 20:00: Dinner
+* 20:00 - 22:00: Saint Joan
 
 ### 2017-07-30 (Sun):
 
@@ -361,6 +310,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 16:00: AppleCare Advisor
 * 15:00 - 16:00: Healthcare Appointment 
+* 16:45 - 17:45: Healthcare Appointment 
 
 ### 2017-09-29 (Fri):
 
@@ -1809,3 +1759,49 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2018-07-19 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 15:00 - 16:00: Healthcare Appointment 
+
+### 2018-07-20 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-07-21 (Sat):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-07-22 (Sun):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-07-23 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-07-24 (Tue):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
+* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
+* 18:30 - 19:30: Fellowship (Lodge 69)
+* 19:30 - 21:30: Stated Communication (Lodge 69)
+
+### 2018-07-25 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2018-07-26 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 15:00 - 16:00: Healthcare Appointment 
+
+### 2018-07-27 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
