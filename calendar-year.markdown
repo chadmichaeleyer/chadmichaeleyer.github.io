@@ -1,19 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-27 (Thu):
-
-* 07:00 - 09:00: Enterprise Support (AppleCare)
-* 09:15 - 09:45: Enterprise Support (AppleCare)
-* 09:45 - 10:15: Office Time (AppleCare)
-* 10:15 - 10:30: Enterprise Support (AppleCare)
-* 11:30 - 12:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Roundtable
-* 13:00 - 14:00: Enterprise Support (AppleCare)
-* 14:15 - 14:45: Enterprise Support (AppleCare)
-* 14:45 - 16:00: Not Attending – AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
-
 ### 2017-07-28 (Fri):
 
 * 07:00 - 16:00: AppleCare Advisor
@@ -1803,5 +1789,9 @@ all times EDT (UTC-0400)
 * 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-07-27 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-07-28 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
