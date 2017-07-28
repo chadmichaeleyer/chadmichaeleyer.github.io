@@ -75,7 +75,6 @@ all times EDT (UTC-0400)
 ### 2017-08-10 (Thu):
 
 * 07:00 - 16:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-08-11 (Fri):
 
@@ -102,13 +101,13 @@ all times EDT (UTC-0400)
 ### 2017-08-16 (Wed):
 
 * 07:00 - 16:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-17 (Thu):
 
 * 07:00 - 16:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-08-18 (Fri):
 
@@ -134,13 +133,13 @@ all times EDT (UTC-0400)
 ### 2017-08-23 (Wed):
 
 * 07:00 - 16:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-24 (Thu):
 
 * 07:00 - 16:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-08-25 (Fri):
 
@@ -163,13 +162,13 @@ all times EDT (UTC-0400)
 ### 2017-08-30 (Wed):
 
 * 07:00 - 16:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-31 (Thu):
 
 * 07:00 - 16:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-09-01 (Fri):
 
@@ -197,13 +196,13 @@ all times EDT (UTC-0400)
 ### 2017-09-06 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-07 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-09-08 (Fri):
 
@@ -233,13 +232,13 @@ all times EDT (UTC-0400)
 ### 2017-09-13 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-14 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-09-15 (Fri):
 
@@ -262,13 +261,13 @@ all times EDT (UTC-0400)
 ### 2017-09-20 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-21 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-09-22 (Fri):
 
@@ -294,13 +293,13 @@ all times EDT (UTC-0400)
 ### 2017-09-27 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-28 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 * 16:45 - 17:45: Healthcare Appointment 
 
 ### 2017-09-29 (Fri):
@@ -325,13 +324,13 @@ all times EDT (UTC-0400)
 ### 2017-10-04 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-05 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-10-06 (Fri):
 
@@ -362,13 +361,13 @@ all times EDT (UTC-0400)
 ### 2017-10-11 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-12 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-10-13 (Fri):
 
@@ -397,13 +396,13 @@ all times EDT (UTC-0400)
 ### 2017-10-18 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-19 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-10-20 (Fri):
 
@@ -429,13 +428,13 @@ all times EDT (UTC-0400)
 ### 2017-10-25 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-26 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-10-27 (Fri):
 
@@ -459,13 +458,13 @@ all times EDT (UTC-0400)
 ### 2017-11-01 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-02 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-11-03 (Fri):
 
@@ -494,13 +493,13 @@ all times EDT (UTC-0400)
 ### 2017-11-08 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-09 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-11-10 (Fri):
 
@@ -532,13 +531,13 @@ all times EDT (UTC-0400)
 ### 2017-11-15 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-16 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-11-17 (Fri):
 
@@ -561,6 +560,7 @@ all times EDT (UTC-0400)
 ### 2017-11-22 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -568,7 +568,6 @@ all times EDT (UTC-0400)
 
 * Thanksgiving
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-11-24 (Fri):
 
@@ -595,13 +594,13 @@ all times EDT (UTC-0400)
 ### 2017-11-29 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-30 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-12-01 (Fri):
 
@@ -624,13 +623,13 @@ all times EDT (UTC-0400)
 ### 2017-12-06 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-07 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-12-08 (Fri):
 
@@ -660,13 +659,13 @@ all times EDT (UTC-0400)
 ### 2017-12-13 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-14 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-12-15 (Fri):
 
@@ -693,13 +692,13 @@ all times EDT (UTC-0400)
 ### 2017-12-20 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-21 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-12-22 (Fri):
 
@@ -726,13 +725,13 @@ all times EDT (UTC-0400)
 ### 2017-12-27 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-28 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2017-12-29 (Fri):
 
@@ -756,13 +755,13 @@ all times EDT (UTC-0400)
 ### 2018-01-03 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-04 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-01-05 (Fri):
 
@@ -792,13 +791,13 @@ all times EDT (UTC-0400)
 ### 2018-01-10 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-11 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-01-12 (Fri):
 
@@ -826,13 +825,13 @@ all times EDT (UTC-0400)
 ### 2018-01-17 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-18 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-01-19 (Fri):
 
@@ -858,13 +857,13 @@ all times EDT (UTC-0400)
 ### 2018-01-24 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-25 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-01-26 (Fri):
 
@@ -887,13 +886,13 @@ all times EDT (UTC-0400)
 ### 2018-01-31 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-01 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-02-02 (Fri):
 
@@ -921,13 +920,13 @@ all times EDT (UTC-0400)
 ### 2018-02-07 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-08 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-02-09 (Fri):
 
@@ -958,13 +957,13 @@ all times EDT (UTC-0400)
 
 * Valentine’s Day
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-15 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-02-16 (Fri):
 
@@ -988,13 +987,13 @@ all times EDT (UTC-0400)
 ### 2018-02-21 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-22 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-02-23 (Fri):
 
@@ -1020,13 +1019,13 @@ all times EDT (UTC-0400)
 ### 2018-02-28 (Wed):
 
 * 09:00 - 18:00: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-01 (Thu):
 
 * 09:00 - 18:00: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-03-02 (Fri):
 
@@ -1055,13 +1054,13 @@ all times EDT (UTC-0400)
 ### 2018-03-07 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-08 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-03-09 (Fri):
 
@@ -1094,13 +1093,13 @@ all times EDT (UTC-0400)
 ### 2018-03-14 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-15 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-03-16 (Fri):
 
@@ -1129,13 +1128,13 @@ all times EDT (UTC-0400)
 ### 2018-03-21 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-22 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-03-23 (Fri):
 
@@ -1166,13 +1165,13 @@ all times EDT (UTC-0400)
 ### 2018-03-28 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-29 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-03-30 (Fri):
 
@@ -1202,13 +1201,13 @@ all times EDT (UTC-0400)
 ### 2018-04-04 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-05 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-04-06 (Fri):
 
@@ -1240,13 +1239,13 @@ all times EDT (UTC-0400)
 ### 2018-04-11 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-12 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-04-13 (Fri):
 
@@ -1276,13 +1275,13 @@ all times EDT (UTC-0400)
 ### 2018-04-18 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-19 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-04-20 (Fri):
 
@@ -1314,13 +1313,13 @@ all times EDT (UTC-0400)
 ### 2018-04-25 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-26 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-04-27 (Fri):
 
@@ -1348,13 +1347,13 @@ all times EDT (UTC-0400)
 ### 2018-05-02 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-03 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-05-04 (Fri):
 
@@ -1386,13 +1385,13 @@ all times EDT (UTC-0400)
 ### 2018-05-09 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-10 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-05-11 (Fri):
 
@@ -1422,13 +1421,13 @@ all times EDT (UTC-0400)
 ### 2018-05-16 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-17 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-05-18 (Fri):
 
@@ -1459,13 +1458,13 @@ all times EDT (UTC-0400)
 ### 2018-05-23 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-24 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-05-25 (Fri):
 
@@ -1494,13 +1493,13 @@ all times EDT (UTC-0400)
 ### 2018-05-30 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-31 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-06-01 (Fri):
 
@@ -1529,13 +1528,13 @@ all times EDT (UTC-0400)
 ### 2018-06-06 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-07 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-06-08 (Fri):
 
@@ -1567,6 +1566,7 @@ all times EDT (UTC-0400)
 ### 2018-06-13 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
@@ -1574,7 +1574,6 @@ all times EDT (UTC-0400)
 
 * Flag Day
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-06-15 (Fri):
 
@@ -1603,13 +1602,13 @@ all times EDT (UTC-0400)
 ### 2018-06-20 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-21 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-06-22 (Fri):
 
@@ -1640,13 +1639,13 @@ all times EDT (UTC-0400)
 ### 2018-06-27 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-28 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-06-29 (Fri):
 
@@ -1675,13 +1674,13 @@ all times EDT (UTC-0400)
 
 * Independence Day
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-05 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-07-06 (Fri):
 
@@ -1713,13 +1712,13 @@ all times EDT (UTC-0400)
 ### 2018-07-11 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-12 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-07-13 (Fri):
 
@@ -1748,13 +1747,13 @@ all times EDT (UTC-0400)
 ### 2018-07-18 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-19 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-07-20 (Fri):
 
@@ -1785,13 +1784,13 @@ all times EDT (UTC-0400)
 ### 2018-07-25 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-26 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 15:00 - 16:00: Healthcare Appointment 
 
 ### 2018-07-27 (Fri):
 
