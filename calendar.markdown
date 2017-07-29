@@ -2,8 +2,8 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 16:15 - 20:00: Dinner
-* 20:00 - 22:00: Saint Joan
+* 18:00 - 20:00: Dinner
+* 20:00 - 23:30: Saint Joan
 
 ### tomorrow:
 
