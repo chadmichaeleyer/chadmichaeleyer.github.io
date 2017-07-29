@@ -2,8 +2,7 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 07:30 - 09:00: Clermont Waterfront parkrun
-* 18:00 - 20:00: Dinner
+* 16:15 - 20:00: Dinner
 * 20:00 - 22:00: Saint Joan
 
 ### tomorrow:
