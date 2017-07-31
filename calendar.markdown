@@ -2,7 +2,10 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 07:00 - 16:00: AppleCare Advisor
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 11:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Support (AppleCare)
+* 14:00 - 15:45: Enterprise Support (AppleCare)
 
 ### tomorrow:
 

@@ -2,7 +2,10 @@ all times EDT (UTC-0400)
 
 ### 2017-07-31 (Mon):
 
-* 07:00 - 16:00: AppleCare Advisor
+* 07:00 - 09:15: Enterprise Support (AppleCare)
+* 09:30 - 11:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Enterprise Support (AppleCare)
+* 14:00 - 15:45: Enterprise Support (AppleCare)
 
 ### 2017-08-01 (Tue):
 
