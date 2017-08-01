@@ -1,12 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-07-31 (Mon):
-
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 11:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Enterprise Support (AppleCare)
-* 13:15 - 16:00: Enterprise Support (AppleCare)
-
 ### 2017-08-01 (Tue):
 
 * 07:00 - 16:00: AppleCare Advisor
@@ -1797,3 +1790,10 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
+
+### 2018-08-01 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
+* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
