@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-01 (Tue):
-
-* 07:00 - 16:00: AppleCare Advisor
-* 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2017-08-02 (Wed):
 
 * 07:00 - 16:00: AppleCare Advisor
@@ -1797,3 +1792,7 @@ all times EDT (UTC-0400)
 * 18:00 - 19:00: Healthcare Appointment 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2018-08-02 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
