@@ -2,18 +2,20 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 07:00 - 09:15: Enterprise Support (AppleCare)
-* 09:30 - 11:00: Enterprise Support (AppleCare)
-* 12:00 - 13:00: Enterprise Support (AppleCare)
-* 14:00 - 15:45: Enterprise Support (AppleCare)
+* 07:00 - 09:00: Enterprise Support (AppleCare)
+* 09:15 - 10:00: Enterprise Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 12:00: Enterprise Support (AppleCare)
+* 12:00 - 13:00: Roundtable
+* 13:00 - 14:00: Enterprise Support (AppleCare)
+* 14:15 - 14:45: Enterprise Support (AppleCare)
+* 14:45 - 16:00: Not Attending – AppleCare Advisor
+* 15:00 - 16:00: Healthcare Appointment 
 
 ### tomorrow:
 
 * 07:00 - 16:00: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### day after tomorrow:
 
-* 07:00 - 16:00: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 09:00 - 12:00: Not Attending – Masters & Wardens Meeting
