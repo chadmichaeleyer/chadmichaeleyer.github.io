@@ -1,11 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-02 (Wed):
-
-* 07:00 - 16:00: AppleCare Advisor
-* 18:30 - 19:30: Not Attending – Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
 ### 2017-08-03 (Thu):
 
 * 07:00 - 14:45: AppleCare Advisor
@@ -1794,5 +1788,9 @@ all times EDT (UTC-0400)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-08-02 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-08-03 (Fri):
 
 * 07:00 - 21:30: AppleCare Advisor
