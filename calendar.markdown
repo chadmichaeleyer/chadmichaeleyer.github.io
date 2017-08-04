@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### today:
-
-* 07:00 - 16:00: AppleCare Advisor
-
 ### tomorrow:
 
 * 09:00 - 12:00: Not Attending – Masters & Wardens Meeting
