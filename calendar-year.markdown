@@ -11,12 +11,10 @@ all times EDT (UTC-0400)
 
 ### 2017-08-07 (Mon):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 16:30 - 17:00: Healthcare Appointment 
 
 ### 2017-08-08 (Tue):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -24,17 +22,11 @@ all times EDT (UTC-0400)
 
 ### 2017-08-09 (Wed):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
-### 2017-08-10 (Thu):
-
-* 07:00 - 16:00: AppleCare Advisor
-
 ### 2017-08-11 (Fri):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 18:00 - 21:00: Mary
 
 ### 2017-08-12 (Sat):
@@ -46,29 +38,21 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2017-08-14 (Mon):
-
-* 07:00 - 16:00: AppleCare Advisor
-
 ### 2017-08-15 (Tue):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-08-16 (Wed):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-17 (Thu):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
 
 ### 2017-08-18 (Fri):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 07:00 - 16:00: Not Attending – AppleCare Advisor
 
 ### 2017-08-20 (Sun):
@@ -76,13 +60,8 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Not Attending – Worship, Traditional Service (Oakland Presbyterian)
 
-### 2017-08-21 (Mon):
-
-* 07:00 - 16:00: AppleCare Advisor
-
 ### 2017-08-22 (Tue):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -90,47 +69,30 @@ all times EDT (UTC-0400)
 
 ### 2017-08-23 (Wed):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-24 (Thu):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-
-### 2017-08-25 (Fri):
-
-* 08:00 - 17:00: AppleCare Advisor 
 
 ### 2017-08-27 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2017-08-28 (Mon):
-
-* 07:00 - 16:00: AppleCare Advisor
-
 ### 2017-08-29 (Tue):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-08-30 (Wed):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-31 (Thu):
 
-* 07:00 - 16:00: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-
-### 2017-09-01 (Fri):
-
-* 07:00 - 16:00: AppleCare Advisor
 
 ### 2017-09-02 (Sat):
 
@@ -993,58 +955,38 @@ all times EDT (UTC-0400)
 
 ### 2018-03-03 (Sat):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 09:00 - 12:00: Masters & Wardens Meeting
 
 ### 2018-03-04 (Sun):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2018-03-05 (Mon):
-
-* 07:00 - 21:30: AppleCare Advisor
-
 ### 2018-03-06 (Tue):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-03-07 (Wed):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-08 (Thu):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-
-### 2018-03-09 (Fri):
-
-* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-03-10 (Sat):
 
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
-* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-03-11 (Sun):
 
 * Daylight Saving Time
-* 07:00 - 21:30: AppleCare Advisor
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2018-03-12 (Mon):
-
-* 07:00 - 21:30: AppleCare Advisor
-
 ### 2018-03-13 (Tue):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1052,18 +994,12 @@ all times EDT (UTC-0400)
 
 ### 2018-03-14 (Wed):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-15 (Thu):
 
-* 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-
-### 2018-03-16 (Fri):
-
-* 07:00 - 21:30: AppleCare Advisor
 
 ### 2018-03-17 (Sat):
 
