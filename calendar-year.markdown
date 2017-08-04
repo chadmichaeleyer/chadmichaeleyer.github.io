@@ -122,7 +122,6 @@ all times EDT (UTC-0400)
 ### 2017-08-18 (Fri):
 
 * 07:00 - 16:00: Not Attending – AppleCare Advisor
-* 07:00 - 16:00: Not Attending – AppleCare Advisor
 
 ### 2017-08-20 (Sun):
 
