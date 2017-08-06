@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-05 (Sat):
-
-* 09:00 - 12:00: Not Attending – Masters & Wardens Meeting
-
 ### 2017-08-06 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -1731,3 +1727,7 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-08-06 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
