@@ -22,21 +22,20 @@ all times EDT (UTC-0400)
 
 ### 2017-08-09 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-11 (Fri):
 
-* 18:00 - 21:00: Mary
+* 18:00 - 21:00: Grand Opening 
 
 ### 2017-08-12 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
 
 ### 2017-08-13 (Sun):
 
-* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+* 10:00 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Not Attending – Worship, Traditional Service (Oakland Presbyterian)
 
 ### 2017-08-15 (Tue):
 
