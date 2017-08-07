@@ -1,17 +1,11 @@
 all times EDT (UTC-0400)
 
-### 2017-08-06 (Sun):
-
-* 10:00 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Not Attending – Worship, Traditional Service (Oakland Presbyterian)
-
 ### 2017-08-07 (Mon):
 
 * 07:00 - 09:15: Enterprise Server and Education Technical Support (AppleCare)
 * 09:30 - 11:30: Enterprise Server and Education Technical Support (AppleCare)
 * 12:30 - 14:00: Enterprise Server and Education Technical Support (AppleCare)
 * 14:15 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
-* 16:30 - 17:00: Healthcare Appointment 
 
 ### 2017-08-08 (Tue):
 
@@ -815,3 +809,14 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
+
+### 2017-11-10 (Fri):
+
+* Veterans Day (observed)
+* 09:00 - 18:00: AppleCare Advisor
+* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 14:45: Enterprise Server and Education Technical Support (AppleCare)
+* 15:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 16:45: Office Time (AppleCare)
+* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
