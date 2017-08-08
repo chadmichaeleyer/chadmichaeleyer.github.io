@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-07 (Mon):
-
-* 16:30 - 17:00: Healthcare Appointment 
-
 ### 2017-08-08 (Tue):
 
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)

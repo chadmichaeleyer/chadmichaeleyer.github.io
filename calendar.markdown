@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### today:
-
-* 16:30 - 17:00: Healthcare Appointment 
-
 ### tomorrow:
 
 * 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
