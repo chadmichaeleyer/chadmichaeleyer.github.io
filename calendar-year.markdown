@@ -1727,3 +1727,9 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
+
+### 2018-08-08 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
