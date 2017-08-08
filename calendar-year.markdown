@@ -1,12 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-07 (Mon):
-
-* 07:00 - 09:15: Enterprise Server and Education Technical Support (AppleCare)
-* 09:30 - 11:30: Enterprise Server and Education Technical Support (AppleCare)
-* 12:30 - 14:00: Enterprise Server and Education Technical Support (AppleCare)
-* 14:15 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
-
 ### 2017-08-08 (Tue):
 
 * 07:00 - 09:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -820,3 +813,8 @@ all times EDT (UTC-0400)
 * 15:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+
+### 2017-11-11 (Sat):
+
+* Veterans Day
+* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
