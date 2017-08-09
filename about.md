@@ -158,7 +158,7 @@ Biographical Sketch
 
 Chad Michael Eyer is a graduate student in the instructional design and technology program at the [University of West Florida]. His program specialization is technology leadership with a focus on the use of technology to remove barriers between potential and performance for organizations and individuals, especially those individuals with disabilities.
 
-Chad completed undergraduate programs in engineering technology and information technology, with elective coursework in education, mathematics, sciences, social sciences, and music theory and performance. He is also an alumnus of [Seminole State College of Florida] and the [University of Central Florida].
+Chad completed undergraduate programs in engineering technology and information technology, with elective coursework in education, mathematics, sciences, social sciences, and music theory and performance. He is also an alumnus of [Seminole State College of Florida], the [University of Central Florida], and the [University of West Florida].
 
 Chad has held various career positions in the education, hospitality, and technology industries. His areas of focus include sales strategy, operations and process analysis, data management, print and online communication, and customer service. He has designed and delivered on-the-job and facilitator-led training. Chad is an [Apple Certified Macintosh Technician].
 
