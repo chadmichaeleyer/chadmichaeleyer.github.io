@@ -216,7 +216,6 @@ all times EDT (UTC-0400)
 
 * 09:00 - 18:00: AppleCare Advisor
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 18:15 - 20:15: Assignment Completion
 
 ### 2017-10-04 (Wed):
 
@@ -277,7 +276,6 @@ all times EDT (UTC-0400)
 ### 2017-10-15 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 10:00 - 15:00: Assignment Completion
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
 ### 2017-10-16 (Mon):
