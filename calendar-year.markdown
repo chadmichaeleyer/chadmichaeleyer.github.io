@@ -1,12 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-08 (Tue):
-
-* 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
-* 18:30 - 19:30: Fellowship Dinner (Lodge 69)
-* 19:30 - 21:30: Stated Communication (Lodge 69)
-
 ### 2017-08-09 (Wed):
 
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -1733,3 +1726,8 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2018-08-09 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 19:00: Healthcare Appointment 
