@@ -10,11 +10,11 @@ Biographical Sketch
 
 Chad Michael Eyer is a graduate student in the instructional design and technology program at the [University of West Florida]. His program specialization is technology leadership with a focus on the use of technology to remove barriers between potential and performance for organizations and individuals, especially those individuals with disabilities.
 
-Chad completed undergraduate programs in engineering technology and information technology, with elective coursework in education, mathematics, sciences, social sciences, and music theory and performance. He is also an alumnus of [Seminole State College of Florida], the [University of Central Florida], and the [University of West Florida].
+Chad completed undergraduate programs in engineering technology and information technology, with elective coursework in education, mathematics, sciences, social sciences, and music theory and performance. He is an alumnus of [Seminole State College of Florida], the [University of Central Florida], and the [University of West Florida].
 
 Chad has held various career positions in the education, hospitality, and technology industries. His areas of focus include sales strategy, operations and process analysis, data management, print and online communication, and customer service. He has designed and delivered on-the-job and facilitator-led training. Chad is an [Apple Certified Macintosh Technician].
 
-A past member of the [University of Central Florida Marching Knights] and the [Walt Disney World Cast Choir], Chad continues to make music part of his life: He currently serves the music ministries of [Oakland Presbyterian Church] as a musician and music librarian and is a life member of [Kappa Kappa Psi], the national honorary band fraternity. Chad serves [Orlando Lodge No. 69], Free and Accepted Masons as an appointed officer. Chad is also an avid runner and has completed five marathons, including Goofy’s Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
+A past member of the [University of Central Florida Marching Knights] and the [Walt Disney World Cast Choir], Chad continues to make music part of his life: He currently serves the music ministries of [Oakland Presbyterian Church] as a musician and music librarian and is a life member of [Kappa Kappa Psi], the national honorary band fraternity. Chad serves [Orlando Lodge No. 69], Free and Accepted Masons, as an appointed officer. Chad is also an avid runner and has completed five marathons, including Goofy’s Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
 
 A Florida native, Chad lives and works on a small farm and citrus grove in Minneola, where he tends a menagerie of cats, chickens, goats, and pigs.
 
