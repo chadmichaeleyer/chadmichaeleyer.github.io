@@ -3,7 +3,6 @@ all times EDT (UTC-0400)
 ### 2017-08-09 (Wed):
 
 * 16:30 - 17:00: Healthcare Appointment 
-* 17:00 - 17:15: New Event
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-11 (Fri):
