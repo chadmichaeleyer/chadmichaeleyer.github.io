@@ -1,17 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-08 (Tue):
-
-* 07:00 - 09:00: Enterprise Server and Education Technical Support (AppleCare)
-* 09:15 - 10:30: Enterprise Server and Education Technical Support (AppleCare)
-* 11:30 - 14:00: Enterprise Server and Education Technical Support (AppleCare)
-* 14:15 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:30 - 16:00: Office Time (AppleCare)
-* 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
-* 18:30 - 19:30: Fellowship Dinner (Lodge 69)
-* 19:30 - 21:30: Stated Communication (Lodge 69)
-
 ### 2017-08-09 (Wed):
 
 * 07:00 - 09:15: Enterprise Server and Education Technical Support (AppleCare)
@@ -21,6 +9,7 @@ all times EDT (UTC-0400)
 * 11:45 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 13:15 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
+* 16:30 - 17:00: Healthcare Appointment 
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-10 (Thu):
@@ -55,17 +44,16 @@ all times EDT (UTC-0400)
 
 * 07:00 - 09:15: Enterprise Server and Education Technical Support (AppleCare)
 * 09:30 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:45 - 14:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:45 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
+* 11:45 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 13:15 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 
 ### 2017-08-15 (Tue):
 
 * 07:00 - 09:00: Enterprise Server and Education Technical Support (AppleCare)
-* 09:15 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:30: Enterprise Server and Education Technical Support (AppleCare)
-* 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:45 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
+* 09:15 - 10:00: Enterprise Server and Education Technical Support (AppleCare)
+* 10:00 - 10:30: Office Time (AppleCare)
+* 11:30 - 14:30: Enterprise Server and Education Technical Support (AppleCare)
+* 14:45 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-08-16 (Wed):
@@ -818,3 +806,8 @@ all times EDT (UTC-0400)
 
 * Veterans Day
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+
+### 2017-11-12 (Sun):
+
+* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
