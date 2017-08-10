@@ -20,7 +20,7 @@ all times EDT (UTC-0400)
 
 ### 2017-08-14 (Mon):
 
-* 16:15 - 17:15: Massage
+* 16:15 - 16:45: Healthcare Appointment 
 
 ### 2017-08-15 (Tue):
 
