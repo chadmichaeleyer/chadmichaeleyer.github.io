@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-09 (Wed):
-
-* 16:30 - 17:00: Healthcare Appointment 
-* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
 ### 2017-08-11 (Fri):
 
 * 18:00 - 21:00: Grand Opening 
@@ -1734,3 +1729,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
+
+### 2018-08-10 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
