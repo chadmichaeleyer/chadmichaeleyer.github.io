@@ -2,7 +2,7 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 18:00 - 21:00: Grand Opening 
+* 18:00 - 20:00: Chameleon Soul Gallery Grand Opening
 
 ### tomorrow:
 

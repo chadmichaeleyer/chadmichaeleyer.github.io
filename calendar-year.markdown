@@ -2,7 +2,7 @@ all times EDT (UTC-0400)
 
 ### 2017-08-11 (Fri):
 
-* 18:00 - 21:00: Grand Opening 
+* 18:00 - 20:00: Chameleon Soul Gallery Grand Opening
 
 ### 2017-08-12 (Sat):
 
