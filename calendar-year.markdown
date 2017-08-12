@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-11 (Fri):
-
-* 18:00 - 20:00: Chameleon Soul Gallery Grand Opening
-
 ### 2017-08-12 (Sat):
 
 * 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
@@ -1738,3 +1734,9 @@ all times EDT (UTC-0400)
 
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-08-12 (Sun):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
