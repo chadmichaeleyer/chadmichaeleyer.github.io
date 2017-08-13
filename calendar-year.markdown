@@ -22,6 +22,10 @@ all times EDT (UTC-0400)
 
 * 18:00 - 19:00: Healthcare Appointment 
 
+### 2017-08-18 (Fri):
+
+* 18:00 - 19:00: Fish Camp
+
 ### 2017-08-20 (Sun):
 
 * 10:00 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
