@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-14 (Mon):
-
-* 16:15 - 16:45: Healthcare Appointment 
-
 ### 2017-08-15 (Tue):
 
 * 16:30 - 17:30: Massage 21st
@@ -1497,3 +1493,9 @@ all times EDT (UTC-0400)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
+
+### 2018-08-15 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
