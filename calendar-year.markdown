@@ -2,7 +2,6 @@ all times EDT (UTC-0400)
 
 ### 2017-08-15 (Tue):
 
-* 16:30 - 17:30: Massage 21st
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-08-16 (Wed):
@@ -16,12 +15,16 @@ all times EDT (UTC-0400)
 
 ### 2017-08-18 (Fri):
 
-* 18:00 - 19:00: Fish Camp
+* 18:00 - 19:30: Dinner 
 
 ### 2017-08-20 (Sun):
 
 * 10:00 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Not Attending – Worship, Traditional Service (Oakland Presbyterian)
+
+### 2017-08-21 (Mon):
+
+* 16:30 - 17:00: Healthcare Appointment 
 
 ### 2017-08-22 (Tue):
 

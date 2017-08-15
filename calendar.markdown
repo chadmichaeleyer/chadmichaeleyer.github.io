@@ -2,7 +2,6 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 16:30 - 17:30: Massage 21st
 * 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### tomorrow:
