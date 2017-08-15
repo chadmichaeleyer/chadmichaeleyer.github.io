@@ -1,14 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-15 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
-### 2017-08-16 (Wed):
-
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
 ### 2017-08-17 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
@@ -16,11 +7,13 @@ all times EDT (UTC-0400)
 ### 2017-08-18 (Fri):
 
 * 18:00 - 19:30: Dinner 
+* 20:00 - 22:30: Accolade
 
 ### 2017-08-20 (Sun):
 
 * 10:00 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Not Attending – Worship, Traditional Service (Oakland Presbyterian)
+* 18:00 - 20:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-21 (Mon):
 
@@ -28,7 +21,6 @@ all times EDT (UTC-0400)
 
 ### 2017-08-22 (Tue):
 
-* 17:15 - 18:15: Not Attending – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -46,10 +38,6 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-08-29 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-08-30 (Wed):
 
@@ -73,10 +61,6 @@ all times EDT (UTC-0400)
 
 * Labor Day
 
-### 2017-09-05 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2017-09-06 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -97,7 +81,6 @@ all times EDT (UTC-0400)
 
 ### 2017-09-12 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -117,10 +100,6 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2017-09-19 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2017-09-20 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -137,7 +116,6 @@ all times EDT (UTC-0400)
 
 ### 2017-09-26 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -156,10 +134,6 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-10-03 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-10-04 (Wed):
 
@@ -185,7 +159,6 @@ all times EDT (UTC-0400)
 
 ### 2017-10-10 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -209,10 +182,6 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2017-10-17 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2017-10-18 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -230,7 +199,6 @@ all times EDT (UTC-0400)
 
 ### 2017-10-24 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -252,7 +220,6 @@ all times EDT (UTC-0400)
 ### 2017-10-31 (Tue):
 
 * Halloween
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-11-01 (Wed):
 
@@ -276,7 +243,6 @@ all times EDT (UTC-0400)
 ### 2017-11-07 (Tue):
 
 * Election Day
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-11-08 (Wed):
 
@@ -304,7 +270,6 @@ all times EDT (UTC-0400)
 
 ### 2017-11-14 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -322,10 +287,6 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-11-21 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-11-22 (Wed):
 
@@ -345,7 +306,6 @@ all times EDT (UTC-0400)
 
 ### 2017-11-28 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -363,10 +323,6 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-12-05 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2017-12-06 (Wed):
 
@@ -388,7 +344,6 @@ all times EDT (UTC-0400)
 
 ### 2017-12-12 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -413,10 +368,6 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2017-12-19 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2017-12-20 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -437,7 +388,6 @@ all times EDT (UTC-0400)
 
 ### 2017-12-26 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -460,10 +410,6 @@ all times EDT (UTC-0400)
 
 * New Year’s Day
 
-### 2018-01-02 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2018-01-03 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -484,7 +430,6 @@ all times EDT (UTC-0400)
 
 ### 2018-01-09 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -512,10 +457,6 @@ all times EDT (UTC-0400)
 
 * Martin Luther King, Jr. Day
 
-### 2018-01-16 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2018-01-17 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -532,7 +473,6 @@ all times EDT (UTC-0400)
 
 ### 2018-01-23 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -550,10 +490,6 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2018-01-30 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-01-31 (Wed):
 
@@ -577,10 +513,6 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2018-02-06 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2018-02-07 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -602,7 +534,6 @@ all times EDT (UTC-0400)
 
 ### 2018-02-13 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -626,10 +557,6 @@ all times EDT (UTC-0400)
 
 * Presidents’ Day
 
-### 2018-02-20 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
-
 ### 2018-02-21 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -646,7 +573,6 @@ all times EDT (UTC-0400)
 
 ### 2018-02-27 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -668,10 +594,6 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2018-03-06 (Tue):
-
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-03-07 (Wed):
 
@@ -695,7 +617,6 @@ all times EDT (UTC-0400)
 
 ### 2018-03-13 (Tue):
 
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -727,7 +648,6 @@ all times EDT (UTC-0400)
 ### 2018-03-20 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-03-21 (Wed):
 
@@ -761,7 +681,6 @@ all times EDT (UTC-0400)
 ### 2018-03-27 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -800,7 +719,6 @@ all times EDT (UTC-0400)
 ### 2018-04-03 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-04-04 (Wed):
 
@@ -835,7 +753,6 @@ all times EDT (UTC-0400)
 ### 2018-04-10 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -875,7 +792,6 @@ all times EDT (UTC-0400)
 
 * Tax Day
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-04-18 (Wed):
 
@@ -910,7 +826,6 @@ all times EDT (UTC-0400)
 ### 2018-04-24 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -947,7 +862,6 @@ all times EDT (UTC-0400)
 ### 2018-05-01 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-05-02 (Wed):
 
@@ -982,7 +896,6 @@ all times EDT (UTC-0400)
 ### 2018-05-08 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -1022,7 +935,6 @@ all times EDT (UTC-0400)
 ### 2018-05-15 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-05-16 (Wed):
 
@@ -1056,7 +968,6 @@ all times EDT (UTC-0400)
 ### 2018-05-22 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -1094,7 +1005,6 @@ all times EDT (UTC-0400)
 ### 2018-05-29 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-05-30 (Wed):
 
@@ -1129,7 +1039,6 @@ all times EDT (UTC-0400)
 ### 2018-06-05 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-06-06 (Wed):
 
@@ -1164,7 +1073,6 @@ all times EDT (UTC-0400)
 ### 2018-06-12 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -1204,7 +1112,6 @@ all times EDT (UTC-0400)
 ### 2018-06-19 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-06-20 (Wed):
 
@@ -1238,7 +1145,6 @@ all times EDT (UTC-0400)
 ### 2018-06-26 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -1275,7 +1181,6 @@ all times EDT (UTC-0400)
 ### 2018-07-03 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-07-04 (Wed):
 
@@ -1311,7 +1216,6 @@ all times EDT (UTC-0400)
 ### 2018-07-10 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -1350,7 +1254,6 @@ all times EDT (UTC-0400)
 ### 2018-07-17 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-07-18 (Wed):
 
@@ -1384,7 +1287,6 @@ all times EDT (UTC-0400)
 ### 2018-07-24 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
@@ -1421,7 +1323,6 @@ all times EDT (UTC-0400)
 ### 2018-07-31 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-08-01 (Wed):
 
@@ -1456,7 +1357,6 @@ all times EDT (UTC-0400)
 ### 2018-08-07 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 
 ### 2018-08-08 (Wed):
 
@@ -1492,7 +1392,6 @@ all times EDT (UTC-0400)
 ### 2018-08-14 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:15 - 18:15: Tentative – Rehearsal, Handbell Choir (Oakland Presbyterian)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
