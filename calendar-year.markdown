@@ -2,6 +2,7 @@ all times EDT (UTC-0400)
 
 ### 2017-08-17 (Thu):
 
+* 17:00 - 17:30: Healthcare Appointment 
 * 18:00 - 19:00: Healthcare Appointment 
 
 ### 2017-08-18 (Fri):
