@@ -22,7 +22,6 @@ all times EDT (UTC-0400)
 
 ### 2017-08-22 (Tue):
 
-* 03:30 - 03:45: New Event
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
