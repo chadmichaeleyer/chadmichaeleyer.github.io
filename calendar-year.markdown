@@ -19,6 +19,7 @@ all times EDT (UTC-0400)
 ### 2017-08-21 (Mon):
 
 * 16:30 - 17:00: Healthcare Appointment 
+* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-08-22 (Tue):
 
@@ -40,6 +41,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-08-29 (Tue):
+
+* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
+
 ### 2017-08-30 (Wed):
 
 * 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
@@ -48,6 +53,10 @@ all times EDT (UTC-0400)
 ### 2017-08-31 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
+
+### 2017-09-01 (Fri):
+
+* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-09-02 (Sat):
 
@@ -61,6 +70,7 @@ all times EDT (UTC-0400)
 ### 2017-09-04 (Mon):
 
 * Labor Day
+* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-09-06 (Wed):
 
