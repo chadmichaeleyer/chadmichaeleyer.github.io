@@ -2,16 +2,6 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 07:00 - 09:15: Enterprise Server and Education Technical Support (AppleCare)
-* 09:30 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
-* 10:15 - 10:45: Office Time (AppleCare)
-* 11:45 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
-* 12:00 - 13:00: Team Meeting (AppleCare)
-* 13:00 - 14:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:45 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
-
-### tomorrow:
-
 * 07:00 - 09:00: Enterprise Server and Education Technical Support (AppleCare)
 * 09:15 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
 * 09:30 - 10:00: Office Time (AppleCare)
@@ -23,7 +13,7 @@ all times EDT (UTC-0400)
 * 17:00 - 17:30: Healthcare Appointment 
 * 18:00 - 19:00: Healthcare Appointment 
 
-### day after tomorrow:
+### tomorrow:
 
 * 07:00 - 09:00: Enterprise Server and Education Technical Support (AppleCare)
 * 09:15 - 10:00: Enterprise Server and Education Technical Support (AppleCare)
