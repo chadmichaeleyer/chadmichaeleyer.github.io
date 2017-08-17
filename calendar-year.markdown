@@ -25,6 +25,7 @@ all times EDT (UTC-0400)
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
+* 18:30 - 20:15: Business Meeting (Bahia Drum & Bugle Corps)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 ### 2017-08-23 (Wed):
