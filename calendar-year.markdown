@@ -2,6 +2,7 @@ all times EDT (UTC-0400)
 
 ### 2017-08-18 (Fri):
 
+* 17:00 - 17:45: Haircut
 * 18:00 - 19:30: Dinner 
 * 20:00 - 22:30: Accolade
 
