@@ -1,18 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-17 (Thu):
-
-* 07:00 - 09:00: Enterprise Server and Education Technical Support (AppleCare)
-* 09:15 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:30: Enterprise Server and Education Technical Support (AppleCare)
-* 11:30 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
-* 12:00 - 13:00: Roundtable Meeting (AppleCare)
-* 13:00 - 14:00: Enterprise Server and Education Technical Support (AppleCare)
-* 14:15 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
-* 17:00 - 17:30: Healthcare Appointment 
-* 18:00 - 19:00: Healthcare Appointment 
-
 ### 2017-08-18 (Fri):
 
 * 07:00 - 09:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -20,6 +7,7 @@ all times EDT (UTC-0400)
 * 10:00 - 10:30: Office Time (AppleCare)
 * 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:45 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
+* 17:00 - 17:45: Haircut
 * 18:00 - 19:30: Dinner 
 * 20:00 - 22:30: Accolade
 
@@ -211,9 +199,9 @@ all times EDT (UTC-0400)
 ### 2017-09-12 (Tue):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -223,9 +211,9 @@ all times EDT (UTC-0400)
 ### 2017-09-13 (Wed):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
@@ -234,8 +222,8 @@ all times EDT (UTC-0400)
 ### 2017-09-14 (Thu):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -244,10 +232,12 @@ all times EDT (UTC-0400)
 
 ### 2017-09-15 (Fri):
 
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 14:45: Enterprise Server and Education Technical Support (AppleCare)
-* 15:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 11:00: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Roundtable Meeting (AppleCare)
+* 12:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
@@ -266,18 +256,18 @@ all times EDT (UTC-0400)
 ### 2017-09-19 (Tue):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
 ### 2017-09-20 (Wed):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
@@ -286,8 +276,8 @@ all times EDT (UTC-0400)
 ### 2017-09-21 (Thu):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -295,10 +285,12 @@ all times EDT (UTC-0400)
 
 ### 2017-09-22 (Fri):
 
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 14:45: Enterprise Server and Education Technical Support (AppleCare)
-* 15:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 11:00: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Roundtable Meeting (AppleCare)
+* 12:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
@@ -317,9 +309,9 @@ all times EDT (UTC-0400)
 ### 2017-09-26 (Tue):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -329,9 +321,9 @@ all times EDT (UTC-0400)
 ### 2017-09-27 (Wed):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
@@ -340,8 +332,8 @@ all times EDT (UTC-0400)
 ### 2017-09-28 (Thu):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 17:45: Healthcare Appointment 
@@ -350,10 +342,12 @@ all times EDT (UTC-0400)
 
 ### 2017-09-29 (Fri):
 
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 14:45: Enterprise Server and Education Technical Support (AppleCare)
-* 15:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 11:00: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Roundtable Meeting (AppleCare)
+* 12:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
@@ -372,18 +366,18 @@ all times EDT (UTC-0400)
 ### 2017-10-03 (Tue):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
 ### 2017-10-04 (Wed):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
@@ -392,8 +386,8 @@ all times EDT (UTC-0400)
 ### 2017-10-05 (Thu):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -401,10 +395,12 @@ all times EDT (UTC-0400)
 
 ### 2017-10-06 (Fri):
 
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 14:45: Enterprise Server and Education Technical Support (AppleCare)
-* 15:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 11:00: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Roundtable Meeting (AppleCare)
+* 12:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
@@ -709,9 +705,9 @@ all times EDT (UTC-0400)
 ### 2017-11-14 (Tue):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -721,9 +717,9 @@ all times EDT (UTC-0400)
 ### 2017-11-15 (Wed):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:30: Enterprise Server and Education Technical Support (AppleCare)
-* 15:45 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
+* 12:00 - 13:00: Team Meeting (AppleCare)
+* 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:30 - 19:30: Music Library Work (Oakland Presbyterian)
@@ -732,8 +728,8 @@ all times EDT (UTC-0400)
 ### 2017-11-16 (Thu):
 
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -741,10 +737,12 @@ all times EDT (UTC-0400)
 
 ### 2017-11-17 (Fri):
 
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 14:45: Enterprise Server and Education Technical Support (AppleCare)
-* 15:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 11:00: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Roundtable Meeting (AppleCare)
+* 12:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
@@ -759,3 +757,12 @@ all times EDT (UTC-0400)
 * 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+
+### 2017-11-21 (Tue):
+
+* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 16:45: Office Time (AppleCare)
+* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
