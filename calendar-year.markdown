@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-17 (Thu):
-
-* 17:00 - 17:30: Healthcare Appointment 
-* 18:00 - 19:00: Healthcare Appointment 
-
 ### 2017-08-18 (Fri):
 
 * 18:00 - 19:30: Dinner 
@@ -1420,5 +1415,9 @@ all times EDT (UTC-0400)
 * 18:00 - 19:00: Healthcare Appointment 
 
 ### 2018-08-17 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-08-18 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
