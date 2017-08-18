@@ -2,9 +2,12 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 17:00 - 17:45: Haircut
 * 18:00 - 19:30: Dinner 
 * 20:00 - 22:30: Accolade
+
+### tomorrow:
+
+* 09:00 - 09:45: Haircut
 
 ### day after tomorrow:
 
