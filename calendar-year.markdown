@@ -101,6 +101,10 @@ all times EDT (UTC-0400)
 * 18:00 - 19:00: Healthcare Appointment 
 * 18:00 - 20:00: Drinking Liberally
 
+### 2017-09-16 (Sat):
+
+* 09:00 - 09:45: Haircut
+
 ### 2017-09-17 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
