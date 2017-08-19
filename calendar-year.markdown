@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-18 (Fri):
-
-* 18:00 - 19:30: Dinner 
-* 20:00 - 22:30: Accolade
-
 ### 2017-08-19 (Sat):
 
 * 09:00 - 09:45: Haircut
@@ -187,6 +182,7 @@ all times EDT (UTC-0400)
 ### 2017-10-14 (Sat):
 
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 08:00 - 22:00: UCF Homecoming
 
 ### 2017-10-15 (Sun):
 
@@ -1425,3 +1421,9 @@ all times EDT (UTC-0400)
 ### 2018-08-18 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-08-19 (Sun):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
