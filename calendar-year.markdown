@@ -20,7 +20,6 @@ all times EDT (UTC-0400)
 
 ### 2017-08-23 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-24 (Thu):
@@ -32,13 +31,16 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-08-28 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-08-29 (Tue):
 
 * 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-08-30 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-31 (Thu):
@@ -65,7 +67,6 @@ all times EDT (UTC-0400)
 
 ### 2017-09-06 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-07 (Thu):
@@ -81,6 +82,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-09-11 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-09-12 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -89,13 +94,12 @@ all times EDT (UTC-0400)
 
 ### 2017-09-13 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-14 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2017-09-16 (Sat):
 
@@ -106,9 +110,12 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-09-18 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-09-20 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-21 (Thu):
@@ -120,6 +127,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-09-25 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-09-26 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -128,7 +139,6 @@ all times EDT (UTC-0400)
 
 ### 2017-09-27 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-28 (Thu):
@@ -141,9 +151,12 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-10-02 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-10-04 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-05 (Thu):
@@ -162,6 +175,7 @@ all times EDT (UTC-0400)
 ### 2017-10-09 (Mon):
 
 * Columbus Day
+* 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-10 (Tue):
 
@@ -171,13 +185,12 @@ all times EDT (UTC-0400)
 
 ### 2017-10-11 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-12 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2017-10-13 (Fri):
 
@@ -193,9 +206,12 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-10-16 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-10-18 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-19 (Thu):
@@ -208,6 +224,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-10-23 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-10-24 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -216,7 +236,6 @@ all times EDT (UTC-0400)
 
 ### 2017-10-25 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-26 (Thu):
@@ -228,13 +247,16 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-10-30 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-10-31 (Tue):
 
 * Halloween
 
 ### 2017-11-01 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-02 (Thu):
@@ -251,19 +273,22 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-11-06 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-11-07 (Tue):
 
 * Election Day
 
 ### 2017-11-08 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-09 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2017-11-10 (Fri):
 
@@ -279,6 +304,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-11-13 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-11-14 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -287,7 +316,6 @@ all times EDT (UTC-0400)
 
 ### 2017-11-15 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-16 (Thu):
@@ -299,9 +327,12 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-11-20 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-11-22 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-23 (Thu):
@@ -315,6 +346,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-11-27 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-11-28 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -323,7 +358,6 @@ all times EDT (UTC-0400)
 
 ### 2017-11-29 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-30 (Thu):
@@ -335,9 +369,12 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-12-04 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-12-06 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-07 (Thu):
@@ -353,6 +390,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-12-11 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-12-12 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -361,13 +402,12 @@ all times EDT (UTC-0400)
 
 ### 2017-12-13 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-14 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2017-12-16 (Sat):
 
@@ -379,9 +419,12 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2017-12-18 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2017-12-20 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-21 (Thu):
@@ -396,6 +439,7 @@ all times EDT (UTC-0400)
 ### 2017-12-25 (Mon):
 
 * Christmas Day
+* 19:30 - 21:00: Yin Yoga
 
 ### 2017-12-26 (Tue):
 
@@ -405,7 +449,6 @@ all times EDT (UTC-0400)
 
 ### 2017-12-27 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-28 (Thu):
@@ -420,10 +463,10 @@ all times EDT (UTC-0400)
 ### 2018-01-01 (Mon):
 
 * New Year’s Day
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-01-03 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-04 (Thu):
@@ -439,6 +482,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2018-01-08 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2018-01-09 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -447,13 +494,12 @@ all times EDT (UTC-0400)
 
 ### 2018-01-10 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-11 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-01-13 (Sat):
 
@@ -467,10 +513,10 @@ all times EDT (UTC-0400)
 ### 2018-01-15 (Mon):
 
 * Martin Luther King, Jr. Day
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-01-17 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-18 (Thu):
@@ -482,6 +528,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2018-01-22 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2018-01-23 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -490,7 +540,6 @@ all times EDT (UTC-0400)
 
 ### 2018-01-24 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-25 (Thu):
@@ -502,9 +551,12 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2018-01-29 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2018-01-31 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-01 (Thu):
@@ -524,15 +576,18 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2018-02-05 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2018-02-07 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-08 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-02-10 (Sat):
 
@@ -543,6 +598,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2018-02-12 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2018-02-13 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -552,7 +611,6 @@ all times EDT (UTC-0400)
 ### 2018-02-14 (Wed):
 
 * Valentine’s Day
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-15 (Thu):
@@ -567,10 +625,10 @@ all times EDT (UTC-0400)
 ### 2018-02-19 (Mon):
 
 * Presidents’ Day
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-02-21 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-22 (Thu):
@@ -582,6 +640,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2018-02-26 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2018-02-27 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -590,7 +652,6 @@ all times EDT (UTC-0400)
 
 ### 2018-02-28 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-01 (Thu):
@@ -606,15 +667,18 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2018-03-05 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2018-03-07 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-08 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-03-10 (Sat):
 
@@ -626,6 +690,10 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
+### 2018-03-12 (Mon):
+
+* 19:30 - 21:00: Yin Yoga
+
 ### 2018-03-13 (Tue):
 
 * 17:30 - 18:30: Kitchen Preparation (Lodge 69)
@@ -634,7 +702,6 @@ all times EDT (UTC-0400)
 
 ### 2018-03-14 (Wed):
 
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-15 (Thu):
@@ -655,6 +722,7 @@ all times EDT (UTC-0400)
 ### 2018-03-19 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-03-20 (Tue):
 
@@ -663,7 +731,6 @@ all times EDT (UTC-0400)
 ### 2018-03-21 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-22 (Thu):
@@ -688,6 +755,7 @@ all times EDT (UTC-0400)
 ### 2018-03-26 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-03-27 (Tue):
 
@@ -699,7 +767,6 @@ all times EDT (UTC-0400)
 ### 2018-03-28 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-29 (Thu):
@@ -726,6 +793,7 @@ all times EDT (UTC-0400)
 ### 2018-04-02 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-04-03 (Tue):
 
@@ -734,7 +802,6 @@ all times EDT (UTC-0400)
 ### 2018-04-04 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-05 (Thu):
@@ -760,6 +827,7 @@ all times EDT (UTC-0400)
 ### 2018-04-09 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-04-10 (Tue):
 
@@ -771,14 +839,13 @@ all times EDT (UTC-0400)
 ### 2018-04-11 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-12 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-04-13 (Fri):
 
@@ -798,6 +865,7 @@ all times EDT (UTC-0400)
 ### 2018-04-16 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-04-17 (Tue):
 
@@ -807,7 +875,6 @@ all times EDT (UTC-0400)
 ### 2018-04-18 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-19 (Thu):
@@ -833,6 +900,7 @@ all times EDT (UTC-0400)
 ### 2018-04-23 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-04-24 (Tue):
 
@@ -844,7 +912,6 @@ all times EDT (UTC-0400)
 ### 2018-04-25 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-26 (Thu):
@@ -869,6 +936,7 @@ all times EDT (UTC-0400)
 ### 2018-04-30 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-01 (Tue):
 
@@ -877,7 +945,6 @@ all times EDT (UTC-0400)
 ### 2018-05-02 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-03 (Thu):
@@ -903,6 +970,7 @@ all times EDT (UTC-0400)
 ### 2018-05-07 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-08 (Tue):
 
@@ -914,14 +982,13 @@ all times EDT (UTC-0400)
 ### 2018-05-09 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-10 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-05-11 (Fri):
 
@@ -942,6 +1009,7 @@ all times EDT (UTC-0400)
 ### 2018-05-14 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-15 (Tue):
 
@@ -950,7 +1018,6 @@ all times EDT (UTC-0400)
 ### 2018-05-16 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-17 (Thu):
@@ -975,6 +1042,7 @@ all times EDT (UTC-0400)
 ### 2018-05-21 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-22 (Tue):
 
@@ -986,7 +1054,6 @@ all times EDT (UTC-0400)
 ### 2018-05-23 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-24 (Thu):
@@ -1012,6 +1079,7 @@ all times EDT (UTC-0400)
 
 * Memorial Day
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-29 (Tue):
 
@@ -1020,7 +1088,6 @@ all times EDT (UTC-0400)
 ### 2018-05-30 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-31 (Thu):
@@ -1046,6 +1113,7 @@ all times EDT (UTC-0400)
 ### 2018-06-04 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-06-05 (Tue):
 
@@ -1054,7 +1122,6 @@ all times EDT (UTC-0400)
 ### 2018-06-06 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-07 (Thu):
@@ -1080,6 +1147,7 @@ all times EDT (UTC-0400)
 ### 2018-06-11 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-06-12 (Tue):
 
@@ -1091,7 +1159,6 @@ all times EDT (UTC-0400)
 ### 2018-06-13 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-14 (Thu):
@@ -1099,7 +1166,7 @@ all times EDT (UTC-0400)
 * Flag Day
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-06-15 (Fri):
 
@@ -1119,6 +1186,7 @@ all times EDT (UTC-0400)
 ### 2018-06-18 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-06-19 (Tue):
 
@@ -1127,7 +1195,6 @@ all times EDT (UTC-0400)
 ### 2018-06-20 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-21 (Thu):
@@ -1152,6 +1219,7 @@ all times EDT (UTC-0400)
 ### 2018-06-25 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-06-26 (Tue):
 
@@ -1163,7 +1231,6 @@ all times EDT (UTC-0400)
 ### 2018-06-27 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-28 (Thu):
@@ -1188,6 +1255,7 @@ all times EDT (UTC-0400)
 ### 2018-07-02 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-03 (Tue):
 
@@ -1197,7 +1265,6 @@ all times EDT (UTC-0400)
 
 * Independence Day
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-05 (Thu):
@@ -1223,6 +1290,7 @@ all times EDT (UTC-0400)
 ### 2018-07-09 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-10 (Tue):
 
@@ -1234,14 +1302,13 @@ all times EDT (UTC-0400)
 ### 2018-07-11 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-12 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-07-13 (Fri):
 
@@ -1261,6 +1328,7 @@ all times EDT (UTC-0400)
 ### 2018-07-16 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-17 (Tue):
 
@@ -1269,7 +1337,6 @@ all times EDT (UTC-0400)
 ### 2018-07-18 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-19 (Thu):
@@ -1294,6 +1361,7 @@ all times EDT (UTC-0400)
 ### 2018-07-23 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-24 (Tue):
 
@@ -1305,7 +1373,6 @@ all times EDT (UTC-0400)
 ### 2018-07-25 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-26 (Thu):
@@ -1330,6 +1397,7 @@ all times EDT (UTC-0400)
 ### 2018-07-30 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-31 (Tue):
 
@@ -1338,7 +1406,6 @@ all times EDT (UTC-0400)
 ### 2018-08-01 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-08-02 (Thu):
@@ -1364,6 +1431,7 @@ all times EDT (UTC-0400)
 ### 2018-08-06 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-08-07 (Tue):
 
@@ -1372,14 +1440,13 @@ all times EDT (UTC-0400)
 ### 2018-08-08 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-08-09 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Drinking Liberally
+* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-08-10 (Fri):
 
@@ -1399,6 +1466,7 @@ all times EDT (UTC-0400)
 ### 2018-08-13 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
 
 ### 2018-08-14 (Tue):
 
@@ -1410,7 +1478,6 @@ all times EDT (UTC-0400)
 ### 2018-08-15 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:30 - 19:30: Music Library Enterprise Support (AppleCare) (Oakland Presbyterian)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-08-16 (Thu):
@@ -1435,3 +1502,4 @@ all times EDT (UTC-0400)
 ### 2018-08-20 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:00: Yin Yoga
