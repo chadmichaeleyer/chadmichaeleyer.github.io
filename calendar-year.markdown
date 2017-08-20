@@ -37,6 +37,7 @@ all times EDT (UTC-0400)
 * 10:15 - 10:45: Office Time (AppleCare)
 * 11:45 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Open Educational Resources
 * 13:00 - 14:15: Enterprise Server and Education Technical Support (AppleCare)
 * 14:30 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Office Time (UWF)
@@ -54,7 +55,6 @@ all times EDT (UTC-0400)
 * 14:15 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Office Time (UWF)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-08-25 (Fri):
 
@@ -84,7 +84,6 @@ all times EDT (UTC-0400)
 * 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:45 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Office Time (UWF)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-08-30 (Wed):
 
@@ -110,7 +109,7 @@ all times EDT (UTC-0400)
 * 14:15 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Office Time (UWF)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-09-01 (Fri):
 
@@ -155,6 +154,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Accessible Course Materials  - Basics of HTML
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -170,7 +170,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-09-08 (Fri):
 
@@ -183,11 +183,11 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-09-09 (Sat):
 
 * 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
+* 08:00 - 11:00: Tentative – Office Time (AppleCare)fast (Lodge 69)
 
 ### 2017-09-10 (Sun):
 
@@ -221,6 +221,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Accessible Course Materials - Colors, Images, and Tables
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -236,8 +237,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-09-15 (Fri):
 
@@ -250,7 +250,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-09-16 (Sat):
 
@@ -279,7 +278,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-09-20 (Wed):
 
@@ -287,6 +285,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Accessible Word Docs  - Styles and Alt Text
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -302,7 +301,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-09-22 (Fri):
 
@@ -364,7 +363,7 @@ all times EDT (UTC-0400)
 * 16:45 - 17:45: Healthcare Appointment 
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-09-29 (Fri):
 
@@ -377,7 +376,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-10-01 (Sun):
 
@@ -402,7 +400,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-10-04 (Wed):
 
@@ -410,6 +407,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Accessible Word Docs - Tables
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -425,7 +423,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-10-06 (Fri):
 
@@ -476,6 +474,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Accessible PDFs - Tags, Converting from Word
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -491,8 +490,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-10-13 (Fri):
 
@@ -511,6 +509,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 * 07:00 - 22:00: UCF Homecoming
+* 08:00 - 11:00: Tentative – Office Time (AppleCare)fast (Lodge 69)
 * 09:00 - 09:45: Haircut
 
 ### 2017-10-15 (Sun):
@@ -536,7 +535,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-10-18 (Wed):
 
@@ -544,6 +542,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Accessible PDFs - Forms and Accessibility Checker
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -560,7 +559,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-10-20 (Fri):
 
@@ -606,6 +605,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Ensuring Accessible Multimedia - Animations and Images
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -621,7 +621,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-10-27 (Fri):
 
@@ -634,7 +634,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-10-29 (Sun):
 
@@ -660,7 +659,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-11-01 (Wed):
 
@@ -668,6 +666,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Ensuring Accessible Multimedia - Audio and Video
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -683,7 +682,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-11-03 (Fri):
 
@@ -726,7 +725,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-11-08 (Wed):
 
@@ -734,6 +732,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Captioning Videos Using YouTube
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -749,8 +748,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-11-10 (Fri):
 
@@ -769,6 +767,7 @@ all times EDT (UTC-0400)
 
 * Veterans Day
 * 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
+* 08:00 - 11:00: Tentative – Office Time (AppleCare)fast (Lodge 69)
 * 09:00 - 09:45: Haircut
 
 ### 2017-11-12 (Sun):
@@ -803,6 +802,7 @@ all times EDT (UTC-0400)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
+* 12:30 - 13:30: ATC Live@Office Time (AppleCare): Captioning Videos Using Amara
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -818,7 +818,7 @@ all times EDT (UTC-0400)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 19:00: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-11-17 (Fri):
 
@@ -831,7 +831,6 @@ all times EDT (UTC-0400)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-11-19 (Sun):
 
@@ -872,9 +871,4 @@ all times EDT (UTC-0400)
 ### 2017-11-23 (Thu):
 
 * Thanksgiving
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
-* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
-* 16:15 - 16:45: Office Time (AppleCare)
-* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 18:00: Not Attending – AppleCare Advisor
