@@ -164,10 +164,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20170823T123000
 DTEND;TZID=/America/New_York:20170823T133000
-SUMMARY:ATC Live
-Lunch: Open Educational Resources
-uid: nfhtb2dmqhuaafokrl028rrctk
-google.com
+SUMMARY:ATC Live@Lunch: Open Educational Resources
+uid: nfhtb2dmqhuaafokrl028rrctk@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20170823T130000
@@ -622,10 +620,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20170906T123000
 DTEND;TZID=/America/New_York:20170906T133000
-SUMMARY:ATC Live
-Lunch: Accessible Course Materials  - Basics of HTML
-uid: fdae601ohumvvh8hl8h7rlpcbk
-google.com
+SUMMARY:ATC Live@Lunch: Accessible Course Materials  - Basics of HTML
+uid: fdae601ohumvvh8hl8h7rlpcbk@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20170906T140000
@@ -900,10 +896,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20170913T123000
 DTEND;TZID=/America/New_York:20170913T133000
-SUMMARY:ATC Live
-Lunch: Accessible Course Materials - Colors, Images, and Tables
-uid: a9h7roimelpf7r12sta22p8f58
-google.com
+SUMMARY:ATC Live@Lunch: Accessible Course Materials - Colors, Images, and Tables
+uid: a9h7roimelpf7r12sta22p8f58@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20170913T140000
@@ -1160,10 +1154,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20170920T123000
 DTEND;TZID=/America/New_York:20170920T133000
-SUMMARY:ATC Live
-Lunch: Accessible Word Docs  - Styles and Alt Text
-uid: ondh5q2pfc4hdgaj5mtelh05fs
-google.com
+SUMMARY:ATC Live@Lunch: Accessible Word Docs  - Styles and Alt Text
+uid: ondh5q2pfc4hdgaj5mtelh05fs@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20170920T140000
@@ -1678,10 +1670,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171004T123000
 DTEND;TZID=/America/New_York:20171004T133000
-SUMMARY:ATC Live
-Lunch: Accessible Word Docs - Tables
-uid: htu3ll1foc850r27gplagh1r30
-google.com
+SUMMARY:ATC Live@Lunch: Accessible Word Docs - Tables
+uid: htu3ll1foc850r27gplagh1r30@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171004T140000
@@ -1950,10 +1940,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171011T123000
 DTEND;TZID=/America/New_York:20171011T133000
-SUMMARY:ATC Live
-Lunch: Accessible PDFs - Tags, Converting from Word
-uid: h8h6508fjp075cjsiepk63dbq4
-google.com
+SUMMARY:ATC Live@Lunch: Accessible PDFs - Tags, Converting from Word
+uid: h8h6508fjp075cjsiepk63dbq4@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171011T140000
@@ -2234,10 +2222,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171018T123000
 DTEND;TZID=/America/New_York:20171018T133000
-SUMMARY:ATC Live
-Lunch: Accessible PDFs - Forms and Accessibility Checker
-uid: eb7qaa32lehee7gam643m7fnnk
-google.com
+SUMMARY:ATC Live@Lunch: Accessible PDFs - Forms and Accessibility Checker
+uid: eb7qaa32lehee7gam643m7fnnk@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171018T140000
@@ -2500,10 +2486,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171025T123000
 DTEND;TZID=/America/New_York:20171025T133000
-SUMMARY:ATC Live
-Lunch: Ensuring Accessible Multimedia - Animations and Images
-uid: h44ng00nd5a2jrq9rmfj6qjbbo
-google.com
+SUMMARY:ATC Live@Lunch: Ensuring Accessible Multimedia - Animations and Images
+uid: h44ng00nd5a2jrq9rmfj6qjbbo@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171025T140000
@@ -2754,10 +2738,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171101T123000
 DTEND;TZID=/America/New_York:20171101T133000
-SUMMARY:ATC Live
-Lunch: Ensuring Accessible Multimedia - Audio and Video
-uid: 59kpdh7ufi94l8fq86i1nv2cr4
-google.com
+SUMMARY:ATC Live@Lunch: Ensuring Accessible Multimedia - Audio and Video
+uid: 59kpdh7ufi94l8fq86i1nv2cr4@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171101T140000
@@ -3014,10 +2996,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171108T123000
 DTEND;TZID=/America/New_York:20171108T133000
-SUMMARY:ATC Live
-Lunch: Captioning Videos Using YouTube
-uid: vug0hct52rlk4mhvrv275nhbgk
-google.com
+SUMMARY:ATC Live@Lunch: Captioning Videos Using YouTube
+uid: vug0hct52rlk4mhvrv275nhbgk@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171108T140000
@@ -3298,10 +3278,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171115T123000
 DTEND;TZID=/America/New_York:20171115T133000
-SUMMARY:ATC Live
-Lunch: Captioning Videos Using Amara
-uid: r2gjjm8849loqtk902uslodoeg
-google.com
+SUMMARY:ATC Live@Lunch: Captioning Videos Using Amara
+uid: r2gjjm8849loqtk902uslodoeg@google.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=/America/New_York:20171115T140000
