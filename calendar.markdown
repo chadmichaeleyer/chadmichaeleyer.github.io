@@ -2,9 +2,9 @@ all times Eastern
 
 ### today:
 
-* 10:00 - 11:00: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian) — Not Attending
 * 10:00 - 11:00: Breakfast 
-* 11:00 - 12:30: Not Attending – Worship, Traditional Service (Oakland Presbyterian)
+* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian) — Not Attending
 * 18:00 - 20:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### tomorrow:
@@ -14,7 +14,7 @@ all times Eastern
 * 12:00 - 14:30: Enterprise Server and Education Technical Support (AppleCare)
 * 15:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:30 - 17:00: Healthcare Appointment 
-* 19:00 - 21:00: Not Attending – Degree Rehearsal (Lodge 69)
+* 19:00 - 21:00: Degree Rehearsal (Lodge 69) — Not Attending
 * 19:30 - 21:00: Yin Yoga
 
 ### day after tomorrow:
