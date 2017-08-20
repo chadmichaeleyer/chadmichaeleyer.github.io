@@ -1,4 +1,4 @@
-all times EDT (UTC-0400)
+all times Eastern
 
 ### today:
 

@@ -1,4 +1,4 @@
-all times EDT (UTC-0400)
+all times Eastern
 
 ### 2017-08-20 (Sun):
 
