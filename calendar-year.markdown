@@ -42,7 +42,7 @@ all times EDT (UTC-0400)
 
 ### 2017-08-31 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-09-01 (Fri):
 
@@ -73,7 +73,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-07 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-09-09 (Sat):
 
@@ -100,7 +100,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-14 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-09-16 (Sat):
 
@@ -122,7 +122,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-21 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-09-24 (Sun):
 
@@ -146,7 +146,7 @@ all times EDT (UTC-0400)
 ### 2017-09-28 (Thu):
 
 * 16:45 - 17:45: Healthcare Appointment 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-10-01 (Sun):
 
@@ -164,7 +164,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-05 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-10-07 (Sat):
 
@@ -192,7 +192,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-12 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-10-13 (Fri):
 
@@ -221,7 +221,7 @@ all times EDT (UTC-0400)
 ### 2017-10-19 (Thu):
 
 * 08:40 - 09:30: Healthcare Appointment 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-10-22 (Sun):
 
@@ -244,7 +244,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-26 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-10-29 (Sun):
 
@@ -266,7 +266,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-02 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-11-04 (Sat):
 
@@ -293,7 +293,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-09 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-11-10 (Fri):
 
@@ -326,7 +326,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-16 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-11-19 (Sun):
 
@@ -368,7 +368,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-30 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-12-03 (Sun):
 
@@ -386,7 +386,7 @@ all times EDT (UTC-0400)
 
 ### 2017-12-07 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-12-09 (Sat):
 
@@ -414,7 +414,7 @@ all times EDT (UTC-0400)
 
 ### 2017-12-14 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-12-16 (Sat):
 
@@ -437,7 +437,7 @@ all times EDT (UTC-0400)
 
 ### 2017-12-21 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-12-24 (Sun):
 
@@ -474,7 +474,7 @@ all times EDT (UTC-0400)
 
 ### 2018-01-04 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-01-06 (Sat):
 
@@ -502,7 +502,7 @@ all times EDT (UTC-0400)
 
 ### 2018-01-11 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-01-13 (Sat):
 
@@ -525,7 +525,7 @@ all times EDT (UTC-0400)
 
 ### 2018-01-18 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-01-21 (Sun):
 
@@ -548,7 +548,7 @@ all times EDT (UTC-0400)
 
 ### 2018-01-25 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-01-28 (Sun):
 
@@ -566,7 +566,7 @@ all times EDT (UTC-0400)
 
 ### 2018-02-01 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-02-02 (Fri):
 
@@ -593,7 +593,7 @@ all times EDT (UTC-0400)
 
 ### 2018-02-08 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-02-10 (Sat):
 
@@ -621,7 +621,7 @@ all times EDT (UTC-0400)
 
 ### 2018-02-15 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-02-18 (Sun):
 
@@ -640,7 +640,7 @@ all times EDT (UTC-0400)
 
 ### 2018-02-22 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-02-25 (Sun):
 
@@ -663,7 +663,7 @@ all times EDT (UTC-0400)
 
 ### 2018-03-01 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-03-03 (Sat):
 
@@ -686,7 +686,7 @@ all times EDT (UTC-0400)
 
 ### 2018-03-08 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-03-10 (Sat):
 
@@ -714,7 +714,7 @@ all times EDT (UTC-0400)
 
 ### 2018-03-15 (Thu):
 
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-03-17 (Sat):
 
@@ -745,7 +745,7 @@ all times EDT (UTC-0400)
 ### 2018-03-22 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-03-23 (Fri):
 
@@ -781,7 +781,7 @@ all times EDT (UTC-0400)
 ### 2018-03-29 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-03-30 (Fri):
 
@@ -818,7 +818,7 @@ all times EDT (UTC-0400)
 ### 2018-04-05 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-04-06 (Fri):
 
@@ -855,7 +855,7 @@ all times EDT (UTC-0400)
 ### 2018-04-12 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-04-13 (Fri):
 
@@ -891,7 +891,7 @@ all times EDT (UTC-0400)
 ### 2018-04-19 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-04-20 (Fri):
 
@@ -928,7 +928,7 @@ all times EDT (UTC-0400)
 ### 2018-04-26 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-04-27 (Fri):
 
@@ -963,7 +963,7 @@ all times EDT (UTC-0400)
 ### 2018-05-03 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-05-04 (Fri):
 
@@ -1000,7 +1000,7 @@ all times EDT (UTC-0400)
 ### 2018-05-10 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-05-11 (Fri):
 
@@ -1036,7 +1036,7 @@ all times EDT (UTC-0400)
 ### 2018-05-17 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-05-18 (Fri):
 
@@ -1072,7 +1072,7 @@ all times EDT (UTC-0400)
 ### 2018-05-24 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-05-25 (Fri):
 
@@ -1108,7 +1108,7 @@ all times EDT (UTC-0400)
 ### 2018-05-31 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-06-01 (Fri):
 
@@ -1143,7 +1143,7 @@ all times EDT (UTC-0400)
 ### 2018-06-07 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-06-08 (Fri):
 
@@ -1181,7 +1181,7 @@ all times EDT (UTC-0400)
 
 * Flag Day
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-06-15 (Fri):
 
@@ -1216,7 +1216,7 @@ all times EDT (UTC-0400)
 ### 2018-06-21 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-06-22 (Fri):
 
@@ -1253,7 +1253,7 @@ all times EDT (UTC-0400)
 ### 2018-06-28 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-06-29 (Fri):
 
@@ -1288,7 +1288,7 @@ all times EDT (UTC-0400)
 ### 2018-07-05 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-07-06 (Fri):
 
@@ -1325,7 +1325,7 @@ all times EDT (UTC-0400)
 ### 2018-07-12 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-07-13 (Fri):
 
@@ -1360,7 +1360,7 @@ all times EDT (UTC-0400)
 ### 2018-07-19 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-07-20 (Fri):
 
@@ -1397,7 +1397,7 @@ all times EDT (UTC-0400)
 ### 2018-07-26 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-07-27 (Fri):
 
@@ -1431,7 +1431,7 @@ all times EDT (UTC-0400)
 ### 2018-08-02 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-08-03 (Fri):
 
@@ -1466,7 +1466,7 @@ all times EDT (UTC-0400)
 ### 2018-08-09 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-08-10 (Fri):
 
@@ -1503,7 +1503,7 @@ all times EDT (UTC-0400)
 ### 2018-08-16 (Thu):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 18:00 - 19:00: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-08-17 (Fri):
 
