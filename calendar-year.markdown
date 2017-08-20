@@ -340,7 +340,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-22 (Wed):
 
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-23 (Thu):
 
@@ -465,8 +465,6 @@ all times EDT (UTC-0400)
 ### 2018-01-01 (Mon):
 
 * New Year’s Day
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2018-01-03 (Wed):
 
