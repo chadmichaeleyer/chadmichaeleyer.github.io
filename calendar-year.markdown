@@ -9,13 +9,13 @@ all times EDT (UTC-0400)
 ### 2017-08-21 (Mon):
 
 * 16:30 - 17:00: Healthcare Appointment 
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
+* 19:00 - 21:00: Not Attending – Degree Rehearsal (Lodge 69)
+* 19:30 - 21:00: Yin Yoga
 
 ### 2017-08-22 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
-* 18:30 - 19:30: Fellowship (Lodge 69)
 * 18:30 - 20:15: Business Meeting (Bahia Drum & Bugle Corps)
+* 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 ### 2017-08-23 (Wed):
@@ -33,11 +33,8 @@ all times EDT (UTC-0400)
 
 ### 2017-08-28 (Mon):
 
+* 16:30 - 17:00: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
-
-### 2017-08-29 (Tue):
-
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-08-30 (Wed):
 
@@ -53,7 +50,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-02 (Sat):
 
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2017-09-03 (Sun):
 
@@ -65,6 +62,11 @@ all times EDT (UTC-0400)
 * Labor Day
 * 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
+### 2017-09-05 (Tue):
+
+* 18:30 - 19:30: Fellowship (Lodge 69)
+* 19:30 - 21:30: Called Communication/Entered Apprentice Degree 
+
 ### 2017-09-06 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -75,7 +77,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-09 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2017-09-10 (Sun):
 
@@ -84,11 +86,11 @@ all times EDT (UTC-0400)
 
 ### 2017-09-11 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-09-12 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -99,7 +101,6 @@ all times EDT (UTC-0400)
 ### 2017-09-14 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2017-09-16 (Sat):
 
@@ -112,6 +113,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-18 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-09-20 (Wed):
@@ -129,11 +131,11 @@ all times EDT (UTC-0400)
 
 ### 2017-09-25 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-09-26 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -153,6 +155,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-02 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-04 (Wed):
@@ -175,11 +178,11 @@ all times EDT (UTC-0400)
 ### 2017-10-09 (Mon):
 
 * Columbus Day
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-10 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -190,7 +193,6 @@ all times EDT (UTC-0400)
 ### 2017-10-12 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2017-10-13 (Fri):
 
@@ -198,8 +200,9 @@ all times EDT (UTC-0400)
 
 ### 2017-10-14 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 07:00 - 22:00: UCF Homecoming
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
+* 09:00 - 09:45: Haircut
 
 ### 2017-10-15 (Sun):
 
@@ -208,6 +211,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-16 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-18 (Wed):
@@ -226,11 +230,11 @@ all times EDT (UTC-0400)
 
 ### 2017-10-23 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-24 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -249,6 +253,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-30 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-31 (Tue):
@@ -275,6 +280,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-06 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-11-07 (Tue):
@@ -288,7 +294,6 @@ all times EDT (UTC-0400)
 ### 2017-11-09 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2017-11-10 (Fri):
 
@@ -297,7 +302,8 @@ all times EDT (UTC-0400)
 ### 2017-11-11 (Sat):
 
 * Veterans Day
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
+* 09:00 - 09:45: Haircut
 
 ### 2017-11-12 (Sun):
 
@@ -306,11 +312,11 @@ all times EDT (UTC-0400)
 
 ### 2017-11-13 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-11-14 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -329,6 +335,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-20 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-11-22 (Wed):
@@ -338,7 +345,6 @@ all times EDT (UTC-0400)
 ### 2017-11-23 (Thu):
 
 * Thanksgiving
-* 18:00 - 19:00: Healthcare Appointment 
 
 ### 2017-11-26 (Sun):
 
@@ -348,11 +354,11 @@ all times EDT (UTC-0400)
 
 ### 2017-11-27 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-11-28 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -371,6 +377,7 @@ all times EDT (UTC-0400)
 
 ### 2017-12-04 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-12-06 (Wed):
@@ -383,7 +390,8 @@ all times EDT (UTC-0400)
 
 ### 2017-12-09 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
+* 09:00 - 09:45: Haircut
 
 ### 2017-12-10 (Sun):
 
@@ -392,11 +400,11 @@ all times EDT (UTC-0400)
 
 ### 2017-12-11 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-12-12 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -407,12 +415,11 @@ all times EDT (UTC-0400)
 ### 2017-12-14 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2017-12-16 (Sat):
 
 * 09:00 - 12:00: Masters & Wardens Meeting
-* 10:00 - 13:00: Commencement at UF
+* 10:00 - 13:00: University of Florida Commencement
 
 ### 2017-12-17 (Sun):
 
@@ -421,6 +428,7 @@ all times EDT (UTC-0400)
 
 ### 2017-12-18 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-12-20 (Wed):
@@ -439,21 +447,15 @@ all times EDT (UTC-0400)
 ### 2017-12-25 (Mon):
 
 * Christmas Day
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-12-26 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
 ### 2017-12-27 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
-### 2017-12-28 (Thu):
-
-* 18:00 - 19:00: Healthcare Appointment 
 
 ### 2017-12-31 (Sun):
 
@@ -463,6 +465,7 @@ all times EDT (UTC-0400)
 ### 2018-01-01 (Mon):
 
 * New Year’s Day
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-01-03 (Wed):
@@ -475,7 +478,8 @@ all times EDT (UTC-0400)
 
 ### 2018-01-06 (Sat):
 
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 09:45: Haircut
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2018-01-07 (Sun):
 
@@ -484,11 +488,11 @@ all times EDT (UTC-0400)
 
 ### 2018-01-08 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-01-09 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -499,11 +503,10 @@ all times EDT (UTC-0400)
 ### 2018-01-11 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-01-13 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2018-01-14 (Sun):
 
@@ -513,6 +516,7 @@ all times EDT (UTC-0400)
 ### 2018-01-15 (Mon):
 
 * Martin Luther King, Jr. Day
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-01-17 (Wed):
@@ -530,11 +534,11 @@ all times EDT (UTC-0400)
 
 ### 2018-01-22 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-01-23 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -553,6 +557,7 @@ all times EDT (UTC-0400)
 
 ### 2018-01-29 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-01-31 (Wed):
@@ -569,7 +574,8 @@ all times EDT (UTC-0400)
 
 ### 2018-02-03 (Sat):
 
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 09:45: Haircut
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2018-02-04 (Sun):
 
@@ -578,6 +584,7 @@ all times EDT (UTC-0400)
 
 ### 2018-02-05 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-02-07 (Wed):
@@ -587,11 +594,10 @@ all times EDT (UTC-0400)
 ### 2018-02-08 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-02-10 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2018-02-11 (Sun):
 
@@ -600,11 +606,11 @@ all times EDT (UTC-0400)
 
 ### 2018-02-12 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-02-13 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -625,6 +631,7 @@ all times EDT (UTC-0400)
 ### 2018-02-19 (Mon):
 
 * Presidents’ Day
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-02-21 (Wed):
@@ -642,11 +649,11 @@ all times EDT (UTC-0400)
 
 ### 2018-02-26 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-02-27 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -660,7 +667,8 @@ all times EDT (UTC-0400)
 
 ### 2018-03-03 (Sat):
 
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 09:45: Haircut
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2018-03-04 (Sun):
 
@@ -669,6 +677,7 @@ all times EDT (UTC-0400)
 
 ### 2018-03-05 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-03-07 (Wed):
@@ -678,11 +687,10 @@ all times EDT (UTC-0400)
 ### 2018-03-08 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-03-10 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2018-03-11 (Sun):
 
@@ -692,11 +700,11 @@ all times EDT (UTC-0400)
 
 ### 2018-03-12 (Mon):
 
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-03-13 (Tue):
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -722,6 +730,7 @@ all times EDT (UTC-0400)
 ### 2018-03-19 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-03-20 (Tue):
@@ -755,12 +764,12 @@ all times EDT (UTC-0400)
 ### 2018-03-26 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-03-27 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -781,6 +790,7 @@ all times EDT (UTC-0400)
 ### 2018-03-31 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 09:45: Haircut
 
 ### 2018-04-01 (Sun):
 
@@ -793,6 +803,7 @@ all times EDT (UTC-0400)
 ### 2018-04-02 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-04-03 (Tue):
@@ -816,7 +827,7 @@ all times EDT (UTC-0400)
 ### 2018-04-07 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2018-04-08 (Sun):
 
@@ -827,12 +838,12 @@ all times EDT (UTC-0400)
 ### 2018-04-09 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-04-10 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -845,7 +856,6 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-04-13 (Fri):
 
@@ -853,8 +863,8 @@ all times EDT (UTC-0400)
 
 ### 2018-04-14 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2018-04-15 (Sun):
 
@@ -865,6 +875,7 @@ all times EDT (UTC-0400)
 ### 2018-04-16 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-04-17 (Tue):
@@ -900,12 +911,12 @@ all times EDT (UTC-0400)
 ### 2018-04-23 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-04-24 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -926,6 +937,7 @@ all times EDT (UTC-0400)
 ### 2018-04-28 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 09:45: Haircut
 
 ### 2018-04-29 (Sun):
 
@@ -936,6 +948,7 @@ all times EDT (UTC-0400)
 ### 2018-04-30 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-01 (Tue):
@@ -959,7 +972,7 @@ all times EDT (UTC-0400)
 ### 2018-05-05 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2018-05-06 (Sun):
 
@@ -970,12 +983,12 @@ all times EDT (UTC-0400)
 ### 2018-05-07 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-08 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -988,7 +1001,6 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-05-11 (Fri):
 
@@ -996,8 +1008,8 @@ all times EDT (UTC-0400)
 
 ### 2018-05-12 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2018-05-13 (Sun):
 
@@ -1009,6 +1021,7 @@ all times EDT (UTC-0400)
 ### 2018-05-14 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-15 (Tue):
@@ -1042,12 +1055,12 @@ all times EDT (UTC-0400)
 ### 2018-05-21 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-22 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -1068,6 +1081,7 @@ all times EDT (UTC-0400)
 ### 2018-05-26 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 09:45: Haircut
 
 ### 2018-05-27 (Sun):
 
@@ -1079,6 +1093,7 @@ all times EDT (UTC-0400)
 
 * Memorial Day
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-05-29 (Tue):
@@ -1102,7 +1117,7 @@ all times EDT (UTC-0400)
 ### 2018-06-02 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2018-06-03 (Sun):
 
@@ -1113,6 +1128,7 @@ all times EDT (UTC-0400)
 ### 2018-06-04 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-06-05 (Tue):
@@ -1135,8 +1151,8 @@ all times EDT (UTC-0400)
 
 ### 2018-06-09 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2018-06-10 (Sun):
 
@@ -1147,12 +1163,12 @@ all times EDT (UTC-0400)
 ### 2018-06-11 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-06-12 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -1166,7 +1182,6 @@ all times EDT (UTC-0400)
 * Flag Day
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-06-15 (Fri):
 
@@ -1186,6 +1201,7 @@ all times EDT (UTC-0400)
 ### 2018-06-18 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-06-19 (Tue):
@@ -1209,6 +1225,7 @@ all times EDT (UTC-0400)
 ### 2018-06-23 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 09:45: Haircut
 
 ### 2018-06-24 (Sun):
 
@@ -1219,12 +1236,12 @@ all times EDT (UTC-0400)
 ### 2018-06-25 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-06-26 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -1255,6 +1272,7 @@ all times EDT (UTC-0400)
 ### 2018-07-02 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-03 (Tue):
@@ -1279,7 +1297,7 @@ all times EDT (UTC-0400)
 ### 2018-07-07 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2018-07-08 (Sun):
 
@@ -1290,12 +1308,12 @@ all times EDT (UTC-0400)
 ### 2018-07-09 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-10 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -1308,7 +1326,6 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-07-13 (Fri):
 
@@ -1316,8 +1333,8 @@ all times EDT (UTC-0400)
 
 ### 2018-07-14 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2018-07-15 (Sun):
 
@@ -1328,6 +1345,7 @@ all times EDT (UTC-0400)
 ### 2018-07-16 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-17 (Tue):
@@ -1351,6 +1369,7 @@ all times EDT (UTC-0400)
 ### 2018-07-21 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 09:45: Haircut
 
 ### 2018-07-22 (Sun):
 
@@ -1361,12 +1380,12 @@ all times EDT (UTC-0400)
 ### 2018-07-23 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-24 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -1397,6 +1416,7 @@ all times EDT (UTC-0400)
 ### 2018-07-30 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-07-31 (Tue):
@@ -1420,7 +1440,7 @@ all times EDT (UTC-0400)
 ### 2018-08-04 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:00 - 12:00: Masters & Wardens Meeting
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
 
 ### 2018-08-05 (Sun):
 
@@ -1431,6 +1451,7 @@ all times EDT (UTC-0400)
 ### 2018-08-06 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-08-07 (Tue):
@@ -1446,7 +1467,6 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 19:00: Healthcare Appointment 
-* 18:00 - 20:00: Not Attending – Drinking Liberally
 
 ### 2018-08-10 (Fri):
 
@@ -1454,8 +1474,8 @@ all times EDT (UTC-0400)
 
 ### 2018-08-11 (Sat):
 
-* 07:00 - 08:00: Kitchen Preparation (Lodge 69)
 * 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
 
 ### 2018-08-12 (Sun):
 
@@ -1466,12 +1486,12 @@ all times EDT (UTC-0400)
 ### 2018-08-13 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2018-08-14 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
@@ -1492,6 +1512,7 @@ all times EDT (UTC-0400)
 ### 2018-08-18 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 09:45: Haircut
 
 ### 2018-08-19 (Sun):
 
@@ -1502,4 +1523,5 @@ all times EDT (UTC-0400)
 ### 2018-08-20 (Mon):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga

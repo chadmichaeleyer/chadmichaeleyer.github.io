@@ -9,11 +9,11 @@ all times EDT (UTC-0400)
 ### tomorrow:
 
 * 16:30 - 17:00: Healthcare Appointment 
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
+* 19:00 - 21:00: Not Attending – Degree Rehearsal (Lodge 69)
+* 19:30 - 21:00: Yin Yoga
 
 ### day after tomorrow:
 
-* 17:30 - 18:30: Kitchen Preparation (Lodge 69)
-* 18:30 - 19:30: Fellowship (Lodge 69)
 * 18:30 - 20:15: Business Meeting (Bahia Drum & Bugle Corps)
+* 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
