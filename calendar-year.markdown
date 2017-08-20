@@ -118,7 +118,6 @@ all times Eastern
 * 10:00 - 10:30: Office Time (AppleCare)
 * 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:45 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 18:00: Office Time (UWF)
 * 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-09-02 (Sat):
@@ -493,7 +492,6 @@ all times Eastern
 
 ### 2017-10-13 (Fri):
 
-* 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
 * 10:30 - 11:00: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:00: Roundtable Meeting (AppleCare)
@@ -864,7 +862,7 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian) — Not Attending
 
 ### 2017-11-23 (Thu):
 
