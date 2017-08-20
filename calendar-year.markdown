@@ -183,10 +183,14 @@ all times EDT (UTC-0400)
 * 18:00 - 19:00: Healthcare Appointment 
 * 18:00 - 20:00: Drinking Liberally
 
+### 2017-10-13 (Fri):
+
+* 19:00 - 21:15: UCF Homecoming
+
 ### 2017-10-14 (Sat):
 
 * 07:00 - 08:00: Kitchen Preparation (Lodge 69)
-* 08:00 - 22:00: UCF Homecoming
+* 07:00 - 22:00: UCF Homecoming
 
 ### 2017-10-15 (Sun):
 
