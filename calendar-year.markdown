@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-21 (Mon):
-
-* 19:00 - 21:00: Not Attending – Degree Rehearsal (Lodge 69)
-* 19:30 - 21:00: Yin Yoga
-
 ### 2017-08-22 (Tue):
 
 * 16:30 - 17:00: Healthcare Appointment 
@@ -1522,3 +1517,8 @@ all times EDT (UTC-0400)
 ### 2018-08-21 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-08-22 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
