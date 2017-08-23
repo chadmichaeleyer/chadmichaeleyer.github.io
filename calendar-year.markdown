@@ -33,10 +33,6 @@ all times EDT (UTC-0400)
 
 * 18:00 - 18:45: Healthcare Appointment 
 
-### 2017-09-01 (Fri):
-
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
-
 ### 2017-09-02 (Sat):
 
 * 09:00 - 12:00: Tentative – Masters & Wardens Meeting
@@ -45,11 +41,11 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-09-04 (Mon):
 
 * Labor Day
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-09-05 (Tue):
 
@@ -261,6 +257,7 @@ all times EDT (UTC-0400)
 ### 2017-11-04 (Sat):
 
 * 09:00 - 12:00: Masters & Wardens Meeting
+* 17:00 - 21:00: Called Communication/Master Mason Degree 
 
 ### 2017-11-05 (Sun):
 
