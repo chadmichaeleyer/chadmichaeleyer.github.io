@@ -35,7 +35,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-02 (Sat):
 
-* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
+* 09:00 - 12:00: Masters & Wardens Meeting
 
 ### 2017-09-03 (Sun):
 
