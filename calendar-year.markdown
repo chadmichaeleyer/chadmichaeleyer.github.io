@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-23 (Wed):
-
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-
 ### 2017-08-24 (Thu):
 
 * 18:00 - 19:00: Healthcare Appointment 
@@ -1517,3 +1513,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 18:45: Healthcare Appointment 
+
+### 2018-08-24 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
