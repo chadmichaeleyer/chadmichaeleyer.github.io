@@ -40,13 +40,9 @@ all times EDT (UTC-0400)
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
-### 2017-09-07 (Thu):
-
-* 18:00 - 18:45: Healthcare Appointment 
-
 ### 2017-09-09 (Sat):
 
-* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
+* 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
 
 ### 2017-09-10 (Sun):
 
