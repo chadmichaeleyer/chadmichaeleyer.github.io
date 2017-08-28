@@ -2,7 +2,6 @@ all times EDT (UTC-0400)
 
 ### 2017-08-28 (Mon):
 
-* 16:30 - 17:00: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-08-29 (Tue):
@@ -12,6 +11,7 @@ all times EDT (UTC-0400)
 ### 2017-08-30 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-08-31 (Thu):
 
@@ -38,6 +38,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-06 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-09 (Sat):
@@ -64,6 +65,7 @@ all times EDT (UTC-0400)
 ### 2017-09-13 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-14 (Thu):
 
@@ -85,6 +87,7 @@ all times EDT (UTC-0400)
 
 ### 2017-09-20 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-21 (Thu):
@@ -109,6 +112,7 @@ all times EDT (UTC-0400)
 ### 2017-09-27 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-09-28 (Thu):
 
@@ -127,6 +131,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-04 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-05 (Thu):
@@ -156,6 +161,7 @@ all times EDT (UTC-0400)
 ### 2017-10-11 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-12 (Thu):
 
@@ -183,6 +189,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-18 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-19 (Thu):
@@ -192,6 +199,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-22 (Sun):
 
+* 07:00 - 22:00: Azan Picnic
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
@@ -208,6 +216,7 @@ all times EDT (UTC-0400)
 ### 2017-10-25 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-26 (Thu):
 
@@ -229,6 +238,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-01 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-02 (Thu):
@@ -258,6 +268,7 @@ all times EDT (UTC-0400)
 ### 2017-11-08 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-09 (Thu):
 
@@ -290,6 +301,7 @@ all times EDT (UTC-0400)
 
 ### 2017-11-15 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-16 (Thu):
@@ -309,6 +321,7 @@ all times EDT (UTC-0400)
 ### 2017-11-22 (Wed):
 
 * 19:30 - 21:45: Not Attending – Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-23 (Thu):
 
@@ -333,6 +346,7 @@ all times EDT (UTC-0400)
 ### 2017-11-29 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-30 (Thu):
 
@@ -350,6 +364,7 @@ all times EDT (UTC-0400)
 
 ### 2017-12-06 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-07 (Thu):
@@ -379,6 +394,7 @@ all times EDT (UTC-0400)
 ### 2017-12-13 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-14 (Thu):
 
@@ -401,6 +417,7 @@ all times EDT (UTC-0400)
 
 ### 2017-12-20 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-21 (Thu):
@@ -424,6 +441,7 @@ all times EDT (UTC-0400)
 ### 2017-12-27 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-12-31 (Sun):
 
@@ -436,6 +454,7 @@ all times EDT (UTC-0400)
 
 ### 2018-01-03 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-04 (Thu):
@@ -465,6 +484,7 @@ all times EDT (UTC-0400)
 ### 2018-01-10 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-11 (Thu):
 
@@ -487,6 +507,7 @@ all times EDT (UTC-0400)
 
 ### 2018-01-17 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-18 (Thu):
@@ -511,6 +532,7 @@ all times EDT (UTC-0400)
 ### 2018-01-24 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-01-25 (Thu):
 
@@ -529,6 +551,7 @@ all times EDT (UTC-0400)
 ### 2018-01-31 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-01 (Thu):
 
@@ -555,6 +578,7 @@ all times EDT (UTC-0400)
 
 ### 2018-02-07 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-08 (Thu):
@@ -584,6 +608,7 @@ all times EDT (UTC-0400)
 
 * Valentine’s Day
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-15 (Thu):
 
@@ -602,6 +627,7 @@ all times EDT (UTC-0400)
 
 ### 2018-02-21 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-02-22 (Thu):
@@ -626,6 +652,7 @@ all times EDT (UTC-0400)
 ### 2018-02-28 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-01 (Thu):
 
@@ -648,6 +675,7 @@ all times EDT (UTC-0400)
 
 ### 2018-03-07 (Wed):
 
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-08 (Thu):
@@ -677,6 +705,7 @@ all times EDT (UTC-0400)
 ### 2018-03-14 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-15 (Thu):
 
@@ -706,6 +735,7 @@ all times EDT (UTC-0400)
 ### 2018-03-21 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-22 (Thu):
@@ -743,6 +773,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-03-29 (Thu):
 
@@ -779,6 +810,7 @@ all times EDT (UTC-0400)
 ### 2018-04-04 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-05 (Thu):
@@ -817,6 +849,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-12 (Thu):
 
@@ -852,6 +885,7 @@ all times EDT (UTC-0400)
 ### 2018-04-18 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-19 (Thu):
@@ -890,6 +924,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-04-26 (Thu):
 
@@ -924,6 +959,7 @@ all times EDT (UTC-0400)
 ### 2018-05-02 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-03 (Thu):
@@ -962,6 +998,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-10 (Thu):
 
@@ -997,6 +1034,7 @@ all times EDT (UTC-0400)
 ### 2018-05-16 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-17 (Thu):
@@ -1034,6 +1072,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-24 (Thu):
 
@@ -1070,6 +1109,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-05-31 (Thu):
 
@@ -1104,6 +1144,7 @@ all times EDT (UTC-0400)
 ### 2018-06-06 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-07 (Thu):
@@ -1142,6 +1183,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-14 (Thu):
 
@@ -1177,6 +1219,7 @@ all times EDT (UTC-0400)
 ### 2018-06-20 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-21 (Thu):
@@ -1215,6 +1258,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-06-28 (Thu):
 
@@ -1249,6 +1293,7 @@ all times EDT (UTC-0400)
 
 * Independence Day
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-05 (Thu):
@@ -1287,6 +1332,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-12 (Thu):
 
@@ -1321,6 +1367,7 @@ all times EDT (UTC-0400)
 ### 2018-07-18 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-19 (Thu):
@@ -1359,6 +1406,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-07-26 (Thu):
 
@@ -1392,6 +1440,7 @@ all times EDT (UTC-0400)
 ### 2018-08-01 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-08-02 (Thu):
@@ -1428,6 +1477,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-08-09 (Thu):
 
@@ -1464,6 +1514,7 @@ all times EDT (UTC-0400)
 ### 2018-08-15 (Wed):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-08-16 (Thu):
@@ -1500,6 +1551,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2018-08-23 (Thu):
 
