@@ -10,5 +10,4 @@ all times EDT (UTC-0400)
 
 ### day after tomorrow:
 
-* 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
