@@ -5,6 +5,10 @@ all times EDT (UTC-0400)
 * 16:30 - 17:00: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
 
+### 2017-08-29 (Tue):
+
+* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
+
 ### 2017-08-30 (Wed):
 
 * 19:30 - 21:45: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
