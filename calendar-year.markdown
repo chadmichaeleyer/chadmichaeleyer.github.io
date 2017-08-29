@@ -6,6 +6,7 @@ all times EDT (UTC-0400)
 
 ### 2017-08-29 (Tue):
 
+* 16:00 - 17:00: Call Dr. Byers
 * 19:00 - 21:00: Degree Rehearsal (Lodge 69)
 
 ### 2017-08-30 (Wed):
