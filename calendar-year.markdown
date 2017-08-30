@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-29 (Tue):
-
-* 16:00 - 17:00: Call Dr. Byers
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
-
 ### 2017-08-30 (Wed):
 
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -1545,3 +1540,8 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2018-08-30 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 18:45: Healthcare Appointment 
