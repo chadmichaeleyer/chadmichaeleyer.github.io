@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-08-31 (Thu):
-
-* 18:00 - 18:45: Healthcare Appointment 
-
 ### 2017-09-02 (Sat):
 
 * 09:00 - 12:00: Masters & Wardens Meeting
@@ -1545,3 +1541,8 @@ all times EDT (UTC-0400)
 ### 2018-08-31 (Fri):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-09-01 (Sat):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 12:00: Tentative – Masters & Wardens Meeting
