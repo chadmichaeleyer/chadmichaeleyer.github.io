@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-02 (Sat):
-
-* 09:00 - 12:00: Masters & Wardens Meeting
-
 ### 2017-09-03 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -1552,3 +1548,10 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-09-03 (Mon):
+
+* Labor Day
+* 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
+* 19:30 - 21:00: Yin Yoga
