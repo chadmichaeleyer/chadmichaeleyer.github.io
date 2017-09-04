@@ -1,11 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-03 (Sun):
-
-* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-* 19:00 - 21:00: Degree Rehearsal (Lodge 69)
-
 ### 2017-09-04 (Mon):
 
 * Labor Day
@@ -1555,3 +1549,7 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
+
+### 2018-09-04 (Tue):
+
+* 07:00 - 21:30: AppleCare Advisor
