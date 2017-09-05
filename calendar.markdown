@@ -12,4 +12,3 @@ all times EDT (UTC-0400)
 ### day after tomorrow:
 
 * 10:37 - 12:44: Flight
-* 16:00 - ...: Hotel: Crystal City Marriott at Reagan National Airport

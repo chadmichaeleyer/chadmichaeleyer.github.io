@@ -12,15 +12,9 @@ all times EDT (UTC-0400)
 ### 2017-09-07 (Thu):
 
 * 10:37 - 12:44: Flight
-* 16:00 - ...: Hotel: Crystal City Marriott at Reagan National Airport
-
-### 2017-09-08 (Fri):
-
-* ... - ...: Hotel: Crystal City Marriott at Reagan National Airport
 
 ### 2017-09-09 (Sat):
 
-* ... - 12:00: Hotel: Crystal City Marriott at Reagan National Airport
 * 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
 * 18:07 - 20:32: Flight
 
