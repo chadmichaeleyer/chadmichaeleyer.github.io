@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-04 (Mon):
-
-* Labor Day
-
 ### 2017-09-05 (Tue):
 
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -1553,3 +1549,8 @@ all times EDT (UTC-0400)
 ### 2018-09-04 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-09-05 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
