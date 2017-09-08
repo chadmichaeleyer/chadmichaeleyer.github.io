@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-07 (Thu):
-
-* 10:37 - 12:44: Flight
-
 ### 2017-09-09 (Sat):
 
 * 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
@@ -1548,3 +1544,8 @@ all times EDT (UTC-0400)
 ### 2018-09-07 (Fri):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-09-08 (Sat):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
