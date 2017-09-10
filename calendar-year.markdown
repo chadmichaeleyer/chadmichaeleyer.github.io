@@ -1,12 +1,8 @@
 all times EDT (UTC-0400)
 
-### 2017-09-09 (Sat):
-
-* 07:00 - 08:00: Not Attending – Kitchen Preparation (Lodge 69)
-* 18:07 - 20:32: Flight
-
 ### 2017-09-10 (Sun):
 
+* 08:00 - 20:00: Volunteer
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 * 13:45 - 15:30: Candlelight Processional Audition
@@ -15,6 +11,7 @@ all times EDT (UTC-0400)
 ### 2017-09-11 (Mon):
 
 * 07:45 - 08:15: Healthcare Appointment 
+* 08:00 - 20:00: Volunteer
 * 19:30 - 21:00: Yin Yoga
 
 ### 2017-09-12 (Tue):
@@ -1555,3 +1552,9 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+
+### 2018-09-10 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 07:45 - 08:15: Healthcare Appointment 
+* 19:30 - 21:00: Yin Yoga
