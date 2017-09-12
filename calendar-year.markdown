@@ -1,11 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-11 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 08:00 - 20:00: Volunteer
-* 19:30 - 21:00: Yin Yoga
-
 ### 2017-09-12 (Tue):
 
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1556,3 +1550,8 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
+
+### 2018-09-12 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
