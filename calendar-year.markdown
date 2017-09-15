@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-14 (Thu):
-
-* 18:00 - 18:45: Healthcare Appointment 
-
 ### 2017-09-16 (Sat):
 
 * 09:00 - 09:45: Haircut
@@ -1556,3 +1552,8 @@ all times EDT (UTC-0400)
 ### 2018-09-14 (Fri):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-09-15 (Sat):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 09:00 - 09:45: Haircut
