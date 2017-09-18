@@ -1,11 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-17 (Sun):
-
-* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-* 13:45 - 15:30: Candlelight Processional Audition
-
 ### 2017-09-18 (Mon):
 
 * 07:45 - 08:15: Healthcare Appointment 
@@ -1566,3 +1560,7 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 07:45 - 08:15: Healthcare Appointment 
 * 19:30 - 21:00: Yin Yoga
+
+### 2018-09-18 (Tue):
+
+* 07:00 - 21:30: AppleCare Advisor
