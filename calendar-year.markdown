@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-18 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
-
 ### 2017-09-20 (Wed):
 
 * 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
@@ -1564,3 +1559,8 @@ all times EDT (UTC-0400)
 ### 2018-09-18 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-09-19 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)

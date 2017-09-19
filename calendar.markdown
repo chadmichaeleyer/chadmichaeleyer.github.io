@@ -1,10 +1,9 @@
 all times EDT (UTC-0400)
 
-### today:
+### tomorrow:
 
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 
 ### day after tomorrow:
 
-* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
+* 18:00 - 18:45: Healthcare Appointment 
