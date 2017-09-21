@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-20 (Wed):
-
-* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
-
 ### 2017-09-21 (Thu):
 
 * 18:00 - 18:45: Healthcare Appointment 
@@ -1569,3 +1565,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 18:45: Healthcare Appointment 
+
+### 2018-09-21 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
