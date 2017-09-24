@@ -45,6 +45,7 @@ all times EDT (UTC-0400)
 ### 2017-10-07 (Sat):
 
 * 09:00 - 12:00: Masters & Wardens Meeting
+* 19:00 - 20:00: Science night live
 
 ### 2017-10-08 (Sun):
 
