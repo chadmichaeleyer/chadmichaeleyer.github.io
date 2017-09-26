@@ -2,14 +2,14 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
-
-### tomorrow:
-
 * 18:30 - 19:30: Fellowship (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
-### day after tomorrow:
+### tomorrow:
 
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### day after tomorrow:
+
+* 16:45 - 17:45: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 
