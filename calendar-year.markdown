@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-09-26 (Tue):
-
-* 18:30 - 19:30: Fellowship (Lodge 69)
-* 19:30 - 21:30: Stated Communication (Lodge 69)
-
 ### 2017-09-27 (Wed):
 
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -1583,3 +1578,8 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+
+### 2018-09-27 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 18:45: Healthcare Appointment 
