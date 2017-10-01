@@ -5,11 +5,6 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2017-10-02 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
-
 ### 2017-10-04 (Wed):
 
 * 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
@@ -20,7 +15,6 @@ all times EDT (UTC-0400)
 
 ### 2017-10-07 (Sat):
 
-* 09:00 - 12:00: Masters & Wardens Meeting
 * 19:00 - 20:00: Science night live
 
 ### 2017-10-08 (Sun):
@@ -31,8 +25,6 @@ all times EDT (UTC-0400)
 ### 2017-10-09 (Mon):
 
 * Columbus Day
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-10 (Tue):
 
@@ -55,17 +47,11 @@ all times EDT (UTC-0400)
 
 * 07:00 - 22:00: UCF Homecoming
 * 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
-* 09:00 - 09:45: Haircut
 
 ### 2017-10-15 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-10-16 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-18 (Wed):
 
@@ -82,11 +68,6 @@ all times EDT (UTC-0400)
 * 07:00 - 22:00: Azan Picnic
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-10-23 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-24 (Tue):
 
@@ -105,11 +86,6 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-10-30 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-10-31 (Tue):
 
@@ -134,11 +110,6 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
-### 2017-11-06 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
-
 ### 2017-11-07 (Tue):
 
 * Election Day
@@ -159,17 +130,11 @@ all times EDT (UTC-0400)
 
 * Veterans Day
 * 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
-* 09:00 - 09:45: Haircut
 
 ### 2017-11-12 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
-### 2017-11-13 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-11-14 (Tue):
 
@@ -189,11 +154,6 @@ all times EDT (UTC-0400)
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 * 19:00 - 20:00: Candlelight rehearsal
-
-### 2017-11-20 (Mon):
-
-* 07:45 - 08:15: Healthcare Appointment 
-* 19:30 - 21:00: Yin Yoga
 
 ### 2017-11-22 (Wed):
 
