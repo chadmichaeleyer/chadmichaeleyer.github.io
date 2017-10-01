@@ -1393,3 +1393,8 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+
+### 2018-10-01 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:00: Stated Communication (Lodge 42)
