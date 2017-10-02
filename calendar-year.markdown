@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-01 (Sun):
-
-* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
 ### 2017-10-04 (Wed):
 
 * 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
@@ -1358,3 +1353,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 19:00 - 21:00: Stated Communication (Lodge 42)
+
+### 2018-10-02 (Tue):
+
+* 07:00 - 21:30: AppleCare Advisor
