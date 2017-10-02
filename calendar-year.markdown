@@ -10,6 +10,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-07 (Sat):
 
+* 18:00 - 20:00: A Prairie Home Companion
 * 19:00 - 20:00: Science night live
 
 ### 2017-10-08 (Sun):
@@ -42,6 +43,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 22:00: UCF Homecoming
 * 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2017-10-15 (Sun):
 
@@ -57,6 +59,10 @@ all times EDT (UTC-0400)
 * 08:40 - 09:30: Healthcare Appointment 
 * 16:30 - 17:30: Healthcare Appointment 
 * 18:00 - 18:45: Healthcare Appointment 
+
+### 2017-10-21 (Sat):
+
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2017-10-22 (Sun):
 
@@ -76,6 +82,10 @@ all times EDT (UTC-0400)
 ### 2017-10-26 (Thu):
 
 * 18:00 - 18:45: Healthcare Appointment 
+
+### 2017-10-28 (Sat):
+
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2017-10-29 (Sun):
 
@@ -98,6 +108,7 @@ all times EDT (UTC-0400)
 
 * 09:00 - 12:00: Masters & Wardens Meeting
 * 17:00 - 21:00: Called Communication/Master Mason Degree 
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2017-11-05 (Sun):
 
@@ -169,6 +180,10 @@ all times EDT (UTC-0400)
 
 * 19:00 - 21:00: Stated Communication (Hadji Shrine)
 
+### 2017-11-28 (Tue):
+
+* 18:30 - 20:00: Fitness Test
+
 ### 2017-11-29 (Wed):
 
 * 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
@@ -177,9 +192,14 @@ all times EDT (UTC-0400)
 
 * 18:00 - 18:45: Healthcare Appointment 
 
+### 2017-12-02 (Sat):
+
+* 18:00 - 20:00: A Prairie Home Companion
+
 ### 2017-12-03 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2017-12-04 (Mon):
 
@@ -193,9 +213,14 @@ all times EDT (UTC-0400)
 
 * 18:00 - 18:45: Healthcare Appointment 
 
+### 2017-12-09 (Sat):
+
+* 18:00 - 20:00: A Prairie Home Companion
+
 ### 2017-12-10 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2017-12-11 (Mon):
 
@@ -216,10 +241,12 @@ all times EDT (UTC-0400)
 ### 2017-12-16 (Sat):
 
 * 10:00 - 13:00: University of Florida Commencement
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2017-12-17 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2017-12-18 (Mon):
 
@@ -235,7 +262,8 @@ all times EDT (UTC-0400)
 
 ### 2017-12-24 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2017-12-25 (Mon):
 
@@ -247,7 +275,8 @@ all times EDT (UTC-0400)
 
 ### 2017-12-31 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-01 (Mon):
 
@@ -262,9 +291,14 @@ all times EDT (UTC-0400)
 
 * 18:00 - 18:45: Healthcare Appointment 
 
+### 2018-01-06 (Sat):
+
+* 18:00 - 20:00: A Prairie Home Companion
+
 ### 2018-01-07 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-08 (Mon):
 
@@ -278,9 +312,14 @@ all times EDT (UTC-0400)
 
 * 18:00 - 18:45: Healthcare Appointment 
 
+### 2018-01-13 (Sat):
+
+* 18:00 - 20:00: A Prairie Home Companion
+
 ### 2018-01-14 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-15 (Mon):
 
@@ -295,9 +334,14 @@ all times EDT (UTC-0400)
 
 * 18:00 - 18:45: Healthcare Appointment 
 
+### 2018-01-20 (Sat):
+
+* 18:00 - 20:00: A Prairie Home Companion
+
 ### 2018-01-21 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-22 (Mon):
 
@@ -312,9 +356,14 @@ all times EDT (UTC-0400)
 
 * 18:00 - 18:45: Healthcare Appointment 
 
+### 2018-01-27 (Sat):
+
+* 18:00 - 20:00: A Prairie Home Companion
+
 ### 2018-01-28 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-31 (Wed):
 
@@ -330,7 +379,8 @@ all times EDT (UTC-0400)
 
 ### 2018-02-04 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-02-05 (Mon):
 
@@ -346,7 +396,8 @@ all times EDT (UTC-0400)
 
 ### 2018-02-11 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-02-12 (Mon):
 
@@ -363,7 +414,8 @@ all times EDT (UTC-0400)
 
 ### 2018-02-18 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-02-19 (Mon):
 
@@ -380,7 +432,8 @@ all times EDT (UTC-0400)
 
 ### 2018-02-25 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-02-26 (Mon):
 
@@ -397,7 +450,8 @@ all times EDT (UTC-0400)
 
 ### 2018-03-04 (Sun):
 
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-03-05 (Mon):
 
@@ -414,7 +468,8 @@ all times EDT (UTC-0400)
 ### 2018-03-11 (Sun):
 
 * Daylight Saving Time
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-03-12 (Mon):
 
@@ -436,7 +491,8 @@ all times EDT (UTC-0400)
 ### 2018-03-18 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-03-19 (Mon):
 
@@ -464,11 +520,13 @@ all times EDT (UTC-0400)
 ### 2018-03-24 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-03-25 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-03-26 (Mon):
 
@@ -497,13 +555,15 @@ all times EDT (UTC-0400)
 ### 2018-03-31 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-04-01 (Sun):
 
 * April Fools’ Day
 * Easter
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-04-02 (Mon):
 
@@ -531,11 +591,13 @@ all times EDT (UTC-0400)
 ### 2018-04-07 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-04-08 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-04-09 (Mon):
 
@@ -563,11 +625,13 @@ all times EDT (UTC-0400)
 ### 2018-04-14 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-04-15 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-04-16 (Mon):
 
@@ -596,12 +660,14 @@ all times EDT (UTC-0400)
 ### 2018-04-21 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-04-22 (Sun):
 
 * Earth Day
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-04-23 (Mon):
 
@@ -630,11 +696,13 @@ all times EDT (UTC-0400)
 ### 2018-04-28 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-04-29 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-04-30 (Mon):
 
@@ -661,11 +729,13 @@ all times EDT (UTC-0400)
 ### 2018-05-05 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-05-06 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-05-07 (Mon):
 
@@ -698,7 +768,8 @@ all times EDT (UTC-0400)
 
 * Mother’s Day
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-05-14 (Mon):
 
@@ -726,11 +797,13 @@ all times EDT (UTC-0400)
 ### 2018-05-19 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-05-20 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-05-21 (Mon):
 
@@ -758,11 +831,13 @@ all times EDT (UTC-0400)
 ### 2018-05-26 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-05-27 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-05-28 (Mon):
 
@@ -796,7 +871,8 @@ all times EDT (UTC-0400)
 ### 2018-06-03 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-06-04 (Mon):
 
@@ -824,11 +900,13 @@ all times EDT (UTC-0400)
 ### 2018-06-09 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-06-10 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-06-11 (Mon):
 
@@ -857,12 +935,14 @@ all times EDT (UTC-0400)
 ### 2018-06-16 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-06-17 (Sun):
 
 * Father’s Day
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-06-18 (Mon):
 
@@ -894,7 +974,8 @@ all times EDT (UTC-0400)
 ### 2018-06-24 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-06-25 (Mon):
 
@@ -923,11 +1004,13 @@ all times EDT (UTC-0400)
 ### 2018-06-30 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 20:00: A Prairie Home Companion
 
 ### 2018-07-01 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-07-02 (Mon):
 
@@ -960,7 +1043,8 @@ all times EDT (UTC-0400)
 ### 2018-07-08 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-07-09 (Mon):
 
@@ -992,7 +1076,8 @@ all times EDT (UTC-0400)
 ### 2018-07-15 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-07-16 (Mon):
 
@@ -1024,7 +1109,8 @@ all times EDT (UTC-0400)
 ### 2018-07-22 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-07-23 (Mon):
 
@@ -1057,7 +1143,8 @@ all times EDT (UTC-0400)
 ### 2018-07-29 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-07-30 (Mon):
 
@@ -1088,7 +1175,8 @@ all times EDT (UTC-0400)
 ### 2018-08-05 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-08-06 (Mon):
 
@@ -1120,7 +1208,8 @@ all times EDT (UTC-0400)
 ### 2018-08-12 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-08-13 (Mon):
 
@@ -1152,7 +1241,8 @@ all times EDT (UTC-0400)
 ### 2018-08-19 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-08-20 (Mon):
 
@@ -1184,7 +1274,8 @@ all times EDT (UTC-0400)
 ### 2018-08-26 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-08-27 (Mon):
 
@@ -1217,7 +1308,8 @@ all times EDT (UTC-0400)
 ### 2018-09-02 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-09-03 (Mon):
 
@@ -1250,7 +1342,8 @@ all times EDT (UTC-0400)
 ### 2018-09-09 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-09-10 (Mon):
 
@@ -1282,7 +1375,8 @@ all times EDT (UTC-0400)
 ### 2018-09-16 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-09-17 (Mon):
 
@@ -1314,7 +1408,8 @@ all times EDT (UTC-0400)
 ### 2018-09-23 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-09-24 (Mon):
 
@@ -1347,7 +1442,8 @@ all times EDT (UTC-0400)
 ### 2018-09-30 (Sun):
 
 * 07:00 - 21:30: AppleCare Advisor
-* 09:45 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-10-01 (Mon):
 
