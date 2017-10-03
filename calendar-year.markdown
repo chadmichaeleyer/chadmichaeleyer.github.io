@@ -1453,3 +1453,8 @@ all times EDT (UTC-0400)
 ### 2018-10-02 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-10-03 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
