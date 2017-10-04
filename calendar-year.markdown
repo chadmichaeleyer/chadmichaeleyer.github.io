@@ -1458,3 +1458,8 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
+
+### 2018-10-04 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 18:45: Healthcare Appointment 
