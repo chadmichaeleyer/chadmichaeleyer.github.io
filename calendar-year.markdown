@@ -29,6 +29,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-13 (Fri):
 
+* 08:00 - 09:00: Massage
 * 19:00 - 21:15: UCF Homecoming
 
 ### 2017-10-14 (Sat):
