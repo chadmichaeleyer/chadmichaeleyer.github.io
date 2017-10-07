@@ -3,7 +3,7 @@ all times EDT (UTC-0400)
 ### 2017-10-07 (Sat):
 
 * 18:00 - 20:00: A Prairie Home Companion
-* 19:00 - 20:00: Science night live
+* 18:00 - 22:30: Dinner 
 
 ### 2017-10-08 (Sun):
 
@@ -88,10 +88,6 @@ all times EDT (UTC-0400)
 ### 2017-10-31 (Tue):
 
 * Halloween
-
-### 2017-11-01 (Wed):
-
-* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
 
 ### 2017-11-02 (Thu):
 

@@ -3,7 +3,7 @@ all times EDT (UTC-0400)
 ### tomorrow:
 
 * 18:00 - 20:00: A Prairie Home Companion
-* 19:00 - 20:00: Science night live
+* 18:00 - 22:30: Dinner 
 
 ### day after tomorrow:
 
