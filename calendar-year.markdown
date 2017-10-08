@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-07 (Sat):
-
-* 18:00 - 20:00: A Prairie Home Companion
-* 18:00 - 22:30: Dinner 
-
 ### 2017-10-08 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -1466,3 +1461,9 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
 * 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+
+### 2018-10-08 (Mon):
+
+* Columbus Day
+* 07:00 - 21:30: AppleCare Advisor
+* 19:30 - 21:15: Lodge Instruction (Lodge 42)
