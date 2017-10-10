@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-09 (Mon):
-
-* Columbus Day
-
 ### 2017-10-10 (Tue):
 
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
@@ -1466,3 +1462,8 @@ all times EDT (UTC-0400)
 ### 2018-10-09 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-10-10 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
