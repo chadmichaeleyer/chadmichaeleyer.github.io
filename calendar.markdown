@@ -2,13 +2,13 @@ all times EDT (UTC-0400)
 
 ### today:
 
-* 18:30 - 19:30: Fellowship Dinner (Lodge 69)
-* 19:30 - 21:30: Stated Communication (Lodge 69)
+* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### tomorrow:
 
-* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 18:00 - 18:45: Healthcare Appointment 
 
 ### day after tomorrow:
 
-* 18:00 - 18:45: Healthcare Appointment 
+* 08:00 - 09:00: Massage
+* 19:00 - 21:15: UCF Homecoming
