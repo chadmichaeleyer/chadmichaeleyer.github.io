@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-12 (Thu):
-
-* 18:00 - 18:45: Healthcare Appointment 
-
 ### 2017-10-13 (Fri):
 
 * 08:00 - 09:00: Massage
@@ -1465,5 +1461,9 @@ all times EDT (UTC-0400)
 * 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-10-12 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-10-13 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
