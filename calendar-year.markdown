@@ -103,6 +103,7 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+* 14:00 - 17:00: Candlelight Processional Rehearsal
 
 ### 2017-11-14 (Tue):
 
@@ -121,7 +122,7 @@ all times EDT (UTC-0400)
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-* 19:00 - 20:00: Candlelight rehearsal
+* 19:00 - 22:00: Candlelight Processional Rehearsal
 
 ### 2017-11-22 (Wed):
 
@@ -234,6 +235,10 @@ all times EDT (UTC-0400)
 ### 2017-12-27 (Wed):
 
 * 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
+
+### 2017-12-29 (Fri):
+
+* 15:00 - 23:00: Candlelight Processional Performance
 
 ### 2017-12-31 (Sun):
 
