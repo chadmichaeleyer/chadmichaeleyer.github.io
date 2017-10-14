@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-13 (Fri):
-
-* 08:00 - 09:00: Massage
-* 19:00 - 21:15: UCF Homecoming
-
 ### 2017-10-14 (Sat):
 
 * 07:00 - 22:00: UCF Homecoming
@@ -1472,3 +1467,9 @@ all times EDT (UTC-0400)
 ### 2018-10-13 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-10-14 (Sun):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
