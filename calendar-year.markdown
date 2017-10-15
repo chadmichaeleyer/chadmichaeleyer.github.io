@@ -1,11 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-14 (Sat):
-
-* 07:00 - 22:00: UCF Homecoming
-* 07:00 - 08:00: Tentative – Kitchen Preparation (Lodge 69)
-* 18:00 - 20:00: A Prairie Home Companion
-
 ### 2017-10-15 (Sun):
 
 * 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
@@ -1473,3 +1467,8 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
 * 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+
+### 2018-10-15 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:00: Stated Communication (Lodge 42)
