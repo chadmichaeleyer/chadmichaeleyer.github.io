@@ -1,5 +1,9 @@
 all times EDT (UTC-0400)
 
+### 2017-10-16 (Mon):
+
+* 19:00 - 20:00: Call Bee
+
 ### 2017-10-19 (Thu):
 
 * 08:40 - 09:30: Healthcare Appointment 
