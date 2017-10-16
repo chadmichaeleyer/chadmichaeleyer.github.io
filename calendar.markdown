@@ -1,6 +1,5 @@
 all times EDT (UTC-0400)
 
-### today:
+### day after tomorrow:
 
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
+* 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
