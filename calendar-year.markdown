@@ -2,7 +2,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-15 (Sun):
 
-* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 * 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
 
 ### 2017-10-18 (Wed):
