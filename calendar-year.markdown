@@ -6,9 +6,20 @@ all times EDT (UTC-0400)
 * 16:30 - 17:30: Healthcare Appointment 
 * 18:00 - 18:45: Healthcare Appointment 
 
+### 2017-10-20 (Fri):
+
+* 10:00 - 12:00: Lease Signing
+* 18:30 - 20:00: The Elmina Wreck: Exhibit Opening Reception
+* 20:00 - 22:00: Music Under the Stars
+
 ### 2017-10-21 (Sat):
 
 * 18:00 - 20:00: A Prairie Home Companion
+
+### 2017-10-22 (Sun):
+
+* 11:30 - 13:00: Holy Eucharist Rite II
+* 15:00 - 16:00: Family Day 
 
 ### 2017-10-24 (Tue):
 
