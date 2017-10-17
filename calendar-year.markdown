@@ -14,6 +14,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-21 (Sat):
 
+* 13:00 - 13:30: Jacksonian Guard Colors Ceremony
 * 18:00 - 20:00: A Prairie Home Companion
 
 ### 2017-10-22 (Sun):
