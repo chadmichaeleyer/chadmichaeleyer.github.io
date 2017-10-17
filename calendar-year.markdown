@@ -2,7 +2,6 @@ all times EDT (UTC-0400)
 
 ### 2017-10-19 (Thu):
 
-* 08:40 - 09:30: Healthcare Appointment 
 * 16:30 - 17:30: Healthcare Appointment 
 * 18:00 - 18:45: Healthcare Appointment 
 
@@ -34,6 +33,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-26 (Thu):
 
+* 07:40 - 08:30: Healthcare Appointment 
 * 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-10-28 (Sat):
