@@ -1,5 +1,7 @@
 all times EDT (UTC-0400)
 
-### today:
+### day after tomorrow:
 
-* 19:00 - 20:00: Call Bee
+* 08:40 - 09:30: Healthcare Appointment 
+* 16:30 - 17:30: Healthcare Appointment 
+* 18:00 - 18:45: Healthcare Appointment 

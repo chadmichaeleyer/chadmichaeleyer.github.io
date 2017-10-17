@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-16 (Mon):
-
-* 19:00 - 20:00: Call Bee
-
 ### 2017-10-19 (Thu):
 
 * 08:40 - 09:30: Healthcare Appointment 
@@ -1465,3 +1461,8 @@ all times EDT (UTC-0400)
 ### 2018-10-16 (Tue):
 
 * 07:00 - 21:30: AppleCare Advisor
+
+### 2018-10-17 (Wed):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
