@@ -2,7 +2,6 @@ all times EDT (UTC-0400)
 
 ### 2017-10-19 (Thu):
 
-* 16:30 - 17:30: Healthcare Appointment 
 * 18:00 - 18:45: Healthcare Appointment 
 
 ### 2017-10-20 (Fri):
@@ -29,6 +28,7 @@ all times EDT (UTC-0400)
 
 ### 2017-10-25 (Wed):
 
+* 14:15 - 15:15: Healthcare Appointment 
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-10-26 (Thu):
