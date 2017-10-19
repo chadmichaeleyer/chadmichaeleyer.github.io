@@ -1484,3 +1484,7 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 18:00 - 18:45: Healthcare Appointment 
+
+### 2018-10-19 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
