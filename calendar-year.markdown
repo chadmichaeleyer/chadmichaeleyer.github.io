@@ -1,9 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-19 (Thu):
-
-* 18:00 - 18:45: Healthcare Appointment 
-
 ### 2017-10-20 (Fri):
 
 * 10:00 - 12:00: Lease Signing
@@ -1486,5 +1482,9 @@ all times EDT (UTC-0400)
 * 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-10-19 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-10-20 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
