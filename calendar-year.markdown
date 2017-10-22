@@ -1,11 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-21 (Sat):
-
-* 12:00 - 13:00: Palafox Market
-* 13:00 - 13:30: Jacksonian Guard Colors Ceremony
-* 18:00 - 20:00: A Prairie Home Companion
-
 ### 2017-10-22 (Sun):
 
 * 11:30 - 13:00: Holy Eucharist Rite II
@@ -1488,3 +1482,9 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
 * 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
+
+### 2018-10-22 (Mon):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 19:00 - 21:00: Stated Communication (Hadji Shrine)
+* 19:00 - 21:00: Lodge Instruction (Lodge 42)
