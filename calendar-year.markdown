@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-22 (Sun):
-
-* 11:30 - 13:00: Holy Eucharist Rite II
-* 15:00 - 16:00: Family Day 
-
 ### 2017-10-24 (Tue):
 
 * 18:30 - 19:30: Fellowship (Lodge 69)
@@ -1488,3 +1483,7 @@ all times EDT (UTC-0400)
 * 07:00 - 21:30: AppleCare Advisor
 * 19:00 - 21:00: Stated Communication (Hadji Shrine)
 * 19:00 - 21:00: Lodge Instruction (Lodge 42)
+
+### 2018-10-23 (Tue):
+
+* 07:00 - 21:30: AppleCare Advisor
