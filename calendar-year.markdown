@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-24 (Tue):
-
-* 18:30 - 19:30: Fellowship (Lodge 69)
-* 19:30 - 21:30: Stated Communication (Lodge 69)
-
 ### 2017-10-25 (Wed):
 
 * 14:15 - 15:15: Healthcare Appointment 
@@ -1492,3 +1487,8 @@ all times EDT (UTC-0400)
 
 * 07:00 - 21:30: AppleCare Advisor
 * 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
+
+### 2018-10-25 (Thu):
+
+* 07:00 - 21:30: AppleCare Advisor
+* 18:00 - 18:45: Healthcare Appointment 
