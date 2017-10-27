@@ -242,6 +242,7 @@ all times EDT (UTC-0400)
 ### 2018-01-15 (Mon):
 
 * Martin Luther King, Jr. Day
+* 09:15 - 10:15: Healthcare Appointment 
 * 19:00 - 21:00: Stated Communication (Lodge 42)
 
 ### 2018-01-17 (Wed):
