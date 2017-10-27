@@ -1,10 +1,5 @@
 all times EDT (UTC-0400)
 
-### 2017-10-26 (Thu):
-
-* 07:40 - 08:30: Healthcare Appointment 
-* 18:00 - 18:45: Healthcare Appointment 
-
 ### 2017-10-28 (Sat):
 
 * 18:00 - 20:00: A Prairie Home Companion
@@ -1489,5 +1484,9 @@ all times EDT (UTC-0400)
 * 18:00 - 18:45: Healthcare Appointment 
 
 ### 2018-10-26 (Fri):
+
+* 07:00 - 21:30: AppleCare Advisor
+
+### 2018-10-27 (Sat):
 
 * 07:00 - 21:30: AppleCare Advisor
