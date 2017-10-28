@@ -11,6 +11,7 @@ all times Eastern
 
 ### day after tomorrow:
 
+* 09:00 - 09:05: Mike/Chad: Jump start
 * 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
 * 10:30 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
