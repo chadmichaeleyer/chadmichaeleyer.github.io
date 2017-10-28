@@ -13,7 +13,7 @@ tagline : by Chad Michael Eyer
 author : 
   name : Chad Michael Eyer
   email : eyer@eyer.us
-  github : chadmichaeleyer
+  github : eyer
   twitter : eyer
   feedburner : eyer@eyer.us
 
@@ -137,3 +137,4 @@ JB :
 # Enable pagination (http://jekyllrb.com/docs/pagination/)
 #  
 paginate: 10
+theme: jekyll-theme-minimal
