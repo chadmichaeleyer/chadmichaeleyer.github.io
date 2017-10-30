@@ -1,10 +1,5 @@
 all times Eastern
 
-### 2017-10-29 (Sun):
-
-* 10:00 - 11:00: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
-* 11:00 - 12:30: Worship, Traditional Service (Oakland Presbyterian)
-
 ### 2017-10-30 (Mon):
 
 * 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
@@ -802,3 +797,16 @@ all times Eastern
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 18:45: Healthcare Appointment 
+
+### 2018-02-02 (Fri):
+
+* Groundhog Day
+* 07:30 - 09:00: Office Time (UWF)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 11:00: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Roundtable Meeting (AppleCare)
+* 12:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 16:45: Office Time (AppleCare)
+* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
