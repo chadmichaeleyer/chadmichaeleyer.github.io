@@ -6,7 +6,8 @@ all times Eastern
 * 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
 * 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:00 - 11:00: Meeting (AppleCare)
+* 11:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
 * 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:00 - 14:00: Academic Coaching
 * 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
