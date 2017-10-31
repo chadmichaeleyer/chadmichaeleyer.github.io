@@ -1,12 +1,5 @@
 all times Eastern
 
-### 2017-10-30 (Mon):
-
-* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
-* 10:30 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-
 ### 2017-10-31 (Tue):
 
 * Halloween
