@@ -2,19 +2,6 @@ all times Eastern
 
 ### today:
 
-* Halloween
-* 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
-* 10:15 - 11:15: Meeting (AppleCare)
-* 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:00 - 14:00: Academic Coaching
-* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-
-### tomorrow:
-
 * 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
 * 10:30 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
@@ -24,7 +11,7 @@ all times Eastern
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
-### day after tomorrow:
+### tomorrow:
 
 * 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
@@ -35,3 +22,15 @@ all times Eastern
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:00 - 18:45: Healthcare Appointment 
 * 19:00 - 21:00: Office Time (UWF)
+
+### day after tomorrow:
+
+* 07:00 - 09:00: Office Time (UWF)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 11:00: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:00: Roundtable Meeting (AppleCare)
+* 12:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 16:45: Office Time (AppleCare)
+* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)

@@ -1,18 +1,5 @@
 all times Eastern
 
-### 2017-10-31 (Tue):
-
-* Halloween
-* 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
-* 10:15 - 11:15: Meeting (AppleCare)
-* 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:00 - 14:00: Academic Coaching
-* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-
 ### 2017-11-01 (Wed):
 
 * 07:00 - 09:00: Office Time (UWF)
@@ -792,3 +779,8 @@ all times Eastern
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+
+### 2018-02-04 (Sun):
+
+* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
+* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
