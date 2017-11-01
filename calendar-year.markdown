@@ -49,33 +49,34 @@ all times Eastern
 
 ### 2017-11-06 (Mon):
 
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:15: Enterprise Server and Education Technical Support (AppleCare)
+* 15:30 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
 ### 2017-11-07 (Tue):
 
 * Election Day
 * 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:00 - 14:00: Academic Coaching
-* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
-* 16:15 - 16:45: Office Time (AppleCare)
-* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:30 - 15:00: Enterprise Server and Education Technical Support (AppleCare)
+* 15:00 - 15:30: Office Time (AppleCare)
+* 15:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
 ### 2017-11-08 (Wed):
 
 * 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
-* 11:00 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
+* 10:30 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
 * 12:00 - 13:00: Team Meeting (AppleCare)
 * 12:30 - 13:30: ATC Live@Lunch: Captioning Videos Using YouTube
-* 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
-* 16:15 - 16:45: Office Time (AppleCare)
-* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 13:00 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
+* 14:30 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 17:30: Enterprise Server and Education Technical Support (AppleCare)
+* 17:30 - 18:00: Office Time (AppleCare)
 * 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-09 (Thu):
