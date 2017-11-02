@@ -3,17 +3,6 @@ all times Eastern
 ### today:
 
 * 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
-* 10:30 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
-* 12:00 - 13:00: Team Meeting (AppleCare)
-* 12:30 - 13:30: ATC Live@Lunch: Ensuring Accessible Multimedia - Audio and Video
-* 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
-* 16:15 - 16:45: Office Time (AppleCare)
-* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-
-### tomorrow:
-
-* 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
 * 09:30 - 10:00: Office Time (AppleCare)
 * 10:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
@@ -23,7 +12,7 @@ all times Eastern
 * 18:00 - 18:45: Healthcare Appointment 
 * 19:00 - 21:00: Office Time (UWF)
 
-### day after tomorrow:
+### tomorrow:
 
 * 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
@@ -34,3 +23,9 @@ all times Eastern
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+
+### day after tomorrow:
+
+* 09:00 - 12:00: Masters & Wardens Meeting
+* 17:00 - 21:00: Called Communication/Master Mason Degree 
+* 18:00 - 20:00: A Prairie Home Companion
