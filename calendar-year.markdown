@@ -1,17 +1,5 @@
 all times Eastern
 
-### 2017-11-02 (Thu):
-
-* 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 09:30: Enterprise Server and Education Technical Support (AppleCare)
-* 09:30 - 10:00: Office Time (AppleCare)
-* 10:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
-* 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 18:00 - 18:45: Healthcare Appointment 
-* 19:00 - 21:00: Office Time (UWF)
-
 ### 2017-11-03 (Fri):
 
 * 07:00 - 09:00: Office Time (UWF)
@@ -789,3 +777,14 @@ all times Eastern
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 19:00 - 21:00: Stated Communication (Lodge 42)
+
+### 2018-02-06 (Tue):
+
+* 07:30 - 09:00: Office Time (UWF)
+* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 13:00 - 14:00: Academic Coaching
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 16:45: Office Time (AppleCare)
+* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
