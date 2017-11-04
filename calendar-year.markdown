@@ -48,12 +48,10 @@ all times Eastern
 * 14:30 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 17:30: Enterprise Server and Education Technical Support (AppleCare)
 * 17:30 - 18:00: Office Time (AppleCare)
-* 19:30 - 21:30: Rehearsal, Sanctuary Choir (Oakland Presbyterian)
 
 ### 2017-11-09 (Thu):
 
 * 07:00 - 09:00: Office Time (UWF)
-* 18:00 - 18:45: Healthcare Appointment 
 * 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-11-10 (Fri):
