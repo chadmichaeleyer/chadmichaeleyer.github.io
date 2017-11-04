@@ -51,8 +51,12 @@ all times Eastern
 
 ### 2017-11-09 (Thu):
 
-* 07:00 - 09:00: Office Time (UWF)
-* 19:00 - 21:00: Office Time (UWF)
+* 09:00 - 10:15: Keynote: Systems Thinking Made Simple
+* 10:30 - 11:30: Classic and contemporary dialogues in ID, Technology, Learning & Leading
+* 11:45 - 12:45: Leadership Practices for Organizations: Making Diversity Changes
+* 14:15 - 15:15: Factors Influencing Preservice Teachers’ Intentions to Integrate Technology
+* 15:30 - 16:30: Balancing Work/Life/Academia
+* 16:45 - 17:45: A Systems View of Alternative Learning Spaces
 
 ### 2017-11-10 (Fri):
 
