@@ -1,11 +1,5 @@
 all times Eastern
 
-### 2017-11-04 (Sat):
-
-* 09:00 - 12:00: Masters & Wardens Meeting
-* 17:00 - 21:00: Called Communication/Master Mason Degree 
-* 18:00 - 20:00: A Prairie Home Companion
-
 ### 2017-11-05 (Sun):
 
 * Daylight Saving Time End
@@ -789,3 +783,14 @@ all times Eastern
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
+
+### 2018-02-08 (Thu):
+
+* 07:30 - 09:00: Office Time (UWF)
+* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 16:45: Office Time (AppleCare)
+* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 18:00 - 18:45: Healthcare Appointment 
