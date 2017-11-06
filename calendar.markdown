@@ -2,10 +2,7 @@ all times Eastern
 
 ### today:
 
-* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
-* 10:30 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 15:15: Enterprise Server and Education Technical Support (AppleCare)
-* 15:30 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 18:00: Downtime
 
 ### tomorrow:
 
