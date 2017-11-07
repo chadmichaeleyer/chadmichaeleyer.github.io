@@ -4,18 +4,13 @@ all times Eastern
 
 * Election Day
 * 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
-* 09:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
-* 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 10:30: Training
+* 10:30 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
 * 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:00 - 14:00: Academic Coaching
 * 14:30 - 15:00: Enterprise Server and Education Technical Support (AppleCare)
-* 14:30 - 15:00: Enterprise Server and Education Technical Support (AppleCare)
-* 15:00 - 15:30: Office Time (AppleCare)
 * 15:00 - 15:30: Office Time (AppleCare)
 * 15:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 15:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
 ### 2017-11-08 (Wed):
