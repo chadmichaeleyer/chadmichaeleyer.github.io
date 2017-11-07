@@ -183,7 +183,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2017-11-30 (Thu):
 
@@ -212,11 +211,6 @@ all times Eastern
 
 * 18:00 - 20:00: A Prairie Home Companion
 
-### 2017-12-03 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
-
 ### 2017-12-04 (Mon):
 
 * 07:30 - 09:00: Office Time (UWF)
@@ -224,7 +218,6 @@ all times Eastern
 * 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Stated Communication (Lodge 42)
 
 ### 2017-12-05 (Tue):
 
@@ -246,7 +239,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2017-12-07 (Thu):
 
@@ -275,11 +267,6 @@ all times Eastern
 
 * 18:00 - 20:00: A Prairie Home Companion
 
-### 2017-12-10 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
-
 ### 2017-12-11 (Mon):
 
 * 07:30 - 09:00: Office Time (UWF)
@@ -287,7 +274,6 @@ all times Eastern
 * 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:30 - 21:15: Lodge Instruction (Lodge 42)
 
 ### 2017-12-12 (Tue):
 
@@ -310,7 +296,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2017-12-14 (Thu):
 
@@ -340,11 +325,6 @@ all times Eastern
 * 10:00 - 13:00: University of Florida Commencement
 * 18:00 - 20:00: A Prairie Home Companion
 
-### 2017-12-17 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
-
 ### 2017-12-18 (Mon):
 
 * 07:30 - 09:00: Office Time (UWF)
@@ -352,7 +332,6 @@ all times Eastern
 * 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Stated Communication (Lodge 42)
 
 ### 2017-12-19 (Tue):
 
@@ -374,7 +353,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2017-12-21 (Thu):
 
@@ -399,11 +377,6 @@ all times Eastern
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
-### 2017-12-24 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
-
 ### 2017-12-25 (Mon):
 
 * Christmas Day
@@ -417,7 +390,6 @@ all times Eastern
 ### 2017-12-27 (Wed):
 
 * 07:30 - 09:00: Office Time (UWF)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2017-12-28 (Thu):
 
@@ -428,16 +400,10 @@ all times Eastern
 * 07:30 - 09:00: Office Time (UWF)
 * 15:00 - 23:00: Candlelight Processional Performance
 
-### 2017-12-31 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
-
 ### 2018-01-01 (Mon):
 
 * New Year’s Day
 * 07:30 - 09:00: Office Time (UWF)
-* 19:00 - 21:00: Stated Communication (Lodge 42)
 
 ### 2018-01-02 (Tue):
 
@@ -459,7 +425,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-04 (Thu):
 
@@ -488,11 +453,6 @@ all times Eastern
 
 * 18:00 - 20:00: A Prairie Home Companion
 
-### 2018-01-07 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
-
 ### 2018-01-08 (Mon):
 
 * 07:30 - 09:00: Office Time (UWF)
@@ -500,7 +460,6 @@ all times Eastern
 * 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:30 - 21:15: Lodge Instruction (Lodge 42)
 
 ### 2018-01-09 (Tue):
 
@@ -522,7 +481,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-11 (Thu):
 
@@ -551,17 +509,11 @@ all times Eastern
 
 * 18:00 - 20:00: A Prairie Home Companion
 
-### 2018-01-14 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
-
 ### 2018-01-15 (Mon):
 
 * Martin Luther King, Jr. Day
 * 07:30 - 09:00: Office Time (UWF)
 * 09:15 - 10:15: Healthcare Appointment 
-* 19:00 - 21:00: Stated Communication (Lodge 42)
 
 ### 2018-01-16 (Tue):
 
@@ -583,7 +535,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-18 (Thu):
 
@@ -611,11 +562,6 @@ all times Eastern
 ### 2018-01-20 (Sat):
 
 * 18:00 - 20:00: A Prairie Home Companion
-
-### 2018-01-21 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-22 (Mon):
 
@@ -647,7 +593,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-25 (Thu):
 
@@ -675,11 +620,6 @@ all times Eastern
 ### 2018-01-27 (Sat):
 
 * 18:00 - 20:00: A Prairie Home Companion
-
-### 2018-01-28 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
 
 ### 2018-01-29 (Mon):
 
@@ -709,7 +649,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2018-02-01 (Thu):
 
@@ -735,11 +674,6 @@ all times Eastern
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
-### 2018-02-04 (Sun):
-
-* 09:45 - 11:00: Rehearsal, Sanctuary Choir (First Presbyterian)
-* 11:00 - 12:00: Worship, Sanctuary Choir (First Presbyterian)
-
 ### 2018-02-05 (Mon):
 
 * 07:30 - 09:00: Office Time (UWF)
@@ -747,7 +681,6 @@ all times Eastern
 * 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 19:00 - 21:00: Stated Communication (Lodge 42)
 
 ### 2018-02-06 (Tue):
 
@@ -769,7 +702,6 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
-* 20:15 - 21:45: Rehearsal, Sanctuary Choir (First Presbyterian)
 
 ### 2018-02-08 (Thu):
 
