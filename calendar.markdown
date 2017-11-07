@@ -2,10 +2,6 @@ all times Eastern
 
 ### today:
 
-* 09:00 - 18:00: Downtime
-
-### tomorrow:
-
 * Election Day
 * 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
@@ -22,7 +18,7 @@ all times Eastern
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
-### day after tomorrow:
+### tomorrow:
 
 * 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
@@ -33,3 +29,12 @@ all times Eastern
 * 14:30 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 17:30: Enterprise Server and Education Technical Support (AppleCare)
 * 17:30 - 18:00: Office Time (AppleCare)
+
+### day after tomorrow:
+
+* 09:00 - 10:15: Keynote: Systems Thinking Made Simple
+* 10:30 - 11:30: Classic and contemporary dialogues in ID, Technology, Learning & Leading
+* 11:45 - 12:45: Leadership Practices for Organizations: Making Diversity Changes
+* 14:15 - 15:15: Factors Influencing Preservice Teachers’ Intentions to Integrate Technology
+* 15:30 - 16:30: Balancing Work/Life/Academia
+* 16:45 - 17:45: A Systems View of Alternative Learning Spaces

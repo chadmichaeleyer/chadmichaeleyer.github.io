@@ -1,9 +1,5 @@
 all times Eastern
 
-### 2017-11-06 (Mon):
-
-* 09:00 - 18:00: Downtime
-
 ### 2017-11-07 (Tue):
 
 * Election Day
