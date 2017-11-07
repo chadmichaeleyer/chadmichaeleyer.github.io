@@ -57,6 +57,8 @@ all times Eastern
 
 ### 2017-11-13 (Mon):
 
+* 07:00 - 09:00: Office Time (UWF)
+* 08:00: UWF Advance Registration
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
@@ -472,6 +474,7 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 18:30 - 21:15: EDF6404 Class Lecture
 
 ### 2018-01-11 (Thu):
 
@@ -526,6 +529,7 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 18:30 - 21:15: EDF6404 Class Lecture
 
 ### 2018-01-18 (Thu):
 
@@ -584,6 +588,7 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 18:30 - 21:15: EDF6404 Class Lecture
 
 ### 2018-01-25 (Thu):
 
@@ -640,6 +645,7 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 18:30 - 21:15: EDF6404 Class Lecture
 
 ### 2018-02-01 (Thu):
 
@@ -693,6 +699,7 @@ all times Eastern
 * 14:00 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 18:30 - 21:15: EDF6404 Class Lecture
 
 ### 2018-02-08 (Thu):
 
