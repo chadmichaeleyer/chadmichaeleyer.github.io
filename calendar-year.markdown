@@ -125,7 +125,6 @@ all times Eastern
 ### 2017-11-21 (Tue):
 
 * 07:00 - 09:00: Office Time (UWF)
-* 13:00 - 14:00: Academic Coaching
 * 19:00 - 21:00: Office Time (UWF)
 
 ### 2017-11-22 (Wed):
@@ -273,7 +272,6 @@ all times Eastern
 * 07:30 - 09:00: Office Time (UWF)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
-* 13:00 - 14:00: Academic Coaching
 * 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
@@ -331,7 +329,6 @@ all times Eastern
 * 07:30 - 09:00: Office Time (UWF)
 * 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
 * 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
-* 13:00 - 14:00: Academic Coaching
 * 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
@@ -378,7 +375,6 @@ all times Eastern
 ### 2017-12-26 (Tue):
 
 * 07:30 - 09:00: Office Time (UWF)
-* 13:00 - 14:00: Academic Coaching
 
 ### 2017-12-27 (Wed):
 
