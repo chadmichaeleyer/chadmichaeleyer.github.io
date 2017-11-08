@@ -1,14 +1,5 @@
 all times Eastern
 
-### 2017-11-07 (Tue):
-
-* Election Day
-* 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 10:30: Training
-* 10:30 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
-* 11:30 - 12:45: Enterprise Server and Education Technical Support (AppleCare)
-* 13:00 - 14:00: Academic Coaching
-
 ### 2017-11-08 (Wed):
 
 * 07:00 - 09:00: Office Time (UWF)
