@@ -58,8 +58,8 @@ all times Eastern
 ### 2017-11-14 (Tue):
 
 * 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
-* 10:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
+* 09:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:00 - 14:00: Academic Coaching
 * 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 17:15: Enterprise Server and Education Technical Support (AppleCare)
