@@ -1,17 +1,5 @@
 all times Eastern
 
-### 2017-11-08 (Wed):
-
-* 07:00 - 09:00: Office Time (UWF)
-* 09:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
-* 11:30 - 12:00: Enterprise Server and Education Technical Support (AppleCare)
-* 12:00 - 13:00: Team Meeting (AppleCare)
-* 12:30 - 13:30: ATC Live@Lunch: Captioning Videos Using YouTube
-* 13:00 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
-* 14:30 - 16:00: Enterprise Server and Education Technical Support (AppleCare)
-* 16:15 - 17:30: Enterprise Server and Education Technical Support (AppleCare)
-* 17:30 - 18:00: Office Time (AppleCare)
-
 ### 2017-11-09 (Thu):
 
 * 09:00 - 10:15: Keynote: Systems Thinking Made Simple
@@ -711,3 +699,11 @@ all times Eastern
 * 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
 * 16:15 - 16:45: Office Time (AppleCare)
 * 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+
+### 2018-02-12 (Mon):
+
+* 07:30 - 09:00: Office Time (UWF)
+* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
+* 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
