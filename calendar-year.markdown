@@ -1,14 +1,5 @@
 all times Eastern
 
-### 2017-11-09 (Thu):
-
-* 09:00 - 10:15: Keynote: Systems Thinking Made Simple
-* 10:30 - 11:30: Classic and contemporary dialogues in ID, Technology, Learning & Leading
-* 11:45 - 12:45: Leadership Practices for Organizations: Making Diversity Changes
-* 14:15 - 15:15: Factors Influencing Preservice Teachers’ Intentions to Integrate Technology
-* 15:30 - 16:30: Balancing Work/Life/Academia
-* 16:45 - 17:45: A Systems View of Alternative Learning Spaces
-
 ### 2017-11-10 (Fri):
 
 * Veterans Day (observed)
@@ -707,3 +698,14 @@ all times Eastern
 * 11:00 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
 * 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+
+### 2018-02-13 (Tue):
+
+* 07:30 - 09:00: Office Time (UWF)
+* 09:00 - 10:45: Enterprise Server and Education Technical Support (AppleCare)
+* 11:00 - 13:00: Enterprise Server and Education Technical Support (AppleCare)
+* 13:00 - 14:00: Academic Coaching
+* 14:00 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 16:45: Office Time (AppleCare)
+* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
