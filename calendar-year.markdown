@@ -4,10 +4,6 @@ all times Eastern
 
 * 07:00 - 09:00: Office Time (UWF)
 * 08:00: UWF Advance Registration
-* 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
-* 10:30 - 12:30: Enterprise Server and Education Technical Support (AppleCare)
-* 13:30 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
-* 16:30 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 
 ### 2017-11-14 (Tue):
 
