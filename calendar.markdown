@@ -7,9 +7,7 @@ all times Eastern
 * 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:00 - 14:00: Academic Coaching
 * 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
-* 16:00 - 17:15: Enterprise Server and Education Technical Support (AppleCare)
-* 17:15 - 17:45: Office Time (AppleCare)
-* 17:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
