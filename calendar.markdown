@@ -3,11 +3,6 @@ all times Eastern
 ### today:
 
 * 07:00 - 09:00: Office Time (UWF)
-* 08:00: UWF Advance Registration
-
-### tomorrow:
-
-* 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
 * 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
 * 13:00 - 14:00: Academic Coaching
@@ -18,7 +13,7 @@ all times Eastern
 * 18:30 - 19:30: Fellowship Dinner (Lodge 69)
 * 19:30 - 21:30: Stated Communication (Lodge 69)
 
-### day after tomorrow:
+### tomorrow:
 
 * 07:00 - 09:00: Office Time (UWF)
 * 09:00 - 10:15: Enterprise Server and Education Technical Support (AppleCare)
@@ -30,3 +25,15 @@ all times Eastern
 * 17:00 - 17:30: Office Time (AppleCare)
 * 17:30 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
 * 19:00 - 21:15: Rehearsal, Drum Corps (Bahia Shrine)
+
+### day after tomorrow:
+
+* 07:00 - 09:00: Office Time (UWF)
+* 09:00 - 11:15: Enterprise Server and Education Technical Support (AppleCare)
+* 11:30 - 13:30: Enterprise Server and Education Technical Support (AppleCare)
+* 14:30 - 15:45: Enterprise Server and Education Technical Support (AppleCare)
+* 16:00 - 16:15: Enterprise Server and Education Technical Support (AppleCare)
+* 16:15 - 16:45: Office Time (AppleCare)
+* 16:45 - 18:00: Enterprise Server and Education Technical Support (AppleCare)
+* 18:00 - 18:45: Healthcare Appointment 
+* 19:00 - 21:00: Office Time (UWF)

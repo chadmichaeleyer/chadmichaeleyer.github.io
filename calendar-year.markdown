@@ -1,10 +1,5 @@
 all times Eastern
 
-### 2017-11-13 (Mon):
-
-* 07:00 - 09:00: Office Time (UWF)
-* 08:00: UWF Advance Registration
-
 ### 2017-11-14 (Tue):
 
 * 07:00 - 09:00: Office Time (UWF)
