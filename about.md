@@ -12,9 +12,9 @@ Chad Michael Eyer is a graduate student in the instructional design and technolo
 
 Chad works as a technical advisor supporting hardware, software, networking, and device management solutions in K-12, higher education, and enterprise environments. Besides his technical focus, his professional interests include operations and process analysis, data management, print and online communication, and customer service. He has designed and delivered on-the-job and facilitator-led training. Chad is an [Apple Certified Macintosh Technician].
 
-A past member of the [University of Central Florida Marching Knights] and the [Walt Disney World Cast Choir], Chad continues to make music part of his life: He currently serves the music ministries of [Oakland Presbyterian Church] as a musician and music librarian and is a life member of [Kappa Kappa Psi], the national honorary band fraternity. Chad serves [Orlando Lodge No. 69], Free and Accepted Masons, as an appointed officer. Chad is also an avid runner and has completed five marathons, including Goofy’s Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
+A past member of the [University of Central Florida Marching Knights] and the [Walt Disney World Cast Choir], Chad continues to make music part of his life: He currently serves the music ministries of [Oakland Presbyterian Church] as a musician and is a life member of [Kappa Kappa Psi], the national honorary band fraternity. Chad is a member of [Orlando Lodge No. 69], Free and Accepted Masons. Chad is also an avid runner and has completed five marathons, including Goofy's Race and a Half Challenge and the Disney Coast-to-Coast Challenge.
 
-A Florida native, Chad lives and works on a small farm and citrus grove in Minneola, where he tends a menagerie of cats, chickens, goats, and pigs.
+A Florida native, Chad lives, works, and studies in the Old East Hill neighborhood of Pensacola, Florida.
 
 Contact Information
 -------------------
@@ -26,8 +26,7 @@ Contact Information
 | Email:           &nbsp; | <eyer@eyer.us>                                                     |
 | Telephone:       &nbsp; | +1 (321) 422-3428 ([tel]) ([sms]) ([FaceTime])                     |
 | Homepage:        &nbsp; | [www.eyer.us]                                                      |
-| Residence:       &nbsp; | 20121 S Buckhill Rd, PO Box 1845, Minneola FL 34755-1845   |
-| Correspondence:  &nbsp; | 131 W Washington St \# 1845, PO Box 1845, Minneola FL 34755-1845   |
+| Residence:       &nbsp; | 511 E la Rua St, Pensacola FL 32501-4016   |
 | Social media:    &nbsp; | [Facebook]                                                         |
 |                  &nbsp; | [GitHub]                                                           |
 |                  &nbsp; | [LinkedIn]                                                         |
