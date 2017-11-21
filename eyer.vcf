@@ -5,8 +5,8 @@ N:Eyer;Chad Michael;;;
 FN:Chad Michael Eyer
 EMAIL;type=INTERNET;type=HOME;type=pref:eyer@eyer.us
 TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+1 (321) 422-3428
-item1.ADR;type=pref:;;511 E la Rua St;Pensacola;FL;32501-4016United States of America
-item1.X-ABLabel:home
+item1.ADR;type=pref:;;131 W Washington St # 1845\nPO Box 1845;Minneola;FL;34755-1845;United States of America
+item1.X-ABLabel:correspondence
 X-SOCIALPROFILE;type=facebook:http://facebook.com/chadmichaeleyer
 X-SOCIALPROFILE;type=github:https://github.com/chadmichaeleyer
 X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/chadmichaeleyer
