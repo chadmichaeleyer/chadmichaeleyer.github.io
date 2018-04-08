@@ -17,6 +17,7 @@ all times Central
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
 * 15:30 - 16:00: Customer Consultation
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-04-10 (Tue):
 
@@ -75,11 +76,11 @@ all times Central
 * 13:00 - 13:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-04-17 (Tue):
 
 * Tax Day
-* 08:00 - 10:30: Help Desk
 * 08:00 - 10:30: Help Desk
 * 10:45 - 11:30: Help Desk
 * 12:00 - 12:30: Help Desk
@@ -90,12 +91,16 @@ all times Central
 * 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 17:00: Help Desk
 * 16:00 - 17:00: Help Desk
-* 19:30 - 21:30: Karaoke
+* 19:30 - 21:00: Karaoke
 
 ### 2018-04-18 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
 * 14:00 - 14:30: Team Meeting
+* 15:00 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
 ### 2018-04-19 (Thu):
@@ -137,6 +142,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-04-24 (Tue):
 
@@ -151,7 +157,7 @@ all times Central
 
 ### 2018-04-25 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
+* 12:00 - 13:00: DDL Webinar: K-12 Blended Teaching Competencies: Developing and Assessment and Instruction for Pre-service Teachers - 01:00 PM
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -187,6 +193,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-05-01 (Tue):
 
@@ -200,7 +207,6 @@ all times Central
 
 ### 2018-05-02 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -238,6 +244,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-05-08 (Tue):
 
@@ -252,7 +259,6 @@ all times Central
 
 ### 2018-05-09 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -294,6 +300,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-05-15 (Tue):
 
@@ -304,11 +311,10 @@ all times Central
 * 13:30 - 14:45: Help Desk
 * 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 17:00: Help Desk
-* 19:30 - 21:30: Karaoke
+* 19:30 - 21:00: Karaoke
 
 ### 2018-05-16 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -347,6 +353,8 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
+* 19:30 - 21:30: Our 2nd Musicians Choice Concert (Pensacola Bay Concert Band)
 
 ### 2018-05-22 (Tue):
 
@@ -361,7 +369,6 @@ all times Central
 
 ### 2018-05-23 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -395,6 +402,7 @@ all times Central
 ### 2018-05-28 (Mon):
 
 * Memorial Day
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-05-29 (Tue):
 
@@ -408,7 +416,6 @@ all times Central
 
 ### 2018-05-30 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -449,6 +456,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-06-05 (Tue):
 
@@ -463,7 +471,6 @@ all times Central
 
 ### 2018-06-06 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -501,6 +508,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-06-12 (Tue):
 
@@ -514,7 +522,6 @@ all times Central
 
 ### 2018-06-13 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -559,6 +566,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-06-19 (Tue):
 
@@ -570,11 +578,10 @@ all times Central
 * 13:30 - 14:45: Help Desk
 * 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 17:00: Help Desk
-* 19:30 - 21:30: Karaoke
+* 19:30 - 21:00: Karaoke
 
 ### 2018-06-20 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -611,6 +618,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-06-26 (Tue):
 
@@ -624,7 +632,6 @@ all times Central
 
 ### 2018-06-27 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -662,6 +669,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-07-03 (Tue):
 
@@ -677,7 +685,6 @@ all times Central
 ### 2018-07-04 (Wed):
 
 * Independence Day
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
@@ -714,6 +721,7 @@ all times Central
 * 12:00 - 12:30: Help Desk
 * 13:30 - 15:15: Help Desk
 * 15:30 - 17:00: Help Desk
+* 17:30 - 18:30: Meatloaf Monday
 
 ### 2018-07-10 (Tue):
 
@@ -727,6 +735,5 @@ all times Central
 
 ### 2018-07-11 (Wed):
 
-* 12:00 - 12:30: Holy Eucharist (Christ Church)
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
