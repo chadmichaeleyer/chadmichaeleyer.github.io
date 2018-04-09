@@ -1,14 +1,5 @@
 all times Central
 
-### 2018-04-08 (Sun):
-
-* Orthodox Easter
-* 09:30 - 10:15: Adult Confirmation Class
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-* 12:00 - 14:00: Parish Picnic and Guest Sunday
-* 13:00 - 15:00: Help Desk
-
 ### 2018-04-09 (Mon):
 
 * 08:00 - 10:00: Help Desk
@@ -737,3 +728,11 @@ all times Central
 
 * 14:00 - 14:30: Team Meeting
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+
+### 2018-07-13 (Fri):
+
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
