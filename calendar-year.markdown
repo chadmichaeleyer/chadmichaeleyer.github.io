@@ -1,15 +1,5 @@
 all times Central
 
-### 2018-04-09 (Mon):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 15:30 - 16:00: Customer Consultation
-* 17:30 - 18:30: Meatloaf Monday
-
 ### 2018-04-10 (Tue):
 
 * 08:00 - 08:50: Healthcare Appointment 
@@ -736,3 +726,11 @@ all times Central
 * 13:30 - 14:00: Help Desk
 * 14:30 - 15:00: Help Desk
 * 15:15 - 17:00: Help Desk
+
+### 2018-07-14 (Sat):
+
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
+* 15:00 - 17:00: Help Desk
