@@ -6,8 +6,9 @@ all times Central
 * 10:15 - 12:30: Help Desk
 * 13:00 - 13:30: Help Desk
 * 13:30 - 14:45: Help Desk
+* 14:00 - 14:30: Customer Consultation
 * 15:00 - 17:00: Help Desk
-* 18:00 - 21:00: Stated Communication (Lodge 24)
+* 19:30 - 21:00: Karaoke
 
 ### tomorrow:
 

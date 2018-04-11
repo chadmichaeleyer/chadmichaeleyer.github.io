@@ -6,8 +6,9 @@ all times Central
 * 10:15 - 12:30: Help Desk
 * 13:00 - 13:30: Help Desk
 * 13:30 - 14:45: Help Desk
+* 14:00 - 14:30: Customer Consultation
 * 15:00 - 17:00: Help Desk
-* 18:00 - 21:00: Stated Communication (Lodge 24)
+* 19:30 - 21:00: Karaoke
 
 ### 2018-04-11 (Wed):
 
@@ -229,7 +230,6 @@ all times Central
 
 ### 2018-05-08 (Tue):
 
-* 08:00 - 08:50: Healthcare Appointment 
 * 08:00 - 10:30: Help Desk
 * 10:45 - 11:30: Help Desk
 * 12:00 - 12:30: Help Desk
@@ -245,6 +245,7 @@ all times Central
 
 ### 2018-05-10 (Thu):
 
+* 08:30 - 09:00: Healthcare Appointment 
 * 11:00 - 12:00: Haircut and Beard Trim with Colt Walden
 
 ### 2018-05-11 (Fri):
@@ -339,7 +340,6 @@ all times Central
 
 ### 2018-05-22 (Tue):
 
-* 08:00 - 08:50: Healthcare Appointment 
 * 08:00 - 10:30: Help Desk
 * 10:45 - 11:30: Help Desk
 * 12:00 - 12:30: Help Desk
@@ -441,7 +441,6 @@ all times Central
 
 ### 2018-06-05 (Tue):
 
-* 08:00 - 08:50: Healthcare Appointment 
 * 08:00 - 10:30: Help Desk
 * 10:45 - 11:30: Help Desk
 * 12:00 - 12:30: Help Desk
@@ -552,7 +551,6 @@ all times Central
 ### 2018-06-19 (Tue):
 
 * Juneteenth
-* 08:00 - 08:50: Healthcare Appointment 
 * 08:00 - 10:30: Help Desk
 * 10:45 - 11:30: Help Desk
 * 12:00 - 12:30: Help Desk
@@ -654,7 +652,6 @@ all times Central
 
 ### 2018-07-03 (Tue):
 
-* 08:00 - 08:50: Healthcare Appointment 
 * 08:00 - 10:30: Help Desk
 * 10:45 - 11:30: Help Desk
 * 12:00 - 12:30: Help Desk
