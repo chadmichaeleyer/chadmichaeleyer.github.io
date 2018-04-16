@@ -258,16 +258,48 @@ all times Central
 ### 2018-05-15 (Tue):
 
 * First Day of Ramadan
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 19:30 - 21:00: Karaoke
 
 ### 2018-05-16 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
 ### 2018-05-17 (Thu):
 
 * IDC6600 Drop/Swap Period Ends
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
+
+### 2018-05-18 (Fri):
+
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
+
+### 2018-05-19 (Sat):
+
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
+* 15:00 - 17:00: Help Desk
 
 ### 2018-05-20 (Sun):
 
@@ -283,12 +315,47 @@ all times Central
 
 ### 2018-05-22 (Tue):
 
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 18:00 - 21:00: Stated Communication (Lodge 24)
 
 ### 2018-05-23 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+
+### 2018-05-24 (Thu):
+
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
+
+### 2018-05-25 (Fri):
+
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
+
+### 2018-05-26 (Sat):
+
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
+* 15:00 - 17:00: Help Desk
 
 ### 2018-05-27 (Sun):
 
@@ -302,12 +369,47 @@ all times Central
 
 ### 2018-05-29 (Tue):
 
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 19:30 - 21:30: Karaoke
 
 ### 2018-05-30 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+
+### 2018-05-31 (Thu):
+
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
+
+### 2018-06-01 (Fri):
+
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
+
+### 2018-06-02 (Sat):
+
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
+* 15:00 - 17:00: Help Desk
 
 ### 2018-06-03 (Sun):
 
@@ -321,26 +423,52 @@ all times Central
 
 ### 2018-06-05 (Tue):
 
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
 * 19:30 - 21:30: Karaoke
 
 ### 2018-06-06 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 * 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
 
 ### 2018-06-07 (Thu):
 
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
 
 ### 2018-06-08 (Fri):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
 * 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
 
 ### 2018-06-09 (Sat):
 
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
 * 15:00 - 16:30: Rehearsal (UWF Summer Festival Chorus)
+* 15:00 - 17:00: Help Desk
 * 17:00 - 19:00: A Prairie Home Companion
 * 19:30 - 21:30: Reinventions (UWF Summer Festival Chorus)
 
@@ -356,25 +484,51 @@ all times Central
 
 ### 2018-06-12 (Tue):
 
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 18:00 - 21:00: Stated Communication (Lodge 24)
 
 ### 2018-06-13 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
 ### 2018-06-14 (Thu):
 
 * Flag Day
 * EME6408 First Day of Class
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 
 ### 2018-06-15 (Fri):
 
 * Eid al-Fitr
 * 08:00 - 08:50: Healthcare Appointment 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
 
 ### 2018-06-16 (Sat):
 
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
+* 15:00 - 17:00: Help Desk
 * 17:00 - 19:00: A Prairie Home Companion
 
 ### 2018-06-17 (Sun):
@@ -390,16 +544,48 @@ all times Central
 ### 2018-06-19 (Tue):
 
 * Juneteenth
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 19:30 - 21:00: Karaoke
 
 ### 2018-06-20 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
 ### 2018-06-21 (Thu):
 
 * EME6408 Drop/Add Period Ends
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
+
+### 2018-06-22 (Fri):
+
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
+
+### 2018-06-23 (Sat):
+
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
+* 15:00 - 17:00: Help Desk
 
 ### 2018-06-24 (Sun):
 
@@ -414,26 +600,52 @@ all times Central
 ### 2018-06-26 (Tue):
 
 * EME6607 Last Day of Class
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 18:00 - 21:00: Stated Communication (Lodge 24)
 * 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
 
 ### 2018-06-27 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 * 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
 
 ### 2018-06-28 (Thu):
 
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
 
 ### 2018-06-29 (Fri):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
 * 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
 
 ### 2018-06-30 (Sat):
 
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
 * 15:00 - 16:30: Rehearsal (UWF Summer Festival Chorus)
+* 15:00 - 17:00: Help Desk
 * 19:30 - 21:30: Reinventions (UWF Summer Festival Chorus)
 
 ### 2018-07-01 (Sun):
@@ -456,6 +668,30 @@ all times Central
 * Independence Day
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
 
+### 2018-07-05 (Thu):
+
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
+
+### 2018-07-06 (Fri):
+
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
+
+### 2018-07-07 (Sat):
+
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
+* 15:00 - 17:00: Help Desk
+
 ### 2018-07-08 (Sun):
 
 * 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
@@ -467,12 +703,47 @@ all times Central
 
 ### 2018-07-10 (Tue):
 
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 18:00 - 21:00: Stated Communication (Lodge 24)
 
 ### 2018-07-11 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+
+### 2018-07-12 (Thu):
+
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
+
+### 2018-07-13 (Fri):
+
+* 08:00 - 10:00: Help Desk
+* 10:15 - 12:30: Help Desk
+* 13:30 - 14:00: Help Desk
+* 14:30 - 15:00: Help Desk
+* 15:15 - 17:00: Help Desk
+
+### 2018-07-14 (Sat):
+
+* 08:00 - 09:30: Help Desk
+* 09:45 - 10:30: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:30 - 14:45: Help Desk
+* 15:00 - 17:00: Help Desk
 
 ### 2018-07-15 (Sun):
 
@@ -485,9 +756,28 @@ all times Central
 
 ### 2018-07-17 (Tue):
 
+* 08:00 - 10:30: Help Desk
+* 10:45 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 14:45: Help Desk
+* 15:00 - 16:00: Roundtable Meeting
 * 16:00 - 18:50: IDC6600 Lecture — Tentative
+* 16:00 - 17:00: Help Desk
 * 19:30 - 21:00: Karaoke
 
 ### 2018-07-18 (Wed):
 
+* 08:00 - 10:00: Help Desk
+* 10:15 - 11:00: Help Desk
+* 11:30 - 12:00: Help Desk
+* 13:00 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
 * 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+
+### 2018-07-19 (Thu):
+
+* 08:00 - 10:45: Help Desk
+* 11:00 - 11:30: Help Desk
+* 12:00 - 12:30: Help Desk
+* 13:30 - 15:15: Help Desk
+* 15:30 - 17:00: Help Desk
