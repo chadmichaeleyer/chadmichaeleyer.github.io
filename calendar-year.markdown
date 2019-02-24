@@ -1,783 +1,503 @@
-all times Central
+all times central
 
-### 2018-04-15 (Sun):
+### 2019-02-23 (Sat):
 
-* 09:30 - 10:15: Adult Confirmation Class
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-* 12:30 - 15:00: Adult Confirmation Class
+* 07:00 - 09:00: Rec Plex North parkrun
 
-### 2018-04-16 (Mon):
+### 2019-02-24 (Sun):
 
-* 17:30 - 18:30: Meatloaf Monday
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
 
-### 2018-04-17 (Tue):
+### 2019-02-25 (Mon):
+
+* 04:00 - 06:00: Apple Meeting
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-02-26 (Tue):
+
+* 04:00 - 06:00: Apple Meeting
+* 07:30 - 09:30: Apple Meeting
+* 09:30 - 10:30: Apple Meeting
+* 19:00 - 21:00: Stated Communication (Lodge 24)
+
+### 2019-02-27 (Wed):
+
+* 04:00 - 06:00: Apple Meeting
+* 07:30 - 09:30: Apple Meeting
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-02-28 (Thu):
+
+* 04:00 - 06:00: Apple Meeting
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-03-01 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+
+### 2019-03-02 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+* 08:30 - 10:00: Office Time (Library Hours)
+* 10:00 - 11:00: Gym
+
+### 2019-03-03 (Sun):
+
+* 06:30: Hertz Rental Pickup: H90927257E4
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-03-04 (Mon):
+
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-03-05 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
+* 19:30 - 21:30: Karaoke
+
+### 2019-03-06 (Wed):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-03-07 (Thu):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-03-08 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+
+### 2019-03-09 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+* 08:30 - 10:00: Office Time (Library Hours)
+* 10:00 - 11:00: Gym
+* 13:30 - 15:30: Pensacola Symphony Orchestra
+
+### 2019-03-10 (Sun):
+
+* Daylight Saving Time
+* 06:30: Hertz Rental DropOff: H90927257E4
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-03-11 (Mon):
+
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-03-12 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
+* 19:00 - 21:00: Stated Communication (Lodge 24)
+
+### 2019-03-13 (Wed):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-03-14 (Thu):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 18:30 - 19:30: Gym
+* 19:30 - 20:30: Office Time (Library Hours)
+
+### 2019-03-15 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+* 18:00 - 20:00: Gallery Night
+
+### 2019-03-16 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+* 08:30 - 10:00: Office Time (Library Hours)
+* 10:00 - 11:00: Gym
+
+### 2019-03-17 (Sun):
+
+* St. Patrick’s Day
+* 14:00 - 16:00: Florencia in the Amazon
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-03-18 (Mon):
+
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-03-19 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
+* 19:30 - 21:00: Karaoke
+
+### 2019-03-20 (Wed):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-03-21 (Thu):
+
+* Holi
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 18:30 - 19:30: Gym
+* 19:30 - 20:30: Office Time (Library Hours)
+
+### 2019-03-22 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+
+### 2019-03-23 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+* 08:30 - 10:00: Office Time (Library Hours)
+* 10:00 - 11:00: Gym
+
+### 2019-03-24 (Sun):
+
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-03-25 (Mon):
+
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-03-26 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
+* 19:00 - 21:00: Stated Communication (Lodge 24)
+
+### 2019-03-27 (Wed):
+
+* 08:30 - 09:30: Milan
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-03-28 (Thu):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 18:30 - 19:30: Gym
+* 19:30 - 20:30: Office Time (Library Hours)
+
+### 2019-03-29 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+
+### 2019-03-30 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+* 08:30 - 10:00: Office Time (Library Hours)
+* 10:00 - 11:00: Gym
+
+### 2019-03-31 (Sun):
+
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-04-01 (Mon):
+
+* April Fools' Day
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-04-02 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
+* 19:30 - 21:30: Karaoke
+
+### 2019-04-03 (Wed):
+
+* 08:00 - 09:00: Healthcare Appointment 
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 14:00 - 15:00: Healthcare Appointment 
+
+### 2019-04-04 (Thu):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 18:00 - 20:00: WUWF Radio Live
+
+### 2019-04-05 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+
+### 2019-04-06 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+* 08:30 - 10:00: Office Time (Library Hours)
+* 10:00 - 11:00: Gym
+* 13:30 - 15:30: Pensacola Symphony Orchestra
+
+### 2019-04-07 (Sun):
+
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-04-08 (Mon):
+
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-04-09 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
+* 19:00 - 21:00: Stated Communication (Lodge 24)
+
+### 2019-04-10 (Wed):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-04-11 (Thu):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 18:30 - 19:30: Gym
+* 19:30 - 20:30: Office Time (Library Hours)
+
+### 2019-04-12 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+
+### 2019-04-13 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+* 08:30 - 10:00: Office Time (Library Hours)
+* 10:00 - 11:00: Gym
+
+### 2019-04-14 (Sun):
+
+* Palm Sunday
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-04-15 (Mon):
 
 * Tax Day
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 11:00 - 11:15: Customer Consultation - Scheduled 
-* 12:00 - 12:30: Help Desk
-* 12:30 - 13:30: Home Inspection
-* 13:00 - 13:15: Customer Consultation - Scheduled 
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 17:00: Help Desk
-* 17:00 - 17:15: Customer Consultation - Scheduled 
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-04-16 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
 * 19:30 - 21:00: Karaoke
 
-### 2018-04-18 (Wed):
+### 2019-04-17 (Wed):
 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 14:00: Help Desk
-* 14:00 - 15:00: Team Meeting
-* 15:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 17:00 - 17:15: Customer Consultation - Scheduled 
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
 
-### 2018-04-19 (Thu):
+### 2019-04-18 (Thu):
 
-* 08:00 - 10:15: Help Desk
-* 10:30 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 16:00 - 16:15: Customer Consultation - Scheduled 
-* 17:00 - 20:00: Help Desk
-* 17:45 - 19:00: Young Adult Beer and Compline with Father Michael (Christ Church)
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 18:30 - 19:30: Gym
+* 19:30 - 20:30: Office Time (Library Hours)
 
-### 2018-04-20 (Fri):
+### 2019-04-19 (Fri):
 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
+* Good Friday
+* 09:30 - 10:30: Apple Meeting
+* 18:00 - 20:00: Gallery Night
 
-### 2018-04-21 (Sat):
+### 2019-04-20 (Sat):
 
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
+* Passover
+* 07:00 - 09:00: Rec Plex North parkrun
+* 08:30 - 10:00: Office Time (Library Hours)
+* 10:00 - 11:00: Gym
 
-### 2018-04-22 (Sun):
+### 2019-04-21 (Sun):
+
+* Easter
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-04-22 (Mon):
 
 * Earth Day
-* 09:30 - 10:15: Adult Confirmation Class
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
 
-### 2018-04-23 (Mon):
+### 2019-04-23 (Tue):
 
-* 17:30 - 18:30: Meatloaf Monday
+* 09:30 - 10:30: Apple Meeting
+* 19:00 - 21:00: Stated Communication (Lodge 24)
 
-### 2018-04-24 (Tue):
+### 2019-04-24 (Wed):
 
-* 08:00 - 08:50: Healthcare Appointment 
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 17:00: Help Desk
-* 18:00 - 21:00: Stated Communication (Lodge 24)
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
 
-### 2018-04-25 (Wed):
+### 2019-04-25 (Thu):
 
-* 08:00 - 10:00: Help Desk
-* 08:00 - 10:00: Help Desk
-* 10:15 - 10:40: Help Desk
-* 10:15 - 10:40: Help Desk
-* 10:40 - 11:00: Training
-* 10:40 - 11:00: Training
-* 11:30 - 12:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 12:00 - 13:00: DDL Webinar: K-12 Blended Teaching Competencies: Developing and Assessment and Instruction for Pre-service Teachers - 01:00 PM
-* 13:00 - 15:15: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 18:30 - 19:30: Gym
+* 19:30 - 20:30: Office Time (Library Hours)
 
-### 2018-04-26 (Thu):
+### 2019-04-26 (Fri):
 
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
+* 09:30 - 10:30: Apple Meeting
 
-### 2018-04-27 (Fri):
+### 2019-04-27 (Sat):
 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
+* 07:00 - 09:00: Rec Plex North parkrun
+* 13:30 - 15:30: Pensacola Symphony Orchestra
 
-### 2018-04-28 (Sat):
+### 2019-04-28 (Sun):
 
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
+* Orthodox Easter
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
 
-### 2018-04-29 (Sun):
+### 2019-04-29 (Mon):
 
-* 09:30 - 10:15: Adult Confirmation Class
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
 
-### 2018-04-30 (Mon):
+### 2019-04-30 (Tue):
 
-* 17:30 - 18:30: Meatloaf Monday
-
-### 2018-05-01 (Tue):
-
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 17:00: Help Desk
+* 09:30 - 10:30: Apple Meeting
 * 19:30 - 21:30: Karaoke
 
-### 2018-05-02 (Wed):
+### 2019-05-01 (Wed):
 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
 
-### 2018-05-03 (Thu):
+### 2019-05-02 (Thu):
 
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+* 18:00 - 20:00: WUWF Radio Live
 
-### 2018-05-04 (Fri):
+### 2019-05-03 (Fri):
 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
+* 09:30 - 10:30: Apple Meeting
 
-### 2018-05-05 (Sat):
+### 2019-05-04 (Sat):
 
-* Cinco de Mayo
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
+* 07:00 - 09:00: Rec Plex North parkrun
 
-### 2018-05-06 (Sun):
-
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-05-07 (Mon):
-
-* 17:30 - 18:30: Meatloaf Monday
-
-### 2018-05-08 (Tue):
-
-* 08:00 - 10:30: Help Desk
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 17:00: Help Desk
-* 16:00 - 17:00: Help Desk
-* 18:00 - 21:00: Stated Communication (Lodge 24)
-
-### 2018-05-09 (Wed):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-
-### 2018-05-10 (Thu):
-
-* 08:00 - 10:45: Help Desk
-* 08:30 - 09:00: Healthcare Appointment 
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-
-### 2018-05-11 (Fri):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 10:30: Help Desk
-* 10:30 - 12:00: Meeting
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-
-### 2018-05-12 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
-
-### 2018-05-13 (Sun):
-
-* Mother’s Day
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-05-14 (Mon):
-
-* EME6607 First Day of Class
-* IDC6600 First Day of Class
-* 17:30 - 18:30: Meatloaf Monday
-
-### 2018-05-15 (Tue):
+### 2019-05-05 (Sun):
 
 * First Day of Ramadan
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
+* Cinco de Mayo
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-05-06 (Mon):
+
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-05-07 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
+* 19:30 - 21:30: Karaoke
+
+### 2019-05-08 (Wed):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-05-09 (Thu):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-05-10 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+
+### 2019-05-11 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+
+### 2019-05-12 (Sun):
+
+* Mother’s Day
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-05-13 (Mon):
+
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-05-14 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
+* 19:00 - 21:00: Stated Communication (Lodge 24)
+
+### 2019-05-15 (Wed):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-05-16 (Thu):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-05-17 (Fri):
+
+* 09:30 - 10:30: Apple Meeting
+* 18:00 - 20:00: Gallery Night
+
+### 2019-05-18 (Sat):
+
+* 07:00 - 09:00: Rec Plex North parkrun
+
+### 2019-05-19 (Sun):
+
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-05-20 (Mon):
+
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
+
+### 2019-05-21 (Tue):
+
+* 09:30 - 10:30: Apple Meeting
 * 19:30 - 21:00: Karaoke
 
-### 2018-05-16 (Wed):
+### 2019-05-22 (Wed):
 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
 
-### 2018-05-17 (Thu):
+### 2019-05-23 (Thu):
 
-* IDC6600 Drop/Swap Period Ends
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
 
-### 2018-05-18 (Fri):
+### 2019-05-24 (Fri):
 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
+* 09:30 - 10:30: Apple Meeting
 
-### 2018-05-19 (Sat):
+### 2019-05-25 (Sat):
 
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
+* 07:00 - 09:00: Rec Plex North parkrun
 
-### 2018-05-20 (Sun):
+### 2019-05-26 (Sun):
 
-* EME6607 Drop/Add Period Ends
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-* 17:30 - 18:30: Choral Evensong (Christ Church)
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
 
-### 2018-05-21 (Mon):
-
-* 17:30 - 18:30: Meatloaf Monday
-* 19:30 - 21:30: Our 2nd Musicians Choice Concert (Pensacola Bay Concert Band)
-
-### 2018-05-22 (Tue):
-
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
-* 18:00 - 21:00: Stated Communication (Lodge 24)
-
-### 2018-05-23 (Wed):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-
-### 2018-05-24 (Thu):
-
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-
-### 2018-05-25 (Fri):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-
-### 2018-05-26 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
-
-### 2018-05-27 (Sun):
-
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-05-28 (Mon):
+### 2019-05-27 (Mon):
 
 * Memorial Day
-* 17:30 - 18:30: Meatloaf Monday
+* 09:30 - 10:30: Apple Meeting
+* 15:00 - 16:00: Apple Meeting
 
-### 2018-05-29 (Tue):
+### 2019-05-28 (Tue):
 
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
-* 19:30 - 21:30: Karaoke
+* 09:30 - 10:30: Apple Meeting
+* 19:00 - 21:00: Stated Communication (Lodge 24)
 
-### 2018-05-30 (Wed):
+### 2019-05-29 (Wed):
 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-
-### 2018-05-31 (Thu):
-
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-
-### 2018-06-01 (Fri):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-
-### 2018-06-02 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
-
-### 2018-06-03 (Sun):
-
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-06-04 (Mon):
-
-* 17:30 - 18:30: Meatloaf Monday
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-05 (Tue):
-
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-* 19:30 - 21:30: Karaoke
-
-### 2018-06-06 (Wed):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-07 (Thu):
-
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-08 (Fri):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-09 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 16:30: Rehearsal (UWF Summer Festival Chorus)
-* 15:00 - 17:00: Help Desk
-* 17:00 - 19:00: A Prairie Home Companion
-* 19:30 - 21:30: Reinventions (UWF Summer Festival Chorus)
-
-### 2018-06-10 (Sun):
-
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-06-11 (Mon):
-
-* EME6607 Withdrawal Deadline
-* 17:30 - 18:30: Meatloaf Monday
-
-### 2018-06-12 (Tue):
-
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
-* 18:00 - 21:00: Stated Communication (Lodge 24)
-
-### 2018-06-13 (Wed):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-
-### 2018-06-14 (Thu):
-
-* Flag Day
-* EME6408 First Day of Class
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-
-### 2018-06-15 (Fri):
-
-* Eid al-Fitr
-* 08:00 - 08:50: Healthcare Appointment 
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-
-### 2018-06-16 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
-* 17:00 - 19:00: A Prairie Home Companion
-
-### 2018-06-17 (Sun):
-
-* Father’s Day
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-06-18 (Mon):
-
-* 17:30 - 18:30: Meatloaf Monday
-
-### 2018-06-19 (Tue):
-
-* Juneteenth
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
-* 19:30 - 21:00: Karaoke
-
-### 2018-06-20 (Wed):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-
-### 2018-06-21 (Thu):
-
-* EME6408 Drop/Add Period Ends
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-
-### 2018-06-22 (Fri):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-
-### 2018-06-23 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
-
-### 2018-06-24 (Sun):
-
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-06-25 (Mon):
-
-* 17:30 - 18:30: Meatloaf Monday
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-26 (Tue):
-
-* EME6607 Last Day of Class
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
-* 18:00 - 21:00: Stated Communication (Lodge 24)
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-27 (Wed):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-28 (Thu):
-
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-29 (Fri):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-* 19:00 - 21:30: Rehearsal (UWF Summer Festival Chorus)
-
-### 2018-06-30 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 16:30: Rehearsal (UWF Summer Festival Chorus)
-* 15:00 - 17:00: Help Desk
-* 19:30 - 21:30: Reinventions (UWF Summer Festival Chorus)
-
-### 2018-07-01 (Sun):
-
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-07-02 (Mon):
-
-* 17:30 - 18:30: Meatloaf Monday
-
-### 2018-07-03 (Tue):
-
-* IDC6600 Withdrawal Deadline
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 19:30 - 21:30: Karaoke
-
-### 2018-07-04 (Wed):
-
-* Independence Day
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-
-### 2018-07-05 (Thu):
-
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-
-### 2018-07-06 (Fri):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-
-### 2018-07-07 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
-
-### 2018-07-08 (Sun):
-
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-07-09 (Mon):
-
-* 17:30 - 18:30: Meatloaf Monday
-
-### 2018-07-10 (Tue):
-
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
-* 18:00 - 21:00: Stated Communication (Lodge 24)
-
-### 2018-07-11 (Wed):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-
-### 2018-07-12 (Thu):
-
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-
-### 2018-07-13 (Fri):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 12:30: Help Desk
-* 13:30 - 14:00: Help Desk
-* 14:30 - 15:00: Help Desk
-* 15:15 - 17:00: Help Desk
-
-### 2018-07-14 (Sat):
-
-* 08:00 - 09:30: Help Desk
-* 09:45 - 10:30: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:30 - 14:45: Help Desk
-* 15:00 - 17:00: Help Desk
-
-### 2018-07-15 (Sun):
-
-* 09:55 - 10:30: Rehearsal, Parish Choir (Christ Church)
-* 10:30 - 11:30: Holy Eucharist Rite II (Christ Church)
-
-### 2018-07-16 (Mon):
-
-* 17:30 - 18:30: Meatloaf Monday
-
-### 2018-07-17 (Tue):
-
-* 08:00 - 10:30: Help Desk
-* 10:45 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 14:45: Help Desk
-* 15:00 - 16:00: Roundtable Meeting
-* 16:00 - 18:50: IDC6600 Lecture — Tentative
-* 16:00 - 17:00: Help Desk
-* 19:30 - 21:00: Karaoke
-
-### 2018-07-18 (Wed):
-
-* 08:00 - 10:00: Help Desk
-* 10:15 - 11:00: Help Desk
-* 11:30 - 12:00: Help Desk
-* 13:00 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
-* 18:30 - 20:00: Rehearsal, Parish Choir (Christ Church)
-
-### 2018-07-19 (Thu):
-
-* 08:00 - 10:45: Help Desk
-* 11:00 - 11:30: Help Desk
-* 12:00 - 12:30: Help Desk
-* 13:30 - 15:15: Help Desk
-* 15:30 - 17:00: Help Desk
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
