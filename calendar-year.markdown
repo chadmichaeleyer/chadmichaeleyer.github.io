@@ -1,9 +1,5 @@
 all times central
 
-### 2019-02-23 (Sat):
-
-* 07:00 - 09:00: Rec Plex North parkrun
-
 ### 2019-02-24 (Sun):
 
 * 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
@@ -40,7 +36,7 @@ all times central
 
 ### 2019-03-02 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
 
@@ -75,7 +71,7 @@ all times central
 
 ### 2019-03-09 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
 * 13:30 - 15:30: Pensacola Symphony Orchestra
@@ -115,7 +111,7 @@ all times central
 
 ### 2019-03-16 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
 
@@ -154,7 +150,7 @@ all times central
 
 ### 2019-03-23 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
 
@@ -191,7 +187,7 @@ all times central
 
 ### 2019-03-30 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
 
@@ -229,7 +225,7 @@ all times central
 
 ### 2019-04-06 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
 * 13:30 - 15:30: Pensacola Symphony Orchestra
@@ -266,7 +262,7 @@ all times central
 
 ### 2019-04-13 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
 
@@ -307,7 +303,7 @@ all times central
 ### 2019-04-20 (Sat):
 
 * Passover
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
 
@@ -345,7 +341,7 @@ all times central
 
 ### 2019-04-27 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 * 13:30 - 15:30: Pensacola Symphony Orchestra
 
 ### 2019-04-28 (Sun):
@@ -380,7 +376,7 @@ all times central
 
 ### 2019-05-04 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 
 ### 2019-05-05 (Sun):
 
@@ -414,7 +410,7 @@ all times central
 
 ### 2019-05-11 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 
 ### 2019-05-12 (Sun):
 
@@ -448,7 +444,7 @@ all times central
 
 ### 2019-05-18 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 
 ### 2019-05-19 (Sun):
 
@@ -480,7 +476,7 @@ all times central
 
 ### 2019-05-25 (Sat):
 
-* 07:00 - 09:00: Rec Plex North parkrun
+* 07:00 - 10:00: Rec Plex North parkrun
 
 ### 2019-05-26 (Sun):
 
@@ -498,6 +494,11 @@ all times central
 * 19:00 - 21:00: Stated Communication (Lodge 24)
 
 ### 2019-05-29 (Wed):
+
+* 09:30 - 10:30: Apple Meeting
+* 14:00 - 15:00: Apple Meeting
+
+### 2019-05-30 (Thu):
 
 * 09:30 - 10:30: Apple Meeting
 * 14:00 - 15:00: Apple Meeting
