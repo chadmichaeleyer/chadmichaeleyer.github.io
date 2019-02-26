@@ -49,25 +49,33 @@ all times central
 
 ### 2019-03-03 (Sun):
 
+* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 06:30: Hertz Rental Pickup: H90927257E4
 * 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
 
 ### 2019-03-04 (Mon):
 
+* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 15:00 - 16:00: Professional Appointment
 
 ### 2019-03-05 (Tue):
 
+* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 13:00 - 14:00: Professional Appointment
 * 16:00 - 17:00: Help George with class
 * 19:30 - 21:30: Karaoke
 
+### 2019-03-06 (Wed):
+
+* Hotel: SpringHill Suites Austin North/Parmer Lane
+
 ### 2019-03-07 (Thu):
 
+* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 13:00 - 13:30: Professional Appointment
@@ -75,11 +83,13 @@ all times central
 
 ### 2019-03-08 (Fri):
 
+* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 
 ### 2019-03-09 (Sat):
 
+* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
