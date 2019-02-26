@@ -8,6 +8,7 @@ all times central
 * 09:30 - 10:30: Professional Appointment
 * 11:30 - 12:30: Haircut and Beard Trim with Colt Walden
 * 13:00 - 13:30: Professional Appointment
+* 15:00 - 17:00: Professional Appointment
 * 19:00 - 21:00: Stated Communication (Lodge 24)
 
 ### 2019-02-27 (Wed):
