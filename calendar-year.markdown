@@ -1,15 +1,5 @@
 all times central
 
-### 2019-02-25 (Mon):
-
-* 04:00 - 06:00: Professional Appointment
-* 06:00 - 07:30: Professional Appointment
-* 09:00 - 09:30: Professional Appointment
-* 09:30 - 10:30: Professional Appointment
-* 10:15 - 10:30: Professional Appointment
-* 15:00 - 16:00: Professional Appointment
-* 16:30 - 17:00: Professional Appointment
-
 ### 2019-02-26 (Tue):
 
 * 04:00 - 06:00: Professional Appointment
@@ -586,3 +576,7 @@ all times central
 
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
+
+### 2019-06-01 (Sat):
+
+* 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
