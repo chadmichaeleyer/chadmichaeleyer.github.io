@@ -3,15 +3,17 @@ all times central
 ### 2019-02-28 (Thu):
 
 * 04:00 - 06:00: Professional Appointment
-* 06:00 - 07:30: Professional Appointment
+* 06:00 - 09:00: Professional Appointment
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
-* 10:30 - 11:30: Professional Appointment
+* 12:45 - 13:00: Professional Appointment
 * 14:00 - 15:00: Professional Appointment
 * 15:00 - 16:00: Professional Appointment
+* 15:00 - 15:15: Professional Appointment
 
 ### 2019-03-01 (Fri):
 
+* 15:00 - 15:30: Professional Appointment
 * 15:30 - 16:00: Professional Appointment
 
 ### 2019-03-02 (Sat):
@@ -29,6 +31,7 @@ all times central
 * Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
+* 11:00 - 12:00: Professional Appointment
 * 15:00 - 16:00: Professional Appointment
 
 ### 2019-03-05 (Tue):
@@ -82,6 +85,7 @@ all times central
 
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
+* 09:30 - 12:00: Professional Appointment
 * 19:00 - 21:00: Stated Communication (Lodge 24)
 
 ### 2019-03-13 (Wed):
