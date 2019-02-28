@@ -133,6 +133,7 @@ all times central
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 13:00 - 14:00: Professional Appointment
+* 14:40 - 15:40: Healthcare appointment 
 
 ### 2019-03-21 (Thu):
 
