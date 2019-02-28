@@ -1,15 +1,5 @@
 all times central
 
-### 2019-02-27 (Wed):
-
-* 04:00 - 06:00: Professional Appointment
-* 06:00 - 07:30: Professional Appointment
-* 07:30 - 09:30: Professional Appointment
-* 09:30 - 10:30: Professional Appointment
-* 13:00 - 14:00: Professional Appointment
-* 15:00 - 17:00: Professional Appointment
-* 16:00 - 17:00: Professional Appointment
-
 ### 2019-02-28 (Thu):
 
 * 04:00 - 06:00: Professional Appointment
@@ -575,3 +565,10 @@ all times central
 ### 2019-06-02 (Sun):
 
 * 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-06-03 (Mon):
+
+* Eid al-Fitr
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
+* 15:00 - 16:00: Professional Appointment
