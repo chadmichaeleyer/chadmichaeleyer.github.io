@@ -1,16 +1,5 @@
 all times central
 
-### 2019-02-28 (Thu):
-
-* 04:00 - 06:00: Professional Appointment
-* 06:00 - 09:00: Professional Appointment
-* 09:00 - 09:30: Professional Appointment
-* 09:30 - 10:30: Professional Appointment
-* 12:45 - 13:00: Professional Appointment
-* 14:00 - 15:00: Professional Appointment
-* 15:00 - 16:00: Professional Appointment
-* 15:00 - 15:15: Professional Appointment
-
 ### 2019-03-01 (Fri):
 
 * 15:00 - 15:30: Professional Appointment
@@ -577,3 +566,9 @@ all times central
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 15:00 - 16:00: Professional Appointment
+
+### 2019-06-04 (Tue):
+
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
+* 19:30 - 21:30: Karaoke
