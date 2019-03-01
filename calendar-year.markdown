@@ -114,6 +114,7 @@ all times central
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 15:00 - 16:00: Professional Appointment
+* 15:30 - 16:15: mee
 
 ### 2019-03-19 (Tue):
 
