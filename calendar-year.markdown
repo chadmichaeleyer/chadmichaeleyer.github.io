@@ -1,10 +1,5 @@
 all times central
 
-### 2019-03-01 (Fri):
-
-* 15:00 - 15:30: Professional Appointment
-* 15:30 - 16:00: Professional Appointment
-
 ### 2019-03-02 (Sat):
 
 * 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
@@ -573,3 +568,9 @@ all times central
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 19:30 - 21:30: Karaoke
+
+### 2019-06-05 (Wed):
+
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
+* 13:00 - 14:00: Professional Appointment
