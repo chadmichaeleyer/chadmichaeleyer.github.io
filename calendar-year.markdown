@@ -29,6 +29,8 @@ all times central
 * 08:00 - 09:25: PNS»BNA (WN 0158)
 * 10:10 - 12:30: BNA»AUS (WN 5111)
 * 12:00: Personal Appointment
+* 15:00: Personal Appointment
+Home2 Suites by Hilton Austin/Cedar Park]
 
 ### 2019-03-07 (Thu):
 
@@ -47,11 +49,11 @@ all times central
 ### 2019-03-09 (Sat):
 
 * Hotel: SpringHill Suites Austin North/Parmer Lane
-* 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
-* 08:30 - 10:00: Office Time (Library Hours)
-* 10:00 - 11:00: Gym
-* 12:45 - 15:05: AUS»HOU (WN 5696)
-* 13:30 - 15:30: Pensacola Symphony Orchestra
+* 12:00: Personal Appointment
+* 12:00: Personal Appointment
+Home2 Suites by Hilton Austin/Cedar Park]
+* 12:45 - 13:45: AUS»HOU (WN 5696)
+* 15:50 - 17:10: HOU»PNS (WN 3850)
 
 ### 2019-03-10 (Sun):
 
