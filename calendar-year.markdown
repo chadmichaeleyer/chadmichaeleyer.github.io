@@ -1,9 +1,5 @@
 all times central
 
-### 2019-03-02 (Sat):
-
-* 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
-
 ### 2019-03-03 (Sun):
 
 * Hotel: SpringHill Suites Austin North/Parmer Lane
@@ -574,3 +570,10 @@ all times central
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 13:00 - 14:00: Professional Appointment
+
+### 2019-06-06 (Thu):
+
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
+* 14:00 - 15:00: Professional Appointment
+* 18:00 - 20:00: WUWF Radio Live
