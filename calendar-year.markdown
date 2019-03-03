@@ -26,6 +26,9 @@ all times central
 ### 2019-03-06 (Wed):
 
 * Hotel: SpringHill Suites Austin North/Parmer Lane
+* 08:00 - 09:25: PNS»BNA (WN 0158)
+* 10:10 - 12:30: BNA»AUS (WN 5111)
+* 12:00: Personal Appointment
 
 ### 2019-03-07 (Thu):
 
@@ -47,6 +50,7 @@ all times central
 * 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
 * 08:30 - 10:00: Office Time (Library Hours)
 * 10:00 - 11:00: Gym
+* 12:45 - 15:05: AUS»HOU (WN 5696)
 * 13:30 - 15:30: Pensacola Symphony Orchestra
 
 ### 2019-03-10 (Sun):
