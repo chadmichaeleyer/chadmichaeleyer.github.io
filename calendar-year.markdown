@@ -1,11 +1,5 @@
 all times central
 
-### 2019-03-03 (Sun):
-
-* Hotel: SpringHill Suites Austin North/Parmer Lane
-* 06:30: Hertz Rental Pickup: H90927257E4
-* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
-
 ### 2019-03-04 (Mon):
 
 * Hotel: SpringHill Suites Austin North/Parmer Lane
@@ -583,3 +577,8 @@ Home2 Suites by Hilton Austin/Cedar Park]
 * 09:30 - 10:30: Professional Appointment
 * 14:00 - 15:00: Professional Appointment
 * 18:00 - 20:00: WUWF Radio Live
+
+### 2019-06-07 (Fri):
+
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
