@@ -2,7 +2,6 @@ all times central
 
 ### 2019-03-04 (Mon):
 
-* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 11:00 - 12:00: Professional Appointment
@@ -10,7 +9,6 @@ all times central
 
 ### 2019-03-05 (Tue):
 
-* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 13:00 - 14:00: Professional Appointment
@@ -19,7 +17,6 @@ all times central
 
 ### 2019-03-06 (Wed):
 
-* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 08:00 - 09:25: PNS»BNA (WN 0158)
 * 10:10 - 12:30: BNA»AUS (WN 5111)
 * 12:00: Personal Appointment
@@ -28,7 +25,6 @@ Home2 Suites by Hilton Austin/Cedar Park]
 
 ### 2019-03-07 (Thu):
 
-* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 13:00 - 13:30: Professional Appointment
@@ -36,13 +32,11 @@ Home2 Suites by Hilton Austin/Cedar Park]
 
 ### 2019-03-08 (Fri):
 
-* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 
 ### 2019-03-09 (Sat):
 
-* Hotel: SpringHill Suites Austin North/Parmer Lane
 * 12:00: Personal Appointment
 * 12:00: Personal Appointment
 Home2 Suites by Hilton Austin/Cedar Park]
