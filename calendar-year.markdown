@@ -1,12 +1,5 @@
 all times central
 
-### 2019-03-04 (Mon):
-
-* 09:00 - 09:30: Professional Appointment
-* 09:30 - 10:30: Professional Appointment
-* 11:00 - 12:00: Professional Appointment
-* 15:00 - 16:00: Professional Appointment
-
 ### 2019-03-05 (Tue):
 
 * 09:00 - 09:30: Professional Appointment
@@ -576,3 +569,7 @@ Home2 Suites by Hilton Austin/Cedar Park]
 
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
+
+### 2019-06-08 (Sat):
+
+* 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
