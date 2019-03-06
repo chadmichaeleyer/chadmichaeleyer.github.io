@@ -1,13 +1,5 @@
 all times central
 
-### 2019-03-05 (Tue):
-
-* 09:00 - 09:30: Professional Appointment
-* 09:30 - 10:30: Professional Appointment
-* 13:00 - 14:00: Professional Appointment
-* 16:00 - 17:00: Help George with class
-* 19:30 - 21:30: Karaoke
-
 ### 2019-03-06 (Wed):
 
 * 08:00 - 09:25: PNS»BNA (WN 0158)
@@ -573,3 +565,7 @@ Home2 Suites by Hilton Austin/Cedar Park]
 ### 2019-06-08 (Sat):
 
 * 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
+
+### 2019-06-09 (Sun):
+
+* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
