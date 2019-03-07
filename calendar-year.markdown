@@ -1,13 +1,5 @@
 all times central
 
-### 2019-03-06 (Wed):
-
-* 08:00 - 09:25: PNS»BNA (WN 0158)
-* 10:10 - 12:30: BNA»AUS (WN 5111)
-* 12:00: Personal Appointment
-* 15:00: Personal Appointment
-Home2 Suites by Hilton Austin/Cedar Park]
-
 ### 2019-03-07 (Thu):
 
 * 09:00 - 09:30: Professional Appointment
@@ -569,3 +561,9 @@ Home2 Suites by Hilton Austin/Cedar Park]
 ### 2019-06-09 (Sun):
 
 * 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-06-10 (Mon):
+
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
+* 15:00 - 16:00: Professional Appointment
