@@ -1,12 +1,5 @@
 all times central
 
-### 2019-03-07 (Thu):
-
-* 09:00 - 09:30: Professional Appointment
-* 09:30 - 10:30: Professional Appointment
-* 13:00 - 13:30: Professional Appointment
-* 14:00 - 15:00: Professional Appointment
-
 ### 2019-03-08 (Fri):
 
 * 09:00 - 09:30: Professional Appointment
@@ -567,3 +560,9 @@ Home2 Suites by Hilton Austin/Cedar Park]
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 15:00 - 16:00: Professional Appointment
+
+### 2019-06-11 (Tue):
+
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
+* 19:00 - 21:00: Stated Communication (Lodge 24)
