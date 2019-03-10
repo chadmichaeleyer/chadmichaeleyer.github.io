@@ -1,14 +1,5 @@
 all times central
 
-### 2019-03-09 (Sat):
-
-* 12:00: Personal Appointment
-* 12:00: Personal Appointment
-Home2 Suites by Hilton Austin/Cedar Park]
-* 12:45 - 13:45: AUS»HOU (WN 5696)
-* 15:50 - 17:10: HOU»PNS (WN 3850)
-* 18:00: Hertz Rental Pickup: H96505250C9
-
 ### 2019-03-10 (Sun):
 
 * Daylight Saving Time
@@ -569,3 +560,9 @@ Home2 Suites by Hilton Austin/Cedar Park]
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 13:00 - 14:00: Professional Appointment
+
+### 2019-06-13 (Thu):
+
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
+* 14:00 - 15:00: Professional Appointment
