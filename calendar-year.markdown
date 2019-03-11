@@ -1,12 +1,5 @@
 all times central
 
-### 2019-03-10 (Sun):
-
-* Daylight Saving Time
-* 06:30: Hertz Rental DropOff: H90927257E4
-* 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
-* 18:00: Hertz Rental DropOff: H96505250C9
-
 ### 2019-03-11 (Mon):
 
 * 09:00 - 09:30: Professional Appointment
@@ -566,3 +559,9 @@ all times central
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
 * 14:00 - 15:00: Professional Appointment
+
+### 2019-06-14 (Fri):
+
+* Flag Day
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
