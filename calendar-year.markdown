@@ -1,11 +1,5 @@
 all times central
 
-### 2019-03-11 (Mon):
-
-* 09:00 - 09:30: Professional Appointment
-* 09:30 - 10:30: Professional Appointment
-* 15:00 - 16:00: Professional Appointment
-
 ### 2019-03-12 (Tue):
 
 * 09:00 - 09:30: Professional Appointment
@@ -565,3 +559,7 @@ all times central
 * Flag Day
 * 09:00 - 09:30: Professional Appointment
 * 09:30 - 10:30: Professional Appointment
+
+### 2019-06-15 (Sat):
+
+* 07:00 - 10:00: Results Processor (Rec Plex North parkrun)
