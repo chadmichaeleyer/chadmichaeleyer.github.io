@@ -1,11 +1,5 @@
 all times central
 
-### 2019-03-13 (Wed):
-
-* 09:00 - 09:30: Professional Appointment
-* 09:30 - 10:30: Professional Appointment
-* 13:00 - 14:00: Professional Appointment
-
 ### 2019-03-14 (Thu):
 
 * 09:00 - 09:30: Professional Appointment
@@ -561,3 +555,9 @@ all times central
 
 * Father’s Day
 * 17:00 - 18:00: Holy Eucharist Rite I (Christ Church)
+
+### 2019-06-17 (Mon):
+
+* 09:00 - 09:30: Professional Appointment
+* 09:30 - 10:30: Professional Appointment
+* 15:00 - 16:00: Professional Appointment
